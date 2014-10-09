@@ -7,8 +7,8 @@ home_page_image:
   - 411
 dsq_thread_id:
   - 880490580
-categories:
-  - "What I'm Watching"
+# category: "What I'm Watching"
+categories: "what-im-watching"
 format: aside
 ---
 On Saturday satire goes toe to toe with punditry when multiple Emmy winner and political comedy guru, Jon Stewart, goes up against Fox&#8217;s noble newsman, Bill O&#8217;Reilly, in a 90 minute debate. The <a href="http://www.youtube.com/watch?v=48Bi9TKESkI" target="_hplink">Rumble in the Air-conditioned Auditorium </a>will live stream for $4.95 on Saturday at 8:00 p.m. with a portion of proceeds going to charity.

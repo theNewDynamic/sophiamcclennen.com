@@ -7,8 +7,8 @@ home_page_image:
   - 451
 dsq_thread_id:
   - 1097042384
-categories:
-  - "What I'm Watching"
+# category: "What I'm Watching"
+categories: "what-im-watching"
 ---
 It is extremely hard to watch the nation convulse over gun control. Those of us concerned with the state of our democracy and with the increasing acceptance of violence as an everyday part of life cringe as we hear the pro-gun rhetoric. We hear that any effort to control guns is tantamount to waging war, to tyranny, and to destroying all of our national values.
 

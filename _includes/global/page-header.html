@@ -1,7 +1,8 @@
 <header class="page-header">
   {% if page.section == 'post' %}
     {% if page.categories %}
-      <h2 class="entry-title">{{ page.categories }}</h2>
+      {% assign category = page.categories %}
+      <h2 class="entry-title">{% for cat in site.category_names %}{% if cat.slug == category[0] %}{{ cat.name }}{% endif %}{% endfor %}
     {% endif %}
    {% elsif page.section == 'book' %}
      <h2 class="entry-title">{{ page.section }}</h2>

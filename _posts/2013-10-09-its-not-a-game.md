@@ -7,8 +7,8 @@ home_page_image:
   - 463
 dsq_thread_id:
   - 1841241316
-categories:
-  - "What I'm Watching"
+# category: "What I'm Watching"
+categories: "what-im-watching"
 ---
 Stephen Colbert does an excellent job of describing the way the game-playing of the shutdown is not a game and not a joke. See the clip here:
 

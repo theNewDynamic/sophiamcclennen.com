@@ -25,6 +25,14 @@ directory_assets_img: /assets/img/
 # options (social)
 # facebook_id:
 twitter_id: budparr
+permalink: /:categories/:title/
+
+category_names:
+  - name: "What I'm Watching"
+    slug: "what-im-watching"
+  - name: "News"
+    slug: "news"
+
 
 sass:
     style: :compressed

@@ -5,8 +5,8 @@ layout: post
 # permalink: /what-im-watching/interview-colbert-news-hub-the-nations-news-leader/
 dsq_thread_id:
   - 780904942
-categories:
-  - "What I'm Watching"
+# category: "What I'm Watching"
+categories: "what-im-watching"
 ---
 Colbert News Hub interviewed me on my latest book, *Colbert&#8217;s America*. Read the full interview [here][1].
 

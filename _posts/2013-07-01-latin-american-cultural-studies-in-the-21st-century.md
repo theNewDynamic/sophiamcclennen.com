@@ -7,8 +7,8 @@ home_page_image:
   - 456
 dsq_thread_id:
   - 1454958602
-categories:
-  - "What I'm Watching"
+# category: "What I'm Watching"
+categories: "what-im-watching"
 ---
 The inaugural issue of *alter/nativas* &#8211;a journal of Latin American Cultural Studies &#8212; is now on-line.  I was honored to be included in the stellar line-up.  Click here to read my piece: [Where is Latin American Culture? From the Location of Culture to the Ethics of Culture][1]
 

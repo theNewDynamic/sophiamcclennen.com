@@ -7,8 +7,8 @@ home_page_image:
   - 423
 dsq_thread_id:
   - 926478083
-categories:
-  - "What I'm Watching"
+# category: "What I'm Watching"
+categories: "what-im-watching"
 ---
 Last week billionaire and notorious &#8220;birther&#8221; Donald Trump claimed that he had a &#8220;bombshell&#8221; that would change the election: he announced that if President Obama would provide him with copies of his college and passport records that he would write a check for $5 million to the charity of Obama&#8217;s choice.
 

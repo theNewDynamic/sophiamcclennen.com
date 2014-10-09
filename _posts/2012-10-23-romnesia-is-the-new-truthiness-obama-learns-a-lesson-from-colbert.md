@@ -7,8 +7,8 @@ home_page_image:
   - 420
 dsq_thread_id:
   - 897508852
-categories:
-  - "What I'm Watching"
+# category: "What I'm Watching"
+categories: "what-im-watching"
 ---
 By now you have probably seen the video where President Obama refers to Romney&#8217;s complete forgetting of his previous political stances as &#8220;Romnesia.&#8221; Obama supporters are finding this wordplay a breath of fresh air in an election that has seemed to stumble, most notoriously with the first round of Presidential debates. After a relatively dull campaign Obama is getting new energy and new life. And he is doing it by following the example of master wordplay satirist, Stephen Colbert.
 

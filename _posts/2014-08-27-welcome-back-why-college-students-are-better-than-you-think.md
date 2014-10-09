@@ -9,8 +9,8 @@ dsq_thread_id:
   - 2963601180
 dsq_needs_sync:
   - 1
-categories:
-  - "What I'm Watching"
+# category: "What I'm Watching"
+categories: "what-im-watching"
 ---
 As we all head back to school it won&#8217;t be long before faculty, students, and parents start to see Facebook posts, media articles, and other memes about how much our students suck. We will hear the typical rants about the student that doesn&#8217;t read the syllabus, buy books, or remember to sign up for classes. In fact, some faculty have already bought &#8220;<a href="https://www.insidehighered.com/news/2013/10/18/t-shirt-many-professors-would-enjoy-wearing" target="_hplink">It&#8217;s in the Syllabus</a>&#8221; T-shirts to proudly wear on their first days.
 

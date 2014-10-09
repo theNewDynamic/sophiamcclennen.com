@@ -7,8 +7,8 @@ home_page_image:
   - 436
 dsq_thread_id:
   - 983276049
-categories:
-  - "What I'm Watching"
+# category: "What I'm Watching"
+categories: "what-im-watching"
 ---
 Watch this Huffington Post Live Segment where I&#8217;m interviewed along with Brian Morgenstern and Chris Tyson on Joseph Dunford&#8217;s appointment to lead US forces in Afghanistan.
 

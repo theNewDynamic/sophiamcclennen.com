@@ -1,0 +1,1 @@
+{% assign category = news.categories %}{% for cat in site.category_names %}{% if cat.slug == category[0] %}{{ cat.name }}{% endif %}{% endfor %}

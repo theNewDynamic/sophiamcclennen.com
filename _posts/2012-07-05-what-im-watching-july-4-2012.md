@@ -7,8 +7,8 @@ home_page_image:
   - 365
 dsq_thread_id:
   - 783774937
-categories:
-  - "What I'm Watching"
+# category: "What I'm Watching"
+categories: "what-im-watching"
 ---
 <!--more-->
 

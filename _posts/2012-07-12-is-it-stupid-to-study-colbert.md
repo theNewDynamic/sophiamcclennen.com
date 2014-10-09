@@ -7,8 +7,8 @@ home_page_image:
   - 375
 dsq_thread_id:
   - 780233280
-categories:
-  - "What I'm Watching"
+# category: "What I'm Watching"
+categories: "what-im-watching"
 ---
 Stephen Colbert just can&#8217;t seem to stop causing trouble. First, he stood not 20 feet from President Bush at the 2006 White House Correspondents&#8217; Dinner and tore down the unpopular president with a mock-laudatory speech that went viral overnight. Then, he ceased merely reporting on the ripples in the pond and started jumping in to make his own ripples when he tried to run for <a href="http://en.wikipedia.org/wiki/Stephen_Colbert_presidential_campaign,_2008" target="_blank">president in South Carolina in 2008</a>, sponsored by Doritos, and later testified before Congress on immigration (2010). Shortly after Glenn Beck drew a modest crowd to the National Mall, he and Jon Stewart drew a much bigger crowd to the <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.huffingtonpost.com%2F2010%2F10%2F30%2Frally-to-restore-sanity-attendance_n_776547.html&sa=D&sntz=1&usg=AFQjCNG7BIO9no3y0reut_ziwAC0ZDJAYw" target="_blank">Rally to Restore Sanity and/or Fear</a> in advance of the 2010 mid-term elections. More recently, he took the unprecedented step of founding his own <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2Ffec-allows-colbert-to-form-super-pac-for-2012-elections%2F2011%2F06%2F30%2FAGxVGBsH_story.html&sa=D&sntz=1&usg=AFQjCNF2YP_E8bHXFRMwI25fcdIdl3uy6A" target="_blank">Political Action Committee</a> (2011), and then undertook a nearly successful effort to use some of the $1.3 million it raised to<a href="http://abcnews.go.com/blogs/politics/2011/12/stephen-colbert-offers-to-buy-south-carolina-primary/" target="_blank">sponsor</a> the Republican primary in South Carolina in 2012.
 

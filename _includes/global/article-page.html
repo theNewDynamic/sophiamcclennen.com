@@ -1,0 +1,21 @@
+<article class="hentry {% if page.class %}{{page.class}}{% endif %}">
+{% comment %}Content Below{% endcomment %}
+  <div class="entry-content prose">
+    {% if page.url contains '/book/' %}
+      <div class="synopsis">
+        {{ content }}
+      </div>
+    {% else %}
+      {{ content }}
+    {% endif %}
+    {% if page.include %}
+      {% include {{page.include}} %}
+    {% endif %}
+  </div>
+  {% if site.include_addthis_sharing %}
+    <div class="sharing">
+      {% include articles/sharing.html %}
+    </div>
+  {% endif %}
+    {% include global/edit.html %}
+</article>

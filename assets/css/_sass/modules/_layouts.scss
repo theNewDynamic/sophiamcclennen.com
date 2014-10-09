@@ -1,0 +1,96 @@
+hr.section-divider {
+  border-top:none;
+  display:block;
+  width:100%;
+  clear:both;
+  margin:0 4em ;
+}
+// aside {
+//   border-top: 4px solid desaturate(darken($base-accent-color, 10), 20);
+// }
+footer .row {
+  width: 80%;
+  margin: auto;
+}
+.row {
+  @include row();
+  @include padding(2em);
+}
+.section-content {
+  margin:auto;
+  @include padding(2em);
+  @include media($normal-screen-up) {
+    width:60%;
+//    margin: 6em auto;
+  }
+}
+
+// primary article layout
+.has-layout {
+  @include outer-container;
+  article, .primary-content, .side-content {
+    @include span-columns(12); //padding, etc in modules/_article
+  }
+  .side-content {
+    @include padding(1.1875em 0 0 0);
+  }
+  @include media($large-screen) {
+    article, .primary-content {
+      @include span-columns(7 of 12);
+      //padding-right: 2em;
+      //margin-bottom: 8em;
+    }
+  .side-content {
+    @include span-columns(4 of 12);
+
+        @include shift(1);
+
+
+
+
+      font-family: $sans-serif;
+      font-size: 90%;
+      ul {
+        margin: 0;
+      }
+      li {
+        margin-bottom: 1em;
+        list-style-type: none;
+
+      }
+      aside.sidebar-item {
+        background-color: $beige;
+        @include padding(2em);
+        margin-bottom: 2em;
+      }
+    }
+    .book-meta {
+       @include shift(0);
+    }
+  }
+}
+
+
+.book-page-cover {
+  width: 100%;
+  position: static;
+  clear: both;
+  @include media($xlarge-screen-up) {
+    width:300px;
+    position:absolute;
+    top:125px;
+    right:250px;
+  }
+}
+@include media($xlarge-screen-up) {
+  .synopsis {
+    margin-right:120px;
+  }
+}
+ul.inline {
+  margin: 3em 0 2em 0;
+}
+ul.inline li {
+  display:inline-block;
+  margin-right: 2em;
+}

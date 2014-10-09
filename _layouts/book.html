@@ -1,0 +1,25 @@
+---
+layout: default
+section: book
+---
+<div class="has-layout">
+
+{% include global/page-header.html %}
+
+
+
+  <section class="side-content book-meta">
+    {% include books/cover.html %}
+    {% include books/meta.html %}
+    {% comment %}
+    <!-- {% include books/meta.html %} -->
+    <!-- {% include books/buy_links.html %} -->
+    {% endcomment %}
+  </section>
+  <section class="primary-content">
+    {% include books/title.html %}
+    {{ page.content }}
+  </section>
+
+
+</div>

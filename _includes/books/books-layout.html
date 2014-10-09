@@ -1,0 +1,15 @@
+
+      {% comment %}
+      <div class="row">
+        {% include books/related-review.html show="1" %}
+      </div>
+      {% endcomment %}
+      <aside>
+        {% include books/cover.html %}
+        {% include books/meta.html %}
+        {% include books/buy_links.html %}
+      </aside>
+      <section>
+        {% include books/title.html %}
+        {{ page.content }}
+      </section>

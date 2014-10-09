@@ -1,0 +1,8 @@
+---
+layout: default
+section: home
+class: home
+---
+    {% for post in site.posts  limit: 1 %}
+      {{title}}<br />
+    {% endfor %}

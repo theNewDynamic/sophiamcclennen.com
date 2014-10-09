@@ -1,0 +1,37 @@
+// This module may be incompatible with sidebar-right
+
+$splash-height: 400px !default;
+$splash-color: #999 !default;
+$splash-color-background:#DDD !default;
+
+
+.splash {
+	//margin-top: $navigation-height * -1;
+	height: $splash-height;
+	overflow: visible;
+	display: none;
+	background-position:50% 50%;
+
+		@include media($d-vp) {
+			display: block;
+			//The following items fix our image so that we can use 
+			// the parallax effect//dependency for the parallax effect
+			position: fixed;
+			top:0;
+			left:0;
+			z-index: -1;
+		}
+		
+		max-height:$splash-height;
+		width: 100%;
+		background-color: $splash-color-background;
+}
+
+.content_splash {
+		margin-top: 0;
+		background-color: white;
+
+			@include media($d-vp) {
+				margin-top: $splash-height;
+		}
+}

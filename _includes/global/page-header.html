@@ -1,0 +1,14 @@
+<header class="page-header">
+  {% if page.section == 'post' %}
+    {% if page.categories %}
+      <h2 class="entry-title">{{ page.categories }}</h2>
+    {% endif %}
+  {% else %}
+    {% if page.title %}
+      <h2 class="entry-title">{{page.title | markdownify | remove: '<p>' | remove: '</p>'  }}</h2>
+    {% endif %}
+    {% if page.subtitle %}
+      <h2>{{page.subtitle}}</h2>
+    {% endif %}
+  {% endif %}
+</header>

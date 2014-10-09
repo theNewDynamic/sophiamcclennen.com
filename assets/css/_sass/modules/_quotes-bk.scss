@@ -1,0 +1,178 @@
+body.splash #container-review-single {
+  display:none;
+}
+//From Jason's talk...
+
+/* Blockquote styles */
+// #container-review-single, blockquote.pull_quote {
+//   font-size: .9em;
+// }
+
+blockquote.long_quote, blockquote.long_quote p {
+  //width: 86.440678%; /* 510px / 590px = 86.440678% */
+  margin: 0 auto 1em auto;
+  font-size: 1.2rem;
+  line-height: 1.4em;
+  //font-family: "SabonNextW04-DisplayIta", Georgia, "Times New Roman";
+  font-family: $serif;
+  font-style: normal;
+  font-weight: 500;
+  position: relative;
+  //display: inline;
+}
+
+blockquote.long_quote:before {
+  content: "\201C";
+  font-size: 2rem;
+  //color: #9f9f9f;
+  position: relative;
+  top: 1em;
+  left: -0.55em;
+  margin-right:-0.375em;
+display:inline;
+}
+
+
+
+blockquote.long_quote:after {
+  content: "\201D";
+  font-size: 2rem;
+  //color: #9f9f9f;
+  position: relative;
+  //bottom: -2.75em;
+  right: 0;
+  top: .375em;
+    line-height: .2em;
+//    display:inline;
+}
+#container-review-single p, blockquote.pull_quote, blockquote.pull_quote p, .aside_quote {
+  //width: 86.440678%; /* 510px / 590px = 86.440678% */
+  margin: 0 auto 1em auto;
+  font-size: 1.5rem;
+  line-height: 1.4em;
+  //font-family: "SabonNextW04-DisplayIta", Georgia, "Times New Roman";
+  font-family: $serif;
+  font-style: normal;
+  font-weight: 500;
+  position: relative;
+  //display: inline;
+}
+
+#container-review-single p:before, blockquote.pull_quote:before {
+  content: "\201C";
+  font-size: 2rem;
+  //color: #9f9f9f;
+  position: relative;
+  //top: 1em;
+  left: -0.55em;
+  margin-right:-0.5em;
+display:inline;
+}
+
+#container-review-single p:after, blockquote.pull_quote:after{
+  content: "\201D";
+  font-size: 2rem;
+  //color: #9f9f9f;
+  position: relative;
+  //bottom: -2.75em;
+  right: 0;
+    line-height: .2em;
+//    display:inline;
+}
+
+blockquote.pull_quote p:last-child, blockquote.long_quote p:last-child  {
+  display: inline;
+}
+
+blockquote.pull_quote  p:last-child {
+  //margin-bottom:-20px;
+}
+
+blockquote.long_quote p:only-child  {
+  position:relative;
+  //color: red;
+  display: block;
+  top: -.125em;
+}
+
+
+.pull_quote_attribution {
+  margin-left: 1.25em;
+}
+
+
+
+.content blockquote.review {
+  //width:60%;
+  text-align: center;
+  margin: 5em auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+blockquote {
+  //@extend .as-heading__normal;
+  //padding: 2em;
+  //color: lighten($base-color, 18%);
+  border: none;
+}
+
+////  QUOTES
+
+.quote, .quotes p {
+  font-size: $base-font-size * 1.6;
+  line-height: 1.5;
+  font-family: $serif;
+}
+
+// .hero-inner blockquote {
+
+//  color: lighten($gv-hero-background-color, 65%);
+// }
+
+// .hero-inner a {
+//                          color: lighten($gv-hero-background-color, 30%);
+// }
+
+
+// .sidebar-quote, .sidebar-quote p {
+//   font-size: @base-font-size * 1.2;
+//   margin-bottom: 4px;
+// }
+// .quotes p.post-meta, .post-meta p{
+//   color: #999;
+//   font-size: 70%;
+//   margin: 0;
+//   font-family: @font-family-sans-serif;
+//   margin-bottom: 4em;
+// }
+
+// .quotes .post-meta p{
+//   color: #999;
+//   font-size: 90%;
+//   margin: 0;
+//   font-family: @font-family-sans-serif;
+//   margin-bottom: 4em;
+// }
+
+// .sidebar-quote p.post-meta {
+//   font-size: 68%;
+//   color: lighten( @gray-dark,8% );
+// }
+//.quotes p.post-meta:before, .quotes .post-meta p:before {
+//  content:"— ";
+//}
+
+// blockquote.review p {display:inline;}
+// //This is not optimal, inline could cause problems, but need this to make mdash stay on line with the source.
+// blockquote.review .quote p:before {content:'“';}
+// blockquote.review .quote p:after {content:'”';}

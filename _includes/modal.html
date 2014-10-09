@@ -1,0 +1,29 @@
+{% comment %}
+<div class="modal">
+  <label for="modal-1">
+    <button class="js-btn">Buy</button>
+  </label>
+  <input class="modal-state" id="modal-1" type="checkbox" />
+  <div class="modal-window">
+    <div class="modal-inner">
+      <label class="modal-close" for="modal-1"></label>
+      {% include buy-links.html %}
+    </div>
+  </div>
+</div>
+{% endcomment %}
+
+<div class="modal">
+  <label for="modal-1">
+    <div class="btn js-btn">
+    {{ include.text }}
+    </div>
+  </label>
+  <input class="modal-state" id="modal-1" type="checkbox" />
+  <div class="modal-window">
+    <div class="modal-inner">
+      <label class="modal-close" for="modal-1"></label>
+        {% include books/buy-links.html %}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,19 @@
+{% include global/head.html %}
+<body{% if page.section %} id="{{ page.section}}" {% endif %}class="{% if page.collection %} {{ page.collection }}{% endif %}{% if page.class %} {{ page.class }}{% endif %}">
+  <div class="wrapper">
+      {% include global/nav-top.html %}
+      {% if page.class == 'home' || page.class == 'books' %}
+        {% include global/hero.html %}
+      {% endif %}
+    <div class="{% if page.splash_image %}content_splash{% endif %}">
+      <section class="content">
+        {{content}}
+      </section>
+    {% comment %}  {% include nav/nav-side-right.html %}{% endcomment %}
+  </div>
+</div>
+{% include global/footer.html %}
+{% include global/scripts.html %}
+</body>
+</html>
+

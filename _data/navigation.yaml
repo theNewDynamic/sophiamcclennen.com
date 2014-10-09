@@ -1,0 +1,17 @@
+- name: Home
+  slug: /
+
+- name: About
+  slug: /about/
+
+- name: News
+  slug: /news/
+
+- name: Academics
+  slug: /teaching/
+
+- name: Books
+  slug: /books/
+
+- name: Writing
+  slug: /writing/

@@ -1,0 +1,59 @@
+url:
+sitename: 'Sophia A. McClennen'
+description: 'Official author site'
+# do not include  https://github.com/...
+#Pages - store all pages in the _pages directory
+include: ['_pages']
+
+exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md', 'prose.yaml']
+
+# dev options (true/false)
+# if site is in production, 'production: true'
+production: false
+bust_css_cache: true
+
+
+# options (data)
+google_analytics_id: UA-xxxx
+disqus_id:
+addthis_id: ra-5434c4d85c06c266
+
+# CONTACT FORM http://getsimpleform.com/
+simple_form_api_token:
+directory_assets_img: /assets/img/
+
+# options (social)
+# facebook_id:
+twitter_id: budparr
+
+sass:
+    style: :compressed
+    sass_dir: assets/css/_sass
+
+collections:
+  books:
+    output: true
+    permalink: /book/:path/
+  reviews:
+    output: false
+  writing:
+    output: false
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+      type: "post" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "books" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "book"

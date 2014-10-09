@@ -1,0 +1,15 @@
+
+  {% for news in site.posts %}
+    <h2 class="post-title"><a href="{{ news.url }}">{{ news.title }}</a></h2>
+    {% if news.date %}
+    <time class='date' datetime="{{ news.date | date:'%Y-%m-%d' }}">
+        <small>
+          {{ news.date | date:'%A %b %d, %Y' }}
+        </small>
+      </time>
+    {% endif %}
+    {{ news.excerpt }}
+
+
+<hr class="clearing" />
+  {% endfor %}

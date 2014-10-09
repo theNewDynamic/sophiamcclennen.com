@@ -2,7 +2,7 @@
 {% assign posts = site.categories[segment_1] %}
 {% for news in posts %}
 {% comment %}<h6>{% include category-names.html %}</h6>{% endcomment %}
-  <h2 class="post-title"><a href="{{ news.url }}">{{ news.title }}</a></h2>
+  <h2 class="post-title"><a href="{{ news.url }}">{{ news.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
   {% if news.date %}
     <time class='date' datetime="{{ news.date | date:'%Y-%m-%d' }}">
       <small>
@@ -10,6 +10,6 @@
       </small>
     </time>
   {% endif %}
-  {{ news.excerpt }}
+  {{ news.content }}
   <hr class="clearing" />
 {% endfor %}

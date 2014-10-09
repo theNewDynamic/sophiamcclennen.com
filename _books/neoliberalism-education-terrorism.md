@@ -2,6 +2,7 @@
 title: Neoliberalism, Education, Terrorism
 date: 2012-06-13 12:00:00
 cover_image: neoliberalism-education-terrorism.jpg
+category: trade
 publisher:
   - Paradigm Publishers
 isbn:
@@ -9,11 +10,11 @@ isbn:
 isbn_10:
   - 1612050395
 isbn_digital:
-  - 
+  -
 isbn_kindle:
-  - 
+  -
 meta_data:
-  - 
+  -
 subtitle:
   - Contemporary Dialogues
 short_description:

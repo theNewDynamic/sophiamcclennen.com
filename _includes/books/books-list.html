@@ -1,5 +1,7 @@
-{% for book in site.books %}
-	<a href="{{book.url}}" style="height:180px;float:left;margin-right:22px;">
-		<img src="/assets/img/{{book.cover_image}}" style="max-width:100px;height:152px;" class="image-shadow">
+{% assign books = site.books | where: 'category', 'trade' | sort: 'date' %}
+
+{% for book in books limit: 3 offset: 2 %}
+	<a href="{{book.url}}" class="cover-transform-{{ forloop.index }}">
+		<img src="/assets/img/{{book.cover_image}}" class="book-cover">
 	</a>
 {% endfor  %}

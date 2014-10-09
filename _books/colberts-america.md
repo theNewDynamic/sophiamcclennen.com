@@ -2,6 +2,7 @@
 title: 'Colbert&#8217;s America'
 date: 2012-07-03 12:00:00
 cover_image: colberts-america.jpg
+category: trade
 publisher:
 - Palgrave Macmillan
 isbn: 9781137014726

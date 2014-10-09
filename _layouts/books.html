@@ -2,12 +2,17 @@
 layout: default
 section: books
 ---
-{% assign books = site.books | sort: 'date' | reverse %}
+{% assign books_grouped = site.books | group_by: 'category' | sort: 'name' | reverse %}
 
 <div class="has-layout">
   {% include global/page-header.html %}
 
-{% for page in books  %}
+{% for book_group in books_grouped %}
+
+  {% assign books = book_group.items | sort: 'date' | reverse %}
+
+
+  {% for page in books  %}
   <section class="side-content book-meta">
     {% include books/cover.html %}
     <div class="book-meta-data">
@@ -28,5 +33,5 @@ section: books
   </section>
   <hr style="width: 100%;margin:8em auto;" />
 {% endfor %}
-
+{% endfor %}
 </div>

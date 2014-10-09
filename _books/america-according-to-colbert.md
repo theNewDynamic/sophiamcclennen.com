@@ -2,6 +2,7 @@
 title: America According to Colbert
 date: 2011-11-08 12:00:00
 cover_image: america-according-to-colbert.jpg
+category: trade
 publisher:
   - Palgrave Macmillan
 isbn:
@@ -9,11 +10,11 @@ isbn:
 isbn_10:
   - 0230104665
 isbn_digital:
-  - 
+  -
 isbn_kindle:
-  - 
+  -
 meta_data:
-  - 
+  -
 subtitle:
   - Satire as Public Pedagogy
 short_description:

@@ -32,7 +32,7 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: $base-font-size * 1.75; // 16 * 1.75 = 28px
-
+  margin-bottom: 1em;
 }
 
 article h3:not(:first-child) {
@@ -53,6 +53,9 @@ h6, .h6{
 
 p{
   margin: 0 0 ($base-line-height * .5);
+}
+.lead {
+  font-size: $lead-font-size;
 }
 
 a {

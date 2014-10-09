@@ -2,6 +2,7 @@
 title: Ariel Dorfman
 date: 2010-01-18 12:00:00
 cover_image: ariel-dorfman.jpg
+category: academic
 publisher:
   - Duke University Press
 isbn:
@@ -9,11 +10,11 @@ isbn:
 isbn_10:
   - 0822346044
 isbn_digital:
-  - 
+  -
 isbn_kindle:
-  - 
+  -
 meta_data:
-  - 
+  -
 subtitle:
   - An Aesthetics of Hope
 short_description:

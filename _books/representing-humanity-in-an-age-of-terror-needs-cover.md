@@ -2,6 +2,7 @@
 title: Representing Humanity in an Age of Terror
 date: 2010-10-05 12:00:00
 cover_image: representing-humanity-in-an-age-of-terror-needs-cover.jpg
+category: academic
 publisher:
   - Purdue University Press
 isbn:
@@ -9,11 +10,11 @@ isbn:
 isbn_10:
   - 9781557535689
 isbn_digital:
-  - 
+  -
 isbn_kindle:
-  - 
+  -
 meta_data:
-  - 
+  -
 subtitle:
   - Comparative Cultural Studies
 short_description:

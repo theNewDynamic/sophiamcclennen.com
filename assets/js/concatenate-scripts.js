@@ -1,6 +1,7 @@
 ---
 layout: null
 ---
+{% comment %}
 {% include _bower_components/jquery/dist/jquery.min.js %}
 
 $(document).ready(function() {
@@ -17,3 +18,4 @@ $(document).ready(function() {
     });
   });
 });
+{% endcomment %}

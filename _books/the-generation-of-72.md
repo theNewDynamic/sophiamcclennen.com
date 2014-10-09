@@ -2,6 +2,7 @@
 title: 'The Generation of &#8217;72'
 date: 2014-07-16 12:00:00
 cover_image: the-generation-of-72.jpg
+category: trade
 publisher:
   - Editorial A Contracorriente (November 23, 2013)
 isbn:
@@ -11,11 +12,11 @@ isbn_10:
 sm_show_books_buy_button:
   - 0
 isbn_digital:
-  - 
+  -
 isbn_kindle:
-  - 
+  -
 meta_data:
-  - 
+  -
 subtitle:
   - "Latin America's Forced Global Citizens"
 ---

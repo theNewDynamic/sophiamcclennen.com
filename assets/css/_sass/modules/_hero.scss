@@ -1,7 +1,7 @@
 .hero {
-  $hero-background-top:$base-background-color;// darken($base-accent-color, 25);
+  $hero-background-top:$beige;//$base-background-color;// darken($base-accent-color, 25);
   $hero-background-bottom: adjust-hue($hero-background-top, -70);
-  $hero-color: white;
+  $hero-color: $dark-gray;
   $gradient-angle: 10deg;
   // $hero-image: 'https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
 
@@ -11,6 +11,7 @@
   // background-position: top;
   // background-size: cover;
   // padding-bottom: 4em;
+  background-color: $beige;
 
   .hero-logo img {
     height: 3em;
@@ -20,10 +21,17 @@
   .hero-inner {
     @include outer-container;
     @include clearfix;
-    padding: 3em;
+    padding: 4em 0;
     margin: auto;
     text-align: center;
     color: $hero-color;
+
+    .left-column, .hero-copy {
+      @include span-columns(12); //padding, etc in modules/_article
+      @include media($medium-screen-up) {
+        @include span-columns(6 of 12); //padding, etc in modules/_article
+      }
+    }
 
     button {
       @include button(simple, $base-background-color);
@@ -32,29 +40,67 @@
     }
 
     .hero-copy {
-      text-align: center;
+      //text-align: center;
 
+    padding: 2%;
       h1 {
         font-size: 1.6em;
         margin-bottom: .5em;
 
         @include media($large-screen) {
-          font-size: 1.8em;
+          font-size: 2em;
         }
       }
 
       p {
-        font-family: $serif;
+        //font-family: $serif;
+        font-family: $header-font-family;
         margin: auto;
         margin-bottom: 3em;
         font-weight: 200;
         line-height: 1.4em;
 
         @include media($large-screen) {
-          font-size: 1.1em;
-          max-width: 40%;
+          font-size: 1.125em;
+          max-width: 87%;
+
         }
       }
     }
   }
 }
+
+// Book cover effect in hero
+
+
+.cover-transform-1 img, .cover-transform-2 img, .cover-transform-3 img {
+  height: 235px;
+}
+
+.cover-transform-1 img {
+  -moz-transform: scale(0.95) rotate(-4deg);
+-webkit-transform: scale(0.95) rotate(-4deg);
+-o-transform: scale(0.95) rotate(-4deg);
+-ms-transform: scale(0.95) rotate(-4deg);
+transform: scale(0.95) rotate(-4deg);
+}
+
+.cover-transform-2 img {
+  margin-left: -2em;
+  -moz-transform: scale(1) rotate(-1deg);
+-webkit-transform: scale(1) rotate(-1deg);
+-o-transform: scale(1) rotate(-1deg);
+-ms-transform: scale(1) rotate(-1deg);
+transform: scale(1) rotate(-1deg);
+}
+
+
+.cover-transform-3 img {
+  margin-left: -2em;
+  -moz-transform: scale(1.05) rotate(4deg);
+-webkit-transform: scale(1.05) rotate(4deg);
+-o-transform: scale(1.05) rotate(4deg);
+-ms-transform: scale(1.05) rotate(4deg);
+transform: scale(1.05) rotate(4deg);
+}
+

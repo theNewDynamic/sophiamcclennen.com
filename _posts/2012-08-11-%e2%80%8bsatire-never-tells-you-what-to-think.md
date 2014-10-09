@@ -2,7 +2,7 @@
 title: '​&#8221;Satire never tells you what to think.&#8221;'
 author: Sophia McClennen
 layout: post
-permalink: /news/%e2%80%8bsatire-never-tells-you-what-to-think/
+# permalink: /news/%e2%80%8bsatire-never-tells-you-what-to-think/
 dsq_thread_id:
   - 801619700
 categories:

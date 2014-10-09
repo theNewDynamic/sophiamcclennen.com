@@ -2,7 +2,7 @@
 title: Studying Stephen Colbert. Seriously, Funny
 author: Sophia McClennen
 layout: post
-permalink: /news/studying-stephen-colbert-seriously-funny/
+# permalink: /news/studying-stephen-colbert-seriously-funny/
 dsq_thread_id:
   - 780596645
 categories:

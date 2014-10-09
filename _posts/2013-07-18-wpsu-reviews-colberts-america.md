@@ -2,7 +2,7 @@
 title: 'WPSU Reviews Colbert&#8217;s America'
 author: Sophia McClennen
 layout: post
-permalink: /news/wpsu-reviews-colberts-america/
+# permalink: /news/wpsu-reviews-colberts-america/
 dsq_thread_id:
   - 1510246603
 categories:

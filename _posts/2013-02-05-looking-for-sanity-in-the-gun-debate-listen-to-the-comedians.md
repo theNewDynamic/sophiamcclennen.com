@@ -2,7 +2,7 @@
 title: Looking for Sanity in the Gun Debate? Listen to the Comedians
 author: Sophia McClennen
 layout: post
-permalink: /what-im-watching/looking-for-sanity-in-the-gun-debate-listen-to-the-comedians/
+# permalink: /what-im-watching/looking-for-sanity-in-the-gun-debate-listen-to-the-comedians/
 home_page_image:
   - 451
 dsq_thread_id:

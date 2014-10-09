@@ -2,7 +2,7 @@
 title: Is Colbert saving US democracy?
 author: Sophia McClennen
 layout: post
-permalink: /news/is-colbert-saving-us-democracy/
+# permalink: /news/is-colbert-saving-us-democracy/
 dsq_thread_id:
   - 983266231
 categories:

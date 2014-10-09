@@ -2,7 +2,7 @@
 title: 'Stephen Colbert &#8220;makes political participation enjoyable.&#8221;'
 author: Sophia McClennen
 layout: post
-permalink: /news/stephen-colbert-makes-political-particaption-enjoyable/
+# permalink: /news/stephen-colbert-makes-political-particaption-enjoyable/
 dsq_thread_id:
   - 851052990
 categories:

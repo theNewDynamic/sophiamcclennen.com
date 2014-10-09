@@ -2,7 +2,7 @@
 title: Welcome Back! Why College Students Are Better Than You Think
 author: Sophia McClennen
 layout: post
-permalink: /what-im-watching/welcome-back-why-college-students-are-better-than-you-think/
+# permalink: /what-im-watching/welcome-back-why-college-students-are-better-than-you-think/
 home_page_image:
   - 490
 dsq_thread_id:

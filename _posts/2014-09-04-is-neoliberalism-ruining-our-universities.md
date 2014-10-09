@@ -2,7 +2,7 @@
 title: Is neoliberalism ruining our universities?
 author: Sophia McClennen
 layout: post
-permalink: /news/is-neoliberalism-ruining-our-universities/
+# permalink: /news/is-neoliberalism-ruining-our-universities/
 dsq_thread_id:
   - 3003062300
 categories:

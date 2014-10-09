@@ -1,5 +1,7 @@
+{% assign writings = site.writing | sort: 'date' | reverse %}
 
-  {% for item in site.writing | sort: 'date' | reverse %}
+
+  {% for item in writings %}
     <h2 class="h5 post-title">“{{ item.title }}”</h2>
 
 
@@ -20,5 +22,5 @@
       </time>
     {% endif %}
 
-<hr class="clearing" />
+<hr style="margin-bottom:2em;" />
   {% endfor %}

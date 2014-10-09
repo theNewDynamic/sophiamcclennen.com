@@ -2,7 +2,7 @@
 title: Academe Reviews My New Co-Authored Book
 author: Sophia McClennen
 layout: post
-permalink: /news/academe-reviews-my-new-co-authored-book/
+# permalink: /news/academe-reviews-my-new-co-authored-book/
 dsq_thread_id:
   - 2699831731
 categories:

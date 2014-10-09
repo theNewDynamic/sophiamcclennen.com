@@ -16,9 +16,9 @@ ol {
   list-style-type: none;
 
     list-style-type: decimal;
-    margin-bottom: $base-line-height / 2;
+    margin-bottom: $base-line-height * 2;
     padding-left: $base-line-height;
-    margin-left: 1.5em;
+    margin-left: 2.5em;
 }
 
 ul li, ol li {

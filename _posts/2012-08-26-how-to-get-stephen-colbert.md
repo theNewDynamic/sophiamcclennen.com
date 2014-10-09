@@ -2,7 +2,7 @@
 title: How to Get Stephen Colbert
 author: Sophia McClennen
 layout: post
-permalink: /news/how-to-get-stephen-colbert/
+# permalink: /news/how-to-get-stephen-colbert/
 dsq_thread_id:
   - 819486672
 categories:

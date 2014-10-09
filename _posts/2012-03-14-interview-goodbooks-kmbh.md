@@ -2,7 +2,7 @@
 title: 'Interview: Goodbooks, KMBH'
 author: Sophia McClennen
 layout: post
-permalink: /news/interview-goodbooks-kmbh/
+# permalink: /news/interview-goodbooks-kmbh/
 dsq_thread_id:
   - 796082872
 categories:

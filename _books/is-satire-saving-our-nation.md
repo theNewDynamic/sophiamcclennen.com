@@ -1,7 +1,7 @@
 ---
 title: "Is Satire Saving Our Nation?"
 subtitle: "Mockery and American Politics"
-date: 2014-07-16 12:00:00
+date: 2014-07-16 12:00:01
 layout: book
 cover_image: is-satire-saving-our-nation.jpg
 category:

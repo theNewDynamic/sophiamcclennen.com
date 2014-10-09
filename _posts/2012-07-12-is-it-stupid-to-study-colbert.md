@@ -2,7 +2,7 @@
 title: Is it Stupid to Study Colbert?
 author: Sophia McClennen
 layout: post
-permalink: /what-im-watching/is-it-stupid-to-study-colbert/
+# permalink: /what-im-watching/is-it-stupid-to-study-colbert/
 home_page_image:
   - 375
 dsq_thread_id:

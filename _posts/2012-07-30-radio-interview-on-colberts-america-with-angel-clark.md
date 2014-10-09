@@ -2,7 +2,7 @@
 title: 'Radio interview on Colbert&#8217;s America with Angel Clark'
 author: Sophia McClennen
 layout: post
-permalink: /news/radio-interview-on-colberts-america-with-angel-clark/
+# permalink: /news/radio-interview-on-colberts-america-with-angel-clark/
 dsq_thread_id:
   - 786119717
 categories:

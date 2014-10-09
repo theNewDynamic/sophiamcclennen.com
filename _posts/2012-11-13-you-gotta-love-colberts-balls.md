@@ -2,7 +2,7 @@
 title: 'You Gotta Love Colbert&#8217;s Balls'
 author: Sophia McClennen
 layout: post
-permalink: /what-im-watching/you-gotta-love-colberts-balls/
+# permalink: /what-im-watching/you-gotta-love-colberts-balls/
 home_page_image:
   - 423
 dsq_thread_id:

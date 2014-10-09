@@ -2,7 +2,7 @@
 title: 'Canada Covers Colbert&#8217;s America'
 author: Sophia McClennen
 layout: post
-permalink: /news/canada-covers-colberts-america/
+# permalink: /news/canada-covers-colberts-america/
 dsq_thread_id:
   - 897487944
 categories:

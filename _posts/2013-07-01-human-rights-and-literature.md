@@ -2,7 +2,7 @@
 title: Human Rights and Literature
 author: Sophia McClennen
 layout: post
-permalink: /news/human-rights-and-literature/
+# permalink: /news/human-rights-and-literature/
 dsq_thread_id:
   - 1456222914
 dsq_needs_sync:

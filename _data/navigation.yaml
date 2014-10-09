@@ -1,6 +1,3 @@
-- name: Home
-  slug: /
-
 - name: About
   slug: /about/
 
@@ -9,6 +6,9 @@
 
 - name: Academics
   slug: /teaching/
+
+- name: Academic Publications
+  slug: /academic-publications/
 
 - name: Books
   slug: /books/

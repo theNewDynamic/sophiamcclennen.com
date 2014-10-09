@@ -2,7 +2,7 @@
 title: Will Dunford Help Afghanistan?
 author: Sophia McClennen
 layout: post
-permalink: /what-im-watching/will-dunford-help-afghanistan/
+# permalink: /what-im-watching/will-dunford-help-afghanistan/
 home_page_image:
   - 436
 dsq_thread_id:

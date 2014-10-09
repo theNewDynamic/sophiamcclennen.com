@@ -2,7 +2,7 @@
 title: Satire has influence in politics
 author: Sophia McClennen
 layout: post
-permalink: /news/satires-has-influence-in-politics/
+# permalink: /news/satires-has-influence-in-politics/
 dsq_thread_id:
   - 832356010
 categories:

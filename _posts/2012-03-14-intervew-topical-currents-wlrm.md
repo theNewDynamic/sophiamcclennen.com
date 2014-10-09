@@ -2,7 +2,7 @@
 title: 'Interview: Topical Currents, WLRM'
 author: Sophia McClennen
 layout: post
-permalink: /news/intervew-topical-currents-wlrm/
+# permalink: /news/intervew-topical-currents-wlrm/
 dsq_thread_id:
   - 782445576
 categories:

@@ -2,7 +2,7 @@
 title: 'Interview: WBAL News'
 author: Sophia McClennen
 layout: post
-permalink: /news/interview-wbal-news/
+# permalink: /news/interview-wbal-news/
 dsq_thread_id:
   - 780211095
 categories:

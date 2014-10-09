@@ -2,7 +2,7 @@
 title: New Book Contract!
 author: Sophia McClennen
 layout: post
-permalink: /news/new-book-contract/
+# permalink: /news/new-book-contract/
 dsq_thread_id:
   - 1841158485
 categories:

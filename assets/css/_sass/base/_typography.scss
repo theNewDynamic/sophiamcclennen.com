@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $header-font-family;
   line-height: $header-line-height;
   margin: 0;
-  //margin-bottom: .75em;
+  margin-bottom: $unitless-line-height;
   text-rendering: optimizeLegibility; // Fix the character spacing for headings
 }
 
@@ -33,6 +33,10 @@ h2, .h2 {
 h3, .h3 {
   font-size: $base-font-size * 1.75; // 16 * 1.75 = 28px
 
+}
+
+article h3:not(:first-child) {
+  margin-top: 2em;
 }
 
 h4, .h4, h1.summary, .var-narrow .timeline-header .summary {

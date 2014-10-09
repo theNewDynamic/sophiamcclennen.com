@@ -2,7 +2,7 @@
 title: Book cover!
 author: Sophia McClennen
 layout: post
-permalink: /news/book-cover/
+# permalink: /news/book-cover/
 dsq_thread_id:
   - 2849679616
 categories:

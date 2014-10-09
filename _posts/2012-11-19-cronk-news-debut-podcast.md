@@ -2,14 +2,14 @@
 title: Cronk News Debut Podcast!
 author: Sophia McClennen
 layout: post
-permalink: /news/cronk-news-debut-podcast/
+# permalink: /news/cronk-news-debut-podcast/
 enclosure:
   - |
     |
         http://recordings.talkshoe.com/TC-124369/TS-681404.mp3
         27528959
         audio/mpeg
-        
+
 dsq_thread_id:
   - 934672332
 categories:

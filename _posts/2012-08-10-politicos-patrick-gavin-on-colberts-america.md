@@ -2,7 +2,7 @@
 title: Academic Goes Deep on Colbert
 author: Sophia McClennen
 layout: post
-permalink: /news/politicos-patrick-gavin-on-colberts-america/
+# permalink: /news/politicos-patrick-gavin-on-colberts-america/
 dsq_thread_id:
   - 800242162
 categories:

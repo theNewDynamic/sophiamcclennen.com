@@ -2,7 +2,7 @@
 title: Am I a Colbert Coddler?
 author: Sophia McClennen
 layout: post
-permalink: /news/am-i-a-colbert-coddler/
+# permalink: /news/am-i-a-colbert-coddler/
 dsq_thread_id:
   - 782135944
 categories:

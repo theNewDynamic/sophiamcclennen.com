@@ -2,7 +2,7 @@
 title: Comedians Take Bigger Role in Political Scene
 author: Sophia McClennen
 layout: post
-permalink: /news/comedians-take-bigger-role-in-political-scene/
+# permalink: /news/comedians-take-bigger-role-in-political-scene/
 dsq_thread_id:
   - 872665206
 categories:

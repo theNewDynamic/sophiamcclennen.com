@@ -2,7 +2,7 @@
 title: 'Truthinessology: The Stephen Colbert effect becomes an obsession in academia'
 author: Sophia McClennen
 layout: post
-permalink: /news/truthinessology-the-stephen-colbert-effect-becomes-an-obsession-in-academia/
+# permalink: /news/truthinessology-the-stephen-colbert-effect-becomes-an-obsession-in-academia/
 dsq_thread_id:
   - 780207533
 categories:

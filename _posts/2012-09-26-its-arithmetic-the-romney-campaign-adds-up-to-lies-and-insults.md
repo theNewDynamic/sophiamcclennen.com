@@ -2,7 +2,7 @@
 title: 'It&#8217;s Arithmetic: The Romney Campaign Adds Up to Lies and Insults'
 author: Sophia McClennen
 layout: post
-permalink: /what-im-watching/its-arithmetic-the-romney-campaign-adds-up-to-lies-and-insults/
+# permalink: /what-im-watching/its-arithmetic-the-romney-campaign-adds-up-to-lies-and-insults/
 home_page_image:
   - 404
 dsq_thread_id:

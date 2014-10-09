@@ -3,6 +3,8 @@
     {% if page.categories %}
       <h2 class="entry-title">{{ page.categories }}</h2>
     {% endif %}
+   {% elsif page.section == 'book' %}
+     <h2 class="entry-title">{{ page.section }}</h2>
   {% else %}
     {% if page.title %}
       <h2 class="entry-title">{{page.title | markdownify | remove: '<p>' | remove: '</p>'  }}</h2>

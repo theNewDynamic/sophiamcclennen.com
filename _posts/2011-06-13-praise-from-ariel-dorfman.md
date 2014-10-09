@@ -2,7 +2,7 @@
 title: Praise from Ariel Dorfman
 author: Sophia McClennen
 layout: post
-permalink: /news/praise-from-ariel-dorfman/
+# permalink: /news/praise-from-ariel-dorfman/
 dsq_thread_id:
   - 785774068
 categories:

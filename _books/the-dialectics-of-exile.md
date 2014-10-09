@@ -1,7 +1,7 @@
 ---
 title: The Dialectics of Exile
 cover_image: the-dialectics-of-exile.jpg
-date: 20014-02-24 12:00:00
+date: 2014-02-24 12:00:00
 publisher:
   - Purdue University Press
 isbn:

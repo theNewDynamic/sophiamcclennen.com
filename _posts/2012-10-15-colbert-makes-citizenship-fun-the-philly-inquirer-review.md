@@ -2,7 +2,7 @@
 title: 'Colbert Makes Citizenship Fun: The Philly Inquirer Review'
 author: Sophia McClennen
 layout: post
-permalink: /news/colbert-makes-citizenship-fun-the-philly-inquirer-review/
+# permalink: /news/colbert-makes-citizenship-fun-the-philly-inquirer-review/
 dsq_thread_id:
   - 886814253
 categories:

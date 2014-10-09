@@ -2,7 +2,7 @@
 title: 'Truthiness Is Not a Joke: Lying and Loving It at the RNC'
 author: Sophia McClennen
 layout: post
-permalink: /what-im-watching/truthiness-is-not-a-joke-lying-and-loving-it-at-the-rnc/
+# permalink: /what-im-watching/truthiness-is-not-a-joke-lying-and-loving-it-at-the-rnc/
 home_page_image:
   - 394
 dsq_thread_id:

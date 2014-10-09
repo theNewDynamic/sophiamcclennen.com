@@ -2,7 +2,7 @@
 title: 'The Debate You Really Want to Watch: Stewart vs. O&#8217;Reilly'
 author: Sophia McClennen
 layout: post
-permalink: /what-im-watching/the-debate-you-really-want-to-watch-stewart-vs-oreilly/
+# permalink: /what-im-watching/the-debate-you-really-want-to-watch-stewart-vs-oreilly/
 home_page_image:
   - 411
 dsq_thread_id:

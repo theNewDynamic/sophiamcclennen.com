@@ -2,7 +2,7 @@
 title: '&#8220;Democracy, Satire And Stephen Colbert&#8221;'
 author: Sophia McClennen
 layout: post
-permalink: /news/democracy-satire-and-stephen-colbert/
+# permalink: /news/democracy-satire-and-stephen-colbert/
 dsq_thread_id:
   - 829843934
 categories:

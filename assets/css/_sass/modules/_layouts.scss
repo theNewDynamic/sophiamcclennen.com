@@ -27,6 +27,7 @@ footer .row {
 
 // primary article layout
 .has-layout {
+  padding-bottom: 6em;
   @include outer-container;
   article, .primary-content, .side-content {
     @include span-columns(12); //padding, etc in modules/_article
@@ -87,8 +88,14 @@ footer .row {
     margin-right:120px;
   }
 }
+
+.book-meta-data {
+  margin: 3em 0 0 .675em;
+}
 ul.inline {
-  margin: 3em 0 2em 0;
+  max-width: 300px;
+  margin-bottom: 2em;
+  display: block;
 }
 ul.inline li {
   display:inline-block;

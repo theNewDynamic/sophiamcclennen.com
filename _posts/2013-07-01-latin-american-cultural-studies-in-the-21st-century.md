@@ -2,7 +2,7 @@
 title: Latin American Cultural Studies in the 21st Century
 author: Sophia McClennen
 layout: post
-permalink: /what-im-watching/latin-american-cultural-studies-in-the-21st-century/
+# permalink: /what-im-watching/latin-american-cultural-studies-in-the-21st-century/
 home_page_image:
   - 456
 dsq_thread_id:

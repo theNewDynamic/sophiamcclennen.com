@@ -57,3 +57,4 @@ defaults:
       type: "books" # previously `post` in Jekyll 2.2.
     values:
       layout: "book"
+      section: "book"

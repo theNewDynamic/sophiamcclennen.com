@@ -1,5 +1,5 @@
 {% include global/head.html %}
-<body{% if page.section %} id="{{ page.section}}" {% endif %}class="{% if page.collection %} {{ page.collection }}{% endif %}{% if page.class %} {{ page.class }}{% endif %}">
+<body{% if page.section %} id="{{ page.section}}" {% endif %} class="{% if page.collection %} {{ page.collection }}{% endif %}{% if page.class %} {{ page.class }}{% endif %}">
   <div class="wrapper">
       {% include global/nav-top.html %}
       {% if page.class == 'home' || page.class == 'books' %}

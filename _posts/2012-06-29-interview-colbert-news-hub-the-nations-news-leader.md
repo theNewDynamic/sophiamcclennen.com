@@ -2,7 +2,7 @@
 title: 'Interview: Colbert News Hub &#8220;The Nation&#8217;s News Leader&#8221;'
 author: Sophia McClennen
 layout: post
-permalink: /what-im-watching/interview-colbert-news-hub-the-nations-news-leader/
+# permalink: /what-im-watching/interview-colbert-news-hub-the-nations-news-leader/
 dsq_thread_id:
   - 780904942
 categories:

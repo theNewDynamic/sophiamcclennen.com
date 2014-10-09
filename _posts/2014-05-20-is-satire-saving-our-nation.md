@@ -2,7 +2,7 @@
 title: Is Satire Saving Our Nation?
 author: Sophia McClennen
 layout: post
-permalink: /what-im-watching/is-satire-saving-our-nation/
+# permalink: /what-im-watching/is-satire-saving-our-nation/
 home_page_image:
   - 451
 dsq_thread_id:

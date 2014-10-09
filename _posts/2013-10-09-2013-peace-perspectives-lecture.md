@@ -2,7 +2,7 @@
 title: 2013 Peace Perspectives Lecture
 author: Sophia McClennen
 layout: post
-permalink: /news/2013-peace-perspectives-lecture/
+# permalink: /news/2013-peace-perspectives-lecture/
 dsq_thread_id:
   - 1841221226
 categories:

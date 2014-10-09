@@ -2,7 +2,7 @@
 title: 'Video: McClennen on Colbert&#8217;s America'
 author: Sophia McClennen
 layout: post
-permalink: /news/video-mcclennen-on-colberts-america/
+# permalink: /news/video-mcclennen-on-colberts-america/
 dsq_thread_id:
   - 783263008
 categories:

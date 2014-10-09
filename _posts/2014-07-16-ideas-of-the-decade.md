@@ -2,7 +2,7 @@
 title: Ideas of the Decade
 author: Sophia McClennen
 layout: post
-permalink: /news/ideas-of-the-decade/
+# permalink: /news/ideas-of-the-decade/
 dsq_thread_id:
   - 2849833269
 categories:

@@ -27,6 +27,9 @@ footer .row {
 
 // primary article layout
 .has-layout {
+
+  @include padding(2em);
+
   padding-bottom: 6em;
   @include outer-container;
   article, .primary-content, .side-content {
@@ -36,6 +39,7 @@ footer .row {
     @include padding(1.1875em 0 0 0);
   }
   @include media($large-screen) {
+    @include padding(0);
     article, .primary-content {
       @include span-columns(7 of 12);
       //padding-right: 2em;

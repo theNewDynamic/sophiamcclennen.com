@@ -27,12 +27,29 @@ footer .row {
 
 .column-thirds {
   @include span-columns(12);
+  //background-color:red;
   margin-top:2em;
   font-size: 90%;
   @include media($medium-screen-up) {
+
+    height: 350px;
     margin-top:0;
     @include span-columns(3 of 12);
-    padding-right:2em;
+    padding:2em;
+    //background-color:white;
+    .heading {
+      position: relative;
+      height: 80px;
+      //background-color: #ddd;
+      a {
+        //color: white;
+        //padding: .45em;
+      }
+      .title {
+        position:absolute;
+        bottom: 0;
+      }
+    }
 
 
   }

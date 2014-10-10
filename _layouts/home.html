@@ -8,11 +8,21 @@ class: homeyo
 
     {% assign posts = site.categories.news %}
     <h3><a href="/news/">News</a></h3>
+
+
+
     {% for news in posts limit: 4 %}
+
       <div class="column-thirds">
-      <h4><a href="{{ news.url }}">{{ news.title }}</a></h4>
+      <!-- <div class="heading">
+        <div class="title"> -->
+        <h4><a href="{{ news.url }}">{{ news.title }}</a></h4>
+        <!-- </div>
+        </div> -->
       {{ news.excerpt | strip_html }}
       </div>
+
+
     {% endfor %}
 
 </div>

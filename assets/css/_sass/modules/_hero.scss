@@ -1,5 +1,5 @@
 .hero {
-  $hero-background-top:$beige;//$base-background-color;// darken($base-accent-color, 25);
+  $hero-background-top:$accent-background-color;//$base-background-color;// darken($base-accent-color, 25);
   $hero-background-bottom: adjust-hue($hero-background-top, -70);
   $hero-color: $dark-gray;
   $gradient-angle: 10deg;
@@ -11,7 +11,7 @@
   // background-position: top;
   // background-size: cover;
   // padding-bottom: 4em;
-  background-color: $beige;
+  background-color: $accent-background-color;
 
   .hero-logo img {
     height: 3em;

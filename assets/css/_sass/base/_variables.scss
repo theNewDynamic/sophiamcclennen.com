@@ -31,24 +31,26 @@ $base-spacing: $base-line-height * 1em;
 $base-z-index: 0;
 
 // Colors
-$blue: #4c96ac;
+$blue: #618aa6;//#486b81;//#4c96ac;
 $black: #0c0c0c;
 $dark-gray: #333;
 $medium-gray: #999;
-$light-gray: #f5f3ed;
+$lighter-gray: #f2f2f2;//#f4f4f6;//#f6f6f6;
+$light-gray: #e2e4e9;// #e9e9e9;//#eef0f6;
 $light-red: #FBE3E4;
 $light-yellow: #FFF6BF;
 $light-green: #E6EFC2;
 $whitish: #f5f3ed;
-$beige: #e8e8e0;
-//$beige: darken($whitish, 6%);
+$accent-background-color: #e8e8e0;
+//$accent-background-color: darken($whitish, 6%);
 $blue-light: #c5dee5;
 $blue-green: #7eb6c6;
 $yellow: #e5ce7c;
 $red: #be4039;
 
 // Background Color
-$base-background-color: $whitish;
+$base-background-color: $lighter-gray;
+$accent-background-color: white;//$light-gray;
 
 // Font Colors
 $base-font-color: $dark-gray;

@@ -7,11 +7,10 @@
 - name: Academics
   slug: /teaching/
 
-- name: Academic Publications
-  slug: /academic-publications/
+- name: Academic Writing
+  slug: /academic-writing/
 
 - name: Books
   slug: /books/
 
-- name: Writing
-  slug: /writing/
+

@@ -25,6 +25,19 @@ footer .row {
   }
 }
 
+.column-thirds {
+  @include span-columns(12);
+  margin-top:2em;
+  font-size: 90%;
+  @include media($medium-screen-up) {
+    margin-top:0;
+    @include span-columns(3 of 12);
+    padding-right:2em;
+
+
+  }
+}
+
 // primary article layout
 .has-layout {
 
@@ -47,12 +60,7 @@ footer .row {
     }
   .side-content {
     @include span-columns(4 of 12);
-
         @include shift(1);
-
-
-
-
       font-family: $sans-serif;
       font-size: 90%;
       ul {
@@ -64,7 +72,7 @@ footer .row {
 
       }
       aside.sidebar-item {
-        background-color: $beige;
+        background-color: $accent-background-color;
         @include padding(2em);
         margin-bottom: 2em;
       }

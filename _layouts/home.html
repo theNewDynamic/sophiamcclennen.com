@@ -3,24 +3,16 @@ layout: default
 section: home
 class: homeyo
 ---
-<div class="has-layout">
+<div class="has-layout" style="padding-bottom:4em;">
 <hr style="margin-bottom:2em;" />
-  <section class="primary-content">
-  {% assign featured_post = site.posts | where: 'featured', true %}
-    <h3><a href="/what-im-watching/">What I'm Watching</a></h3>
-    {% for post in featured_post limit: 1 %}
-      <h4><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>'  }} </a></h4>
-      {{ post.content }}
-      <hr />
-    {% endfor %}
-  </section>
-  <section class="side-content">
+
     {% assign posts = site.categories.news %}
     <h3><a href="/news/">News</a></h3>
-    {% for news in posts limit: 3 %}
+    {% for news in posts limit: 4 %}
+      <div class="column-thirds">
       <h4><a href="{{ news.url }}">{{ news.title }}</a></h4>
       {{ news.excerpt | strip_html }}
-      <hr />
+      </div>
     {% endfor %}
-  </section>
+
 </div>

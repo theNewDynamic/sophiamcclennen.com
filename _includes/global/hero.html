@@ -3,20 +3,33 @@
 
 
 <section class="left-column">
-{% include books/books-list.html %}
+
+{% assign featured_post = site.posts | where: 'featured', true %}
+    <!-- <h3><a href="/what-im-watching/">What I'm Watching</a></h3> -->
+    {% for post in featured_post limit: 1 %}
+      <h4><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>'  }} </a></h4>
+      {{ post.content }}
+      <hr />
+    {% endfor %}
+
+
+
 </section>
 
     <div class="hero-copy">
 
 
+{% include books/books-list.html %}
+<br /><br />
+{% assign about = site.data.global %}
+  {% for item in about %}
+      <p class="lead">{{ item.hero_copy }}</p>
+  {% endfor %}
 
-  {% assign about = site.data.global %}
 
-    {% for item in about %}
 
-        <p class="lead">{{ item.hero_copy }}</p>
 
-    {% endfor %}
+
 
 
     </div>

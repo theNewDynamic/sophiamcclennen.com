@@ -51,13 +51,14 @@ body#posts article p img:first-child {
 
 
 .page-header {
-  background-color: $blue;
+  background-color: #d8d8d8;
   border-radius: 4px;
   margin: 3.6875em auto 2.5em auto;
   padding: .75em;
+  border: 1px solid #cbcbcb;
   h2.entry-title {
     font-size: 1.5em;
-    color: white;
+    color: $blue;//white;
     text-transform: uppercase;
     margin: 0;
   }

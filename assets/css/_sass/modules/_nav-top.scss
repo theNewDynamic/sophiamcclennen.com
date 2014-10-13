@@ -50,8 +50,8 @@ h2 {
   font-weight: 300;
   font-size: .8em;
   font-style: italic;
-  color: $yellow;
-  color: white;
+  //color: $yellow;
+  color: darken($blue-light, 15%);
   //float: left;
 //  margin-top: 1.2em;
   margin-left: 4.5em;
@@ -361,7 +361,6 @@ h2 {
 #identity {
   font-family: $brand-font-family;
   font-size: 2.5625em;
-
   a {
     color: $blue-light;
   }

@@ -13,10 +13,12 @@ class: homeyo
 <div class="left-column">
   {% include books/books-list.html %}
 </div>
+<div style="max-width:97%;">
 {% assign about = site.data.global %}
   {% for item in about %}
-      <p class="lead">{{ item.hero_copy }}</p>
+      <p class="lead center">{{ item.hero_copy }}</p>
   {% endfor %}
+</div>
 <!--
 
 {% assign reviews = site.categories.reviews %}

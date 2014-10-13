@@ -19,11 +19,19 @@ section: books
           {% else %}
             {% include modal.html text="Buy" %}
           {% endif %}
+          {% assign slug = page.url | replace: '/book/', '' | replace: '/', '' %}
+          {% assign reviews  = site.categories.reviews | where: 'related_book', slug %}
+          {% for review in reviews %}
+              {% if forloop.first %}
+                <h4 style="margin-top:2em;"><a href="{{ page.url }}#reviews">Click Here to Read Reviews</a></h4>
+              {% endif %}
+          {% endfor %}
         </div>
       </section>
       <section class="primary-content">
         {% include books/title.html %}
         {{ page.content }}
+
       </section>
       <hr class="clearing" style="margin:8em auto;" />
     {% endfor %}

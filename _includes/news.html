@@ -10,6 +10,10 @@
       </small>
     </time>
   {% endif %}
+
+  {% if news.featured_image %}
+  <img src="{{ site.path_assets_images }}{{ news.featured_image}}" >
+  {% endif %}
   {{ news.content }}
   {% if news.publication %}
       <small>

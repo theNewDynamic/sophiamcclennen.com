@@ -1,0 +1,13 @@
+---
+title: John Ochoa on The Dialectics of Exile
+category: review
+permalink: /reviews/john-ochoa-on-the-dialectics-of-exile/
+related_book: the-dialectics-of-exile
+attribution: 'John Ochoa, *Latin American Research Review*'
+short_quote: "McClennen's insightful ruminations on the dynamics of exile are well-taken and their implications wide-ranging. McClennen presents exile as the initiation of an ongoing 'dialectic,' a word rich with Marxist, linguistic, and aesthetic resonances, all of which she mines successfully."
+---
+"Sophia McClennen's fine *Dialectics of Exile*, which is not meant to be a comprehensive overview but rather a reconsideration of a particular period along thematic lines. McClennen's book limits itself to three case studies, analyzing the works and lives of the Chilean Ariel Dorfman, the Uruguayan Cristina Peri Rossi, and the Spaniard Juan Goytisolo (the inclusion of Goytisolo places this book under the rubric of transatlantic studies, a growing academic niche in recent years). [...]
+
+"This book offers a theoretically aware argument that draws from established concepts from theories of national identity, postnationalism, and postmodernism, as well as from linguistics, feminism, and Marxism. What is unusual about it is that it does not deal with exile as a negative, traumatic event that is in effect all aftermath, as is commonly the case. Instead, it casts exile as a positive and ongoing mode of evolving cultural identity. McClennen presents exile as the initiation of an ongoing 'dialectic,' a word rich with Marxist, linguistic, and aesthetic resonances, all of which she mines successfully. The cultural production of exile, she rightly notes, needs to be read as a series of 'dialectical tensions,' rather than as static, binary oppositions where one end of the binary is favored in the interpretation (28).
+
+"This book engages with fundamental questions head on: what is the difference between an exile and an immigrant? What is the concept of 'homeland?' How is the process of representation, never a simple one, complicated by displacement? "The crisis of language" of the exile, writes McClennen, 'while revealing a crisis in the subject, does not lead to the end of representation' (119). Rather, the literature of exile 'often revolves around the exile's sense of loss,' or the 'exile's sense of freedom once the bonds of the nation are loosened. The exile often attempts to rewrite national history and also often attempts to rewrite [. . . ] notions of community that are not predicated on the nation' (222). McClennen's insightful ruminations on the dynamics of exile are well-taken and their implications wide-ranging."

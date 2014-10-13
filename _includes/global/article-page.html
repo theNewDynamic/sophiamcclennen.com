@@ -1,6 +1,6 @@
-<article class="hentry {% if page.class %}{{page.class}}{% endif %}">
+<article class="hentry">
 {% comment %}Content Below{% endcomment %}
-  <div class="entry-content prose">
+  <div class="entry-content prose{% if page.class %} {{page.class}}{% endif %}">
     {% if page.url contains '/book/' %}
       <div class="synopsis">
         {{ content }}

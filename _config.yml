@@ -20,7 +20,7 @@ addthis_id: ra-5434c4d85c06c266
 
 # CONTACT FORM http://getsimpleform.com/
 simple_form_api_token:
-directory_assets_img: /assets/img/
+path_assets_images: /assets/img/
 
 # options (social)
 # facebook_id:
@@ -49,20 +49,24 @@ collections:
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
-      type: "pages" # previously `post` in Jekyll 2.2.
+      path: ""
+      type: 'pages'
     values:
-      layout: "page"
+      layout: 'page'
   -
     scope:
-      path: "_posts" # an empty string here means all files in the project
-      type: "post" # previously `post` in Jekyll 2.2.
+      path: "_posts"
     values:
-      layout: "post"
+      layout: 'post'
   -
     scope:
-      path: "" # an empty string here means all files in the project
-      type: "books" # previously `post` in Jekyll 2.2.
+      path: "reviews/_posts"
     values:
-      layout: "book"
-      section: "book"
+      layout: 'post'
+  -
+    scope:
+      path: "_books"
+      type: 'books'
+    values:
+      layout: 'book'
+      section: 'book'

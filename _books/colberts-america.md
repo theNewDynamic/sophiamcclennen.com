@@ -4,6 +4,7 @@ featured: true
 date: 2012-07-03 12:00:00
 cover_image: colberts-america.jpg
 category: trade
+layout: book
 publisher:
 - Palgrave Macmillan
 isbn: 9781137014726

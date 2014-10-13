@@ -1,10 +1,6 @@
 ---
 title: Academic Publications
-author: Sophia McClennen
-layout: page
 permalink: /academic-publications/
-dsq_thread_id:
-  -
 ---
 ### Co-Authored
 

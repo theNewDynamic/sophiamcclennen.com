@@ -6,23 +6,42 @@ class: homeyo
 <div class="has-layout" style="padding-bottom:4em;">
 <hr style="margin-bottom:2em;" />
 
-    {% assign posts = site.categories.news %}
-    <h3><a href="/news/">News</a></h3>
 
 
 
-    {% for news in posts limit: 4 %}
 
-      <div class="column-thirds">
-      <!-- <div class="heading">
-        <div class="title"> -->
-        <h4><a href="{{ news.url }}">{{ news.title }}</a></h4>
-        <!-- </div>
-        </div> -->
-      {{ news.excerpt | strip_html }}
-      </div>
+<div class="left-column">
+  {% include books/books-list.html %}
+</div>
+{% assign about = site.data.global %}
+  {% for item in about %}
+      <p class="lead">{{ item.hero_copy }}</p>
+  {% endfor %}
+<!--
 
-
+{% assign reviews = site.categories.reviews %}
+{% for review in reviews limit: 1 %}
+      {% if forloop.first %}
+        <h2 id="reviews">Praise for {{ page.title}}</h2>
+      {% endif %}
+      {% if review.content %}
+        {{ review.content | markdownify}}
+      {% elsif review.short_quote %}
+        {{ review.short_quote | markdownify }}
+      {% endif %}
+      {% if review.attribution %}
+        {% assign attribution = review.attribution  %}
+          <strong>— {{ attribution }}</strong>
+      {% endif %}
+      {% if review.link_to_original %}
+      <br /><a href="{{ review.link_to_original }}">original <i class="icon-ext-link"></i></a>
+      {% endif %}
+      <hr />
     {% endfor %}
+ -->
+
+
+
+
 
 </div>

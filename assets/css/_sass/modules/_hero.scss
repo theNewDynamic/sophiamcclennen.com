@@ -23,15 +23,9 @@
     @include clearfix;
     padding: 4em 0;
     margin: auto;
-    text-align: center;
+    text-align: left;
     color: $hero-color;
 
-    .left-column, .hero-copy {
-      @include span-columns(12); //padding, etc in modules/_article
-      @include media($medium-screen-up) {
-        @include span-columns(6 of 12); //padding, etc in modules/_article
-      }
-    }
 
     button {
       @include button(simple, $base-background-color);
@@ -42,7 +36,8 @@
     .hero-copy {
       //text-align: center;
 
-    padding: 2%;
+      padding: 0 4% 0 4.5%;
+
       h1 {
         font-size: 1.6em;
         margin-bottom: .5em;
@@ -70,11 +65,19 @@
   }
 }
 
+.left-column, .hero-copy {
+      @include span-columns(12); //padding, etc in modules/_article
+      @include media($medium-screen-up) {
+        @include span-columns(6 of 12); //padding, etc in modules/_article
+      }
+    }
+
+
 // Book cover effect in hero
 
 
 .cover-transform-1 img, .cover-transform-2 img, .cover-transform-3 img {
-  height: 235px;
+  height: 335px;
 }
 
 .cover-transform-1 img {
@@ -85,7 +88,7 @@
 transform: scale(0.95) rotate(-4deg);
 }
 
-.cover-transform-2 img {
+.cover-transform-2TK img {
   margin-left: -2em;
   -moz-transform: scale(1) rotate(-1deg);
 -webkit-transform: scale(1) rotate(-1deg);
@@ -95,7 +98,7 @@ transform: scale(1) rotate(-1deg);
 }
 
 
-.cover-transform-3 img {
+.cover-transform-2 img {
   margin-left: -2em;
   -moz-transform: scale(1.05) rotate(4deg);
 -webkit-transform: scale(1.05) rotate(4deg);

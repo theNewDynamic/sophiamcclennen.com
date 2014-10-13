@@ -1,7 +1,5 @@
 ---
 title: Academics
-author: Sophia McClennen
-layout: page
 permalink: /teaching/
 ---
 I am currently Professor of International Affairs and Comparative Literature and I am affiliated with the Departments of Spanish and Women’s Studies. I was hired with tenure at Penn State in Fall 2003, after six years at Illinois State University. In Spring 2003, I had a Fulbright fellowship to Peru, and in 2006, I held a second Fulbright to Canada as a Research Chair in Globalization and Cultural Studies.  (Read my full academic bio [here][1]. Access my full CV [here][2].)

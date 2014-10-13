@@ -20,5 +20,27 @@ section: book
   <section class="primary-content">
     {% include books/title.html %}
     {{ content }}
+    <hr class="clearing" />
+    {% assign slug = page.url | replace: '/book/', '' | replace: '/', '' %}
+    {% assign reviews  = site.categories.reviews | where: 'related_book', slug %}
+    {% for review in reviews %}
+      {% if forloop.first %}
+        <h2 id="reviews">Praise for {{ page.title}}</h2>
+      {% endif %}
+      {% if review.content %}
+        {{ review.content | markdownify}}
+      {% elsif review.short_quote %}
+        {{ review.short_quote | markdownify }}
+      {% endif %}
+      {% if review.attribution %}
+        {% assign attribution = review.attribution  %}
+          <strong>— {{ attribution }}</strong>
+      {% endif %}
+      {% if review.link_to_original %}
+      <br /><a href="{{ review.link_to_original }}">original <i class="icon-ext-link"></i></a>
+      {% endif %}
+      <hr />
+    {% endfor %}
+    <hr class="clearing" />
   </section>
 </div>

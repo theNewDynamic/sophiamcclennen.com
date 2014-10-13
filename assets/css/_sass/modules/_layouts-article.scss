@@ -1,21 +1,40 @@
-article {
+article .entry-content {
   //padding: 1.2em;
   margin:auto;
   max-width: 100%;
   time {
     font-family: $sans-serif;
   }
-  p {
-    img:first-child {
-     float: none;
-      margin: .5em 0 1.5em 0;
-      @include media($small-screen-up) {
-        float: left;
-        margin: .5em 1.4em 1.5em 0;
-        max-width: 34%;
-      }
-    }
+  overflow: hidden;
+  header {
+    margin-bottom: .5em;
   }
+  img {
+    max-width: 100%;
+    box-shadow: 0px 3px 10px 0px #000000;
+  }
+}
+
+.hero img {
+      box-shadow: 0px 3px 10px 0px #000000;
+}
+
+body#page article p img:first-child {
+  float: none;
+  margin: .5em 0 1.5em 0;
+  @include media($small-screen-up) {
+    float: left;
+    margin: .5em 1.4em 1.5em 0;
+    max-width: 34%;
+  }
+}
+
+body#post article p img:first-child,
+body#posts article p img:first-child {
+  float: none;
+  margin: .5em 0 .5em 0;
+}
+
   // &.hentry header {
   //   padding: 2.5em 2rem .25em 2rem;
   //   @include media($large-screen-up) {
@@ -29,15 +48,7 @@ article {
   //     padding: 2rem 4rem;
   //   }
   // }
-  overflow: hidden;
-  header {
-    margin-bottom: .5em;
-  }
-  img {
-    max-width: 100%;
-    box-shadow: 0px 3px 10px 0px #000000;
-  }
-}
+
 
 .page-header {
   background-color: $blue;

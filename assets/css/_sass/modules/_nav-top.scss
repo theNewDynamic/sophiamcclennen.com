@@ -17,6 +17,7 @@ header.navigation {
   background-color: $navigation-background;
   background-image: url(/assets/img/background_mcclennen2.jpg);
   background-position: 80% bottom;
+  background-repeat: no-repeat;
   border-bottom: 1px solid darken($navigation-background, 10);
   height: $navigation-height;
   width: 100%;

@@ -16,7 +16,7 @@ header.navigation {
 
   background-color: $navigation-background;
   background-image: url(/assets/img/background_mcclennen2.jpg);
-  background-position: right bottom;
+  background-position: 80% bottom;
   border-bottom: 1px solid darken($navigation-background, 10);
   height: $navigation-height;
   width: 100%;
@@ -354,6 +354,7 @@ h2 {
       width: 16em;
       position: relative;
       display: inline-block;
+      background-position: right bottom;
 
       input {
         @include box-sizing(border-box);

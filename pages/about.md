@@ -13,7 +13,8 @@ As a child she lived in Manhattan, Washington DC, and Fort Lauderdale—a mix th
 
 She is currently [Professor of International Affairs and Comparative Literature][2] at Penn State University and founding director of the [Center for Global Studies][3]. At Penn State she teaches courses on human rights culture, culture and globalization, media studies, global cinema, the cultures of displaced peoples, cultural trade policy, cross-cultural conflict resolution, and critical theory. [Click here for her Academics page][4]. [Click here for her academic bio.][2]
 
-When she isn’t teaching or lecturing, she is writing. She has written three books, co-authored two, and co-edited three. She has published over 50 essays in books and journals. She also [regularly writes for *Huffington Post*][5] and has had pieces in *Alternet*, *Truthout*, *The Chronicle of Higher Education*, and *Counterpunch*.
+When she isn’t teaching or lecturing, she is writing. She has written three books, co-authored two, and co-edited three. She has published over 50 essays in books and journals. She regularly writes for [Salon][http://www.salon.com/] and [Huffington Post](http://www.huffingtonpost.com/sophia-a-mcclennen). She has also had pieces in *Alternet*, *Truthout*, *The Chronicle of Higher Education*, and *Counterpunch*. 
+
 
 One of the great benefits to her work has been the opportunity to travel. In 2006 she was the Fulbright Research Chair in Globalization and Cultural Studies at Dalhousie University in Halifax, Nova Scotia, Canada and she also held a Fulbright faculty award in Peru (2003) where she researched Peruvian cinema.  She has taught in Chile, Germany, and Peru, and has also done research in Argentina, Bolivia, Mexico, Spain, Guatemala, Uruguay, and Costa Rica.
 
@@ -40,5 +41,4 @@ Watertown, MA 02472
  [2]: http://sia.psu.edu/faculty/sophia_mcclennen
  [3]: http://cgs.psu.edu/
  [4]: http://sophiamcclennen.com/academics/ "Academics"
- [5]: http://www.huffingtonpost.com/sophia-a-mcclennen
  [6]: /assets/img/sophia-3.jpg

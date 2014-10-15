@@ -1,52 +1,23 @@
 <header class="navigation">
   <div class="navigation-wrapper">
-
-    <a href="" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
+    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
     <div class="nav">
-    <!-- <h1>
-      <a href="javascript:void(0)" class="identity">
-        {{ site.sitename }}
-      </a>
-    </h1> -->
+      <h3 class="mobile" style="padding:.25em 0 0 .25em;">
+        <a href="/" class="identity">
+          {{ site.sitename }}
+        </a>
+      </h3>
       <ul id="navigation-menu">
-      <li id="identity" class="nav-link"><a href="/">{{ site.sitename }}</a></li><br />
+        <li id="identity" class="large-screen nav-link"><a href="/" class="identity">{{ site.sitename }}</a></li><br />
         {% for link in site.data.navigation %}
-        <li class="nav-link"><a href="{{ link.slug }}"{% if link.link == page.url %} class="active"{% endif %}>{{ link.name }}</a></li>
+          <li class="nav-link"><a href="{{ link.slug }}"{% if link.link == page.url %} class="active"{% endif %}>{{ link.name }}</a></li>
         {% endfor %}
-
-       {% comment %}<!--  <li class="nav-link more"><a href="javascript:void(0)">More</a>
-          <ul class="submenu">
-            <li><a href="javascript:void(0)">Submenu Item</a></li>
-            <li><a href="javascript:void(0)">Another Item</a></li>
-            <li class="more"><a href="javascript:void(0)">Item with submenu</a>
-              <ul class="submenu">
-                <li><a href="javascript:void(0)">Sub-submenu Item</a></li>
-                <li><a href="javascript:void(0)">Another Item</a></li>
-              </ul>
-            </li>
-            <li class="more"><a href="javascript:void(0)">Another submenu</a>
-              <ul class="submenu">
-                <li><a href="javascript:void(0)">Sub-submenu</a></li>
-                <li><a href="javascript:void(0)">An Item</a></li>
-              </ul>
-            </li>
-          </ul>
-        </li> -->{% endcomment %}
-
-
       </ul>
     </div>
-
-
-        <h2 class="banner-link">
-          <a href="/what-im-watching/">
-
-      What I'm Watching...
+    <h2 class="banner-link">
+      <a href="/what-im-watching/">
+        What I'm Watching...
       </a>
-      </h2>
-
-
-
-
+    </h2>
   </div>
 </header>

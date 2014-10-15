@@ -9,6 +9,15 @@ Here is a sampling of my academic writings including articles, book chapters, an
 
 For my full CV click [here][1]. To see short pieces and blogs click [here](/what-im-watching/).
 
+##### Contents
+
+- [FILM AND MEDIA STUDIES](#film-and-media-studies)
+- [NEOLIBERALISM](#neoliberism)  
+- [HUMAN RIGHTS](#human-rights)
+- [LATIN AMERICAN AND INTERAMERICAN STUDIES](#latin-american-and-interamerican-studies)
+- [COMPARATIVE LITERATURE AND COMPARATIVE CULTURAL STUDIES](#comparative-literature-and-comparative-cultural-studies)
+- [HIGHER EDUCATION](#higher-education)
+
 
 
 ### FILM AND MEDIA STUDIES

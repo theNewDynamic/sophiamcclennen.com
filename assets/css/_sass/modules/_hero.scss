@@ -48,16 +48,11 @@
       }
 
       p {
-        //font-family: $serif;
-        font-family: $header-font-family;
-        margin: auto;
-        margin-bottom: 3em;
-        font-weight: 200;
-        line-height: 1.4em;
+        margin-bottom: 2em;
 
         @include media($large-screen) {
-          font-size: 1.125em;
-          max-width: 87%;
+          // font-size: 1.125em;
+          // max-width: 87%;
 
         }
       }
@@ -67,6 +62,7 @@
 
 .left-column, .hero-copy {
       @include span-columns(12); //padding, etc in modules/_article
+      padding: 0 1em 3em 1em;
       @include media($medium-screen-up) {
         @include span-columns(6 of 12); //padding, etc in modules/_article
       }
@@ -75,7 +71,15 @@
 
 // Book cover effect in hero
 
+.cover-transform-1 {
+  display: none;
+}
 
+@include media($large-screen-up) {
+
+  .cover-transform-1 {
+    display: inline-block;
+  }
 .cover-transform-1 img, .cover-transform-2 img, .cover-transform-3 img {
   height: 335px;
   margin-left: 3.5em;
@@ -108,3 +112,4 @@ transform: scale(1) rotate(-1deg);
 transform: scale(1.05) rotate(4deg);
 }
 
+}

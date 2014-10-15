@@ -1,8 +1,8 @@
 <script type="text/javascript">
 function downloadJSAtOnload() {
-  // var element = document.createElement("script");
-  // element.src = "/assets/js/concatenate-scripts.js";
-  // document.body.appendChild(element);
+  var element = document.createElement("script");
+  element.src = "/assets/js/concatenate-scripts.js";
+  document.body.appendChild(element);
   var element_addthis = document.createElement("script");
   element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{site.addthis_id}}{% endif %}";
   document.body.appendChild(element_addthis);

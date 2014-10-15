@@ -16,6 +16,10 @@ footer .row {
   @include row();
   @include padding(2em);
 }
+
+.post-excerpt {
+  margin-bottom: 2em;
+}
 .section-content {
   margin:auto;
   @include padding(2em);

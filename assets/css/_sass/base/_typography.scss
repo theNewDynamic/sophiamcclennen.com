@@ -13,6 +13,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   margin-bottom: $unitless-line-height;
   text-rendering: optimizeLegibility; // Fix the character spacing for headings
+  color: $black;
 }
 
 h1, .h1 {
@@ -78,7 +79,8 @@ hr {
   border-left: none;
   border-right: none;
   border-top: none;
-  margin: $base-line-height 0;
+  //margin: $base-line-height 0;
+  //margin: 4.25em auto;
 }
 
 img {

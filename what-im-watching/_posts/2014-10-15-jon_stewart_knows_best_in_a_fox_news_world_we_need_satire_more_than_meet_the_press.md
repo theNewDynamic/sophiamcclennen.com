@@ -3,6 +3,7 @@ title: 'Jon Stewart knows best: In a Fox News world, we need satire more than â€
 publication: "Salon"
 link_to_original: "http://www.salon.com/2014/10/10/jon_stewart_knows_best_in_a_fox_news_world_we_need_satire_more_than_meet_the_press/"
 featured: true
+layout: post
 ---
 
 ![jon_stewart3.jpg](/assets/img/jon_stewart3.jpg)

@@ -13,7 +13,7 @@
       <h5><a href="/news/" style="color:#111;">News</a></h5>
       {% for news in posts limit: 2 %}
         <div class="post-excerpt">
-          <h4><a href="{{ news.url }}">{{ news.title }}</a></h4>
+          <h4><a href="{{ news.url }}">{{ news.title | markdownify | remove: '<p>' | remove: '</p>'  }}</a></h4>
           {{ news.content | strip_html | truncate: 225, '&#8230;'}}
         </div>
       {% endfor %}

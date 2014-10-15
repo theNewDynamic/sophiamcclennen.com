@@ -33,18 +33,20 @@ We are witnessing an unprecedented growth and importance of satire in the public
 
 
 
->"_Is Satire Saving Our Nation?_ The authors of this important book make a compelling case. Far from turning politics into a joke, satire demands intellectual engagement, critical imagination, and a community of understanding — the very ingredients necessary for a healthy democracy. With their seemingly paradoxical, but accurate, observation that satirists may be the only ones speaking sanely in our increasingly absurd public sphere, McClennen and Maisel have challenged and enriched our thinking about what constitutes 'serious' politics." —Stephen Duncombe, New York University, USA, co-founder of the Center for Creative Activism, and Yes Men collaborator
+>"_Is Satire Saving Our Nation?_ The authors of this important book make a compelling case. Far from turning politics into a joke, satire demands intellectual engagement, critical imagination, and a community of understanding — the very ingredients necessary for a healthy democracy. With their seemingly paradoxical, but accurate, observation that satirists may be the only ones speaking sanely in our increasingly absurd public sphere, McClennen and Maisel have challenged and enriched our thinking about what constitutes 'serious' politics." 
+
+> — **Stephen Duncombe, New York University, USA, co-founder of the Center for Creative Activism, and Yes Men collaborator**
 
 ---
 
-"McClennen and Maisel move us well beyond the assumption that satire is something 'done' to us, recognizing instead that satire is a tool through which citizens—professional and amateur provocateurs alike—engage the political world in playful, critical, and positive ways. This most helpful book lets us see that satire is, ultimately, a language through which citizen engagement is being redefined through media activism." 
+> "McClennen and Maisel move us well beyond the assumption that satire is something 'done' to us, recognizing instead that satire is a tool through which citizens—professional and amateur provocateurs alike—engage the political world in playful, critical, and positive ways. This most helpful book lets us see that satire is, ultimately, a language through which citizen engagement is being redefined through media activism." 
 
-— **Jeffrey P. Jones, Old Dominion University, USA, Director of the George Foster Peabody Awards, and author of _Entertaining Politics_**
+> — **Jeffrey P. Jones, Old Dominion University, USA, Director of the George Foster Peabody Awards, and author of _Entertaining Politics_**
 
 ---
 
-"A thrill ride from beginning to end! As incredibly thorough studies of the effects of political satire go, of course. This book is loaded with truthiness and it confirms my long-held suspicion that McClennen and Maisel have been secretly following me around for the past 18 years." 
+> "A thrill ride from beginning to end! As incredibly thorough studies of the effects of political satire go, of course. This book is loaded with truthiness and it confirms my long-held suspicion that McClennen and Maisel have been secretly following me around for the past 18 years." 
 
-**—J.R. Havlan, Writer for _The Daily Show with Jon Stewart_ (1996-2014) and winner of 8 Emmys**
+> **—J.R. Havlan, Writer for _The Daily Show with Jon Stewart_ (1996-2014) and winner of 8 Emmys**
 
 

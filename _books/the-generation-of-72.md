@@ -1,7 +1,7 @@
 ---
 title: 'The Generation of &#8217;72'
 date: 2014-07-16 12:00:00
-
+layout: book
 cover_image: the-generation-of-72.jpg
 category: trade
 publisher:

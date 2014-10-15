@@ -3,6 +3,7 @@ title: Ariel Dorfman
 date: 2010-01-18 12:00:00
 cover_image: ariel-dorfman.jpg
 category: academic
+layout: book
 publisher:
   - Duke University Press
 isbn:

@@ -3,6 +3,7 @@ title: America According to Colbert
 date: 2011-11-08 12:00:00
 cover_image: america-according-to-colbert.jpg
 category: trade
+layout: book
 publisher:
   - Palgrave Macmillan
 isbn:

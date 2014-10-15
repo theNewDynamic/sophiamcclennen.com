@@ -3,6 +3,7 @@ title: Representing Humanity in an Age of Terror
 date: 2010-10-05 12:00:00
 cover_image: representing-humanity-in-an-age-of-terror-needs-cover.jpg
 category: academic
+layout: book
 publisher:
   - Purdue University Press
 isbn:

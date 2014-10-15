@@ -3,6 +3,7 @@ title: Comparative Cultural Studies and Latin America
 date: 2004-06-11 12:00:00
 cover_image: comparative-cultural-studies-and-latin-america-needs-cover.jpg
 category: academic
+layout: book
 publisher:
   - Purdue University Press
 isbn:

@@ -3,6 +3,7 @@ title: Neoliberalism, Education, Terrorism
 date: 2012-06-13 12:00:00
 cover_image: neoliberalism-education-terrorism.jpg
 category: trade
+layout: book
 publisher:
   - Paradigm Publishers
 isbn:
@@ -24,10 +25,10 @@ short_description:
 
 &nbsp;
 
-"In times like these, <em>Neoliberalism, Education, and Terrorism </em>is essential reading for any concerned American."
+> "In times like these, <em>Neoliberalism, Education, and Terrorism </em>is essential reading for any concerned American."
 
---<em>Teachers College Record</em>
+> — _**Teachers College Record**_
 
-The contributors to <em>Neoliberalism, Education, and Terrorism</em> call for academics to recognize and resist neoliberal economic policies and the state’s conduct of the war on terror as forces eroding what they call “progressive education” in post–September 11 America. By concretely analyzing how these forces are working to appropriate education at all levels, studies like this not only provide useful sociopolitical insight into the challenges educators face but also remind us of the need to do something about them.
+> The contributors to _Neoliberalism, Education, and Terrorism_ call for academics to recognize and resist neoliberal economic policies and the state’s conduct of the war on terror as forces eroding what they call “progressive education” in post–September 11 America. By concretely analyzing how these forces are working to appropriate education at all levels, studies like this not only provide useful sociopolitical insight into the challenges educators face but also remind us of the need to do something about them.
 
-<em>--Academe</em>
+> — _**Academe**_

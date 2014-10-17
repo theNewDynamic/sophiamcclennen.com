@@ -27,6 +27,16 @@
     {% else %}
       {{ content }}
     {% endif %}
+      {% if news.publication %}
+      <small>
+        {% if news.link_to_original %}
+        <a href="{{news.link_to_original}}">{{ news.publication }} <i class="icon-link-ext"></i></a>
+        {% else %}
+          {{news.source}}
+        {% endif %}
+      </small>
+    {% endif %}
+
     {% if page.include %}
       {% include {{page.include}} %}
     {% endif %}

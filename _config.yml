@@ -9,12 +9,11 @@ exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNA
 
 # dev options (true/false)
 # if site is in production, 'production: true'
-production: false
+production: true
 bust_css_cache: true
 
-
 # options (data)
-google_analytics_id: UA-xxxx
+google_analytics_id: UA-21655936-27
 disqus_id:
 addthis_id: ra-5434c4d85c06c266
 

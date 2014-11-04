@@ -1,6 +1,6 @@
 ---
 title: "Jon Stewart: Fake news can’t save us"
-layout: page
+layout: post
 publication: "Salon"
 featured: true
 link_to_original: "http://www.salon.com/2014/11/04/jon_stewart_im_either_a_dildo_rolled_in_glitter_or_bob_dylan/"

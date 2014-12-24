@@ -1,5 +1,5 @@
 ---
-title: "The Stephen Colbert legacy"
+title: "I got slimed by Rush: The real story of how Stephen Colbert schooled Limbaugh on U.S. history, patriotism"
 layout: post
 publication: "Salon"
 featured: true

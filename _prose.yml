@@ -26,6 +26,11 @@ prose:
        element: 'text'
        label: 'Title'
        placeholder: 'Put your title here'
+    - name: 'publication'
+      field:
+        element: 'text'
+        label: "Publication"
+        help: "Name of the source publication"
   _pages:
     - name: 'layout'
       field:

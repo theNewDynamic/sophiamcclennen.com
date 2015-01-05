@@ -1,6 +1,5 @@
 ---
 title: "I got slimed by Rush: The real story of how Stephen Colbert schooled Limbaugh on U.S. history, patriotism"
-layout: post
 publication: "Salon"
 featured: true
 link_to_original: "http://www.salon.com/2014/12/24/i_got_slimed_by_rush_the_real_story_of_how_stephen_colbert_schooled_limbaugh_on_u_s_history_patriotism/"

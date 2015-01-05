@@ -54,18 +54,14 @@ defaults:
       layout: 'page'
   -
     scope:
-      path: "_posts"
-    values:
-      layout: 'post'
-  -
-    scope:
-      path: "reviews/_posts"
-    values:
-      layout: 'post'
-  -
-    scope:
       path: "_books"
       type: 'books'
     values:
       layout: 'book'
       section: 'book'
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"

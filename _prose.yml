@@ -25,11 +25,6 @@ prose:
     - /_data
   metadata:
     _posts:
-      - name: 'title'
-        field:
-          element: 'text'
-          label: 'Title'
-          placeholder: 'Put your title here'
       - name: 'publication'
         field:
           element: 'text'

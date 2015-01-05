@@ -4,6 +4,9 @@ prose:
   media: 'assets/img'
   ignore:
     - .gitignore
+    - .bowerrc
+    - .editorconfig
+    - bower.json
     - 404.html
     - CNAME
     - atom.xml

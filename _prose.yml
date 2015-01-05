@@ -19,6 +19,7 @@ prose:
     - /_layouts
     - /_includes
     - /_site
+    - /_data
   metadata:
    _posts:
     - name: 'title'

@@ -1,6 +1,6 @@
 #configuration options for http://prose.io editor
 prose:
-  siteurl: 'http://jekyll-starter.pubspringdev1.com/'
+  siteurl: 'http://www.sophiamcclennen.com/'
   media: 'assets/img'
   ignore:
     - .gitignore

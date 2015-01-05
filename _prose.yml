@@ -24,17 +24,17 @@ prose:
     - /_site
     - /_data
   metadata:
-   _posts:
-    - name: 'title'
-      field:
-       element: 'text'
-       label: 'Title'
-       placeholder: 'Put your title here'
-    - name: 'publication'
-      field:
-        element: 'text'
-        label: "Publication"
-        help: "Name of the source publication"
+    _posts:
+      - name: 'title'
+        field:
+         element: 'text'
+         label: 'Title'
+         placeholder: 'Put your title here'
+      - name: 'publication'
+        field:
+          element: 'text'
+          label: "Publication"
+          help: "Name of the source publication"
   _pages:
     - name: 'layout'
       field:

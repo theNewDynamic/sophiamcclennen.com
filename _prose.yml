@@ -30,4 +30,32 @@ prose:
           element: 'text'
           label: "Publication"
           help: "Name of the source publication"
+    _pages:
+        - name: 'layout'
+          field:
+            element: 'hidden'
+            value: 'page'
+        - name: 'title'
+          field:
+            element: 'text'
+            label: 'Title'
+            placeholder: 'Title'
+            value: 'Title'
+        - name: 'permalink'
+          field:
+            element: 'text'
+            label: 'Link'
+            help: '/page-name/'
+        - name: 'include'
+          field:
+            label: 'Include Snippet'
+            element: 'text'
+            help: 'for developer use only'
+            label: 'snippet'
+        - name: 'sharing'
+          field:
+            element: 'checkbox'
+            label: 'Add Sharing Buttons to this page?'
+            help: 'Check if you want sharing buttons to show up on the page.'
+            value: 'false'
 

@@ -1,5 +1,5 @@
 ---
-title: "Who will factcheck Fox News now? We’re lost without Stewart and Colbert"
+title: "You had me at hello: how Jon Stewart’s first episode gave birth to his brand of satire"
 publication: "The Conversation"
 featured: true
 link_to_original: "https://theconversation.com/you-had-me-at-hello-how-jon-stewarts-first-episode-gave-birth-to-his-brand-of-satire-37508"

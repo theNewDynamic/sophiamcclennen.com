@@ -8,7 +8,7 @@ link_to_original: "http://www.salon.com/2015/07/15/fox_news_wore_jon_stewart_dow
 ---
 ![](/assets/img/{{page.image}})
 
-Stewart is stepping aside because he's exhausted by our petty, dangerous politics. Now we're really screwed
+Stewart is stepping aside because he's exhausted by our petty, dangerous politics. Now we're really screwed.
 
 Read the Rest at [{{page.publication}}]( {{ page.link_to_original}} )
 

@@ -4,5 +4,5 @@ layout: post
 publication: "The Guardian"
 link_to_original: "http://www.theguardian.com/media/2015/aug/09/jon-stewart-flag-flying-for-political-satire"
 ---
-Read the Rest at [{{page.publication}}]( {{ page.link_to_original}} )
+Read "Now that Jon Stewart has stepped down, does anyone have his edge?" at [{{page.publication}}]( {{ page.link_to_original}} )
 

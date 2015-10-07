@@ -9,4 +9,6 @@ categories:
   - what-im-watching
 ---
 
-![](/uploads/versions/noah_wilmore-620x412---x----500-332x---.jpg)Noah hasn't quite found his footing, but at 11:30 p.m., Larry Wilmore is bringing the brilliance night after night
+![](/uploads/versions/noah_wilmore-620x412---x----500-332x---.jpg)
+
+Noah hasn’t quite found his footing, but at 11:30 p.m., Larry Wilmore is bringing the brilliance night after night

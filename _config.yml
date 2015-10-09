@@ -98,7 +98,7 @@ prose:
           element: 'text'
           label: "Publication"
           help: "Name of the source publication"
-    _what-im-watching:
+    _what-im-watching/_posts:
       - name: 'title'
         field:
           element: 'text'

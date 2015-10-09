@@ -5,13 +5,7 @@
       {% assign featured_post = site.posts | where: 'featured', true %}
       {% for post in featured_post limit: 1 %}
         {{ post.excerpt }}
-        <h4>
-          {% if post.link_to_original %}
-          <a href="{{ post.link_to_original }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>'  }} </a>
-          {% else %}
-          <a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>'  }} </a>
-          {% endif %}
-        </h4>
+        <h4><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>'  }} </a></h4>
       {% endfor %}
     </section>
     <div class="hero-copy">

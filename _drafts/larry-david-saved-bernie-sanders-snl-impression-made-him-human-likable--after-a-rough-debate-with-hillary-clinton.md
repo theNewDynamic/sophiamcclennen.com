@@ -4,7 +4,8 @@ publication: Salon
 layout: post
 image: ''
 featured: true
-link_to_original: 'http://www.salon.com/2015/10/12/trevor_noahs_master_class_its_not_just_fox_news_this_is_the_topic_that_needs_noah_oliver_stewart/'
+link_to_original: 'http://www.salon.com/2015/10/19/larry_david_saved_bernie_sanders_snl_impression_made_him_human_likable_after_a_rough_debate_with_hillary_clinton/'
 categories:
   - what-im-watching
 ---
+

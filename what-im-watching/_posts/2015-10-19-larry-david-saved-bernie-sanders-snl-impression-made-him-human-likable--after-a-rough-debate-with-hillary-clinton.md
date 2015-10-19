@@ -9,6 +9,8 @@ categories:
   - what-im-watching
 ---
 
-![](/uploads/versions/screen-shot-2015-10-18-at-11.22.23-pm-620x412---x----620-412x---.png)David’s Bernie will be the opposite of Tina Fey’s Sarah Palin. It’s a good impression that leaves a good impression
+![](/uploads/versions/screen-shot-2015-10-18-at-11.22.23-pm-620x412---x----620-412x---.png)
+
+David’s Bernie will be the opposite of Tina Fey’s Sarah Palin. It’s a good impression that leaves a good impression
 
 &nbsp;

@@ -8,5 +8,4 @@ link_to_original: 'http://www.truth-out.org/opinion/item/33536-coddled-college-k
 categories:
   - what-im-watching
 ---
-
 Last week, The Washington Post published yet another piece on coddled college students, but this time the blame was on colleges themselves instead of on overprotective parents.&nbsp;

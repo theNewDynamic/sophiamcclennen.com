@@ -24,14 +24,9 @@
 
 
   {{ news.content }}
-  {% if news.link_to_original %}
-    <p>
-      Read the Rest{% if news.publication %} at <a href="{{ news.link_to_original }}">{{news.publication}}</a>{% else %}: <a href="{{ page.link_to_original }}">link to original</a>{% endif %}
-    </p>
-  {% endif %}
-
 
   {% if news.publication %}
+  Read the rest at
         {% if news.link_to_original %}
         <a href="{{news.link_to_original}}">{{ news.publication }} <i class="icon-link-ext"></i></a>
         {% else %}

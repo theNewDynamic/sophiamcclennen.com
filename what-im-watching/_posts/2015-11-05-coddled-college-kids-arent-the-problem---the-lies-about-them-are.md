@@ -9,3 +9,4 @@ categories:
   - what-im-watching
 ---
 
+Last week, The Washington Post published yet another piece on coddled college students, but this time the blame was on colleges themselves instead of on overprotective parents.&nbsp;

@@ -20,6 +20,10 @@
     <img src="{{news.image_path}}" alt="{{ news.title }}" max-width="500px" />
   {% endif %}
   {{ content }}
+
+
+
+  {{ news.content }}
   {% if news.link_to_original %}
     <p>
       Read the Rest{% if news.publication %} at <a href="{{ news.link_to_original }}">{{page.publication}}</a>{% else %}: <a href="{{ page.link_to_original }}">link to original</a>{% endif %}
@@ -27,9 +31,6 @@
   {% endif %}
 
 
-
-
-  {{ news.content }}
   {% if news.publication %}
         {% if news.link_to_original %}
         <a href="{{news.link_to_original}}">{{ news.publication }} <i class="icon-link-ext"></i></a>

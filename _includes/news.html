@@ -28,7 +28,7 @@
   {% if news.publication %}
   Read the rest at
         {% if news.link_to_original %}
-        <a href="{{news.link_to_original}}">{{ news.publication }} <i class="icon-link-ext"></i></a>
+        <a href="{{news.link_to_original}}">{{ news.publication }} <small><i class="icon-link-ext"></i></small></a>
         {% else %}
           {{news.source}}
         {% endif %}

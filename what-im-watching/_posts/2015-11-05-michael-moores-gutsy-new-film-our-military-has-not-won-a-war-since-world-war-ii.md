@@ -1,5 +1,5 @@
 ---
-title: 'Michael Moores Gutsy New Film: Our Military Has Not Won a War Since World War Ii'
+title: 'Michael Moores Gutsy New Film: Our Military Has Not Won a War Since World War II'
 publication: Salon
 layout: post
 image_path: /uploads/michael_moore-620x412.jpg

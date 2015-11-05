@@ -7,6 +7,4 @@ link_to_original: "http://www.salon.com/2015/04/24/clint_eastwood_still_a_jerk_h
 ---
 ![](/assets/img/dirty_harry.jpg)
 
-> Eastwood denies threatening Michael Moore, then does it again. The tough-guy act's wearing thin for his whole party
-
-Read the rest at [Salon](http://www.salon.com/2015/04/24/clint_eastwood_still_a_jerk_his_new_michael_moore_threat_and_the_gops_fox_news_derangement_problem/)
+Eastwood denies threatening Michael Moore, then does it again. The tough-guy act's wearing thin for his whole party

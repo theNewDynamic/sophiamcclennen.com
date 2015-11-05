@@ -14,6 +14,21 @@
   {% if news.featured_image %}
   <img src="{{ site.path_assets_images }}{{ news.featured_image}}" >
   {% endif %}
+
+
+  {% if news.image_path %}
+    <img src="{{news.image_path}}" alt="{{ news.title }}" max-width="500px" />
+  {% endif %}
+  {{ content }}
+  {% if news.link_to_original %}
+    <p>
+      Read the Rest{% if news.publication %} at <a href="{{ news.link_to_original }}">{{page.publication}}</a>{% else %}: <a href="{{ page.link_to_original }}">link to original</a>{% endif %}
+    </p>
+  {% endif %}
+
+
+
+
   {{ news.content }}
   {% if news.publication %}
         {% if news.link_to_original %}

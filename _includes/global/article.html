@@ -25,7 +25,15 @@
         {{ content }}
       </div>
     {% else %}
+      {% if page.image_path %}
+        <img src="{{page.image_path}}" alt="{{ page.title }}" max-width="500px" />
+      {% endif %}
       {{ content }}
+      {% if page.link_to_original %}
+        <p>
+          Read the Rest{% if page.publication %} at <a href="{{ page.link_to_original }}">{{page.publication}}</a>{% else %}: <a href="{{ page.link_to_original }}">link to original</a>{% endif %}
+        </p>
+      {% endif %}
     {% endif %}
       {% if news.publication %}
       <small>

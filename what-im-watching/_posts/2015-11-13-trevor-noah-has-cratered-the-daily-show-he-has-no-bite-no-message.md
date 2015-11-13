@@ -2,7 +2,7 @@
 title: 'Trevor Noah has cratered “The Daily Show”: He has no bite, no message — and has let Fox News off the hook'
 publication: Salon
 layout: post
-image_path: /uploads/trevornoahcnn-620x412_mini.jpg
+image_path: ''
 featured: true
 link_to_original: 'http://www.salon.com/2015/11/13/trevor_noah_has_cratered_the_daily_show_he_has_no_bite_no_message_and_has_let_fox_news_off_the_hook/'
 categories:

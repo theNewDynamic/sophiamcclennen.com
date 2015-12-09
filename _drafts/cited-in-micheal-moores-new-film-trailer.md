@@ -7,4 +7,4 @@ categories:
 
 McClennen quoted twice in Micheal Moore's new film trailer.&nbsp; See the trailer here: https://www.facebook.com/mmflint/videos/10153171747791857/
 
-&nbsp;
+![](/uploads/versions/screenshot-2015-12-09-17.21.29---x----1440-900x---.png)

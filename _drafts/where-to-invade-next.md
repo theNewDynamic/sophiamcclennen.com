@@ -9,3 +9,9 @@ categories:
 tags:
   - Ariel Dorfman
 ---
+
+Michael Moore's new film, [Where to Invade Next](http://wheretoinvadenext.com/), features a blurb from my review on [the film poster](http://wheretoinvadenext.com/site/wp-content/uploads/2015/09/INV_KEY_1sheet_M03_HiRez.jpg).
+
+![](/uploads/versions/mooreposter---x----1116-1652x---.jpg)
+
+&nbsp;

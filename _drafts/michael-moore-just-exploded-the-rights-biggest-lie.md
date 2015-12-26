@@ -1,6 +1,6 @@
 ---
 title: "Michael Moore's new film redefines patriotism"
-publication: ''
+publication: Salon
 layout: post
 image_path: /michael_moore.jpg
 featured: true

@@ -9,6 +9,4 @@ categories:
   - what-im-watching
 ---
 
-&nbsp;
-
 47 percent of Fox viewers get all their news there. They are horribly misinformed. And we wonder why Trump leads?

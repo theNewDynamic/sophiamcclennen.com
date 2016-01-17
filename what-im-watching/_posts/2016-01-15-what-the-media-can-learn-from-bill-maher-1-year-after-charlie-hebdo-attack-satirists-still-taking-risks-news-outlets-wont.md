@@ -8,5 +8,4 @@ link_to_original: 'http://www.salon.com/2016/01/09/what_the_media_can_learn_from
 categories:
   - what-im-watching
 ---
-
 Irony, snarky comedy and satire still remain our best weapons against political folly and media spectacle.&nbsp; Read the full piece [here](Irony, snarky comedy and satire still remain our best weapons against political folly and media spectacle ).

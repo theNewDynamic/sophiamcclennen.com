@@ -8,5 +8,4 @@ link_to_original: 'http://www.salon.com/2016/01/28/theres_no_beating_megyn_kelly
 categories:
   - what-im-watching
 ---
-
 Trump won't debate because he thinks Fox News anchor is biased. He clearly didn't watch her Michael Moore interview.

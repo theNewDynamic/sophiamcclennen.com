@@ -1,7 +1,7 @@
 <div class="hero">
   <div class="hero-inner">
     <section class="left-column">
-      <h5><a href="/what-im-watching/" style="color:#111;">What I'm Watching</a></h5>
+      <h5 style="margin-bottom:.5em;"><a href="/what-im-watching/" style="color:#111;">What I'm Watching</a></h5>
       {% assign featured_post = site.posts | where: 'category', 'what-im-watching' %}
       {% for post in featured_post limit: 1 %}
       {% if post.image_path and post.image_path != '' %}

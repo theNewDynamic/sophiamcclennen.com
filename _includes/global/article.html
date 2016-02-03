@@ -25,17 +25,17 @@
         {{ content }}
       </div>
     {% else %}
-      {% if page.image_path %}
+      {% if page.image_path and page.image_path !='' %}
         <img src="{{page.image_path}}" alt="{{ page.title }}" max-width="500px" />
       {% endif %}
       {{ content }}
-      {% if page.link_to_original %}
+      {% if page.link_to_original and page.link_to_original !='' %}
         <p>
           Read the Rest{% if page.publication %} at <a href="{{ page.link_to_original }}">{{page.publication}}</a>{% else %}: <a href="{{ page.link_to_original }}">link to original</a>{% endif %}
         </p>
       {% endif %}
     {% endif %}
-      {% if news.publication %}
+      {% if news.publication and news.publication !='' %}
       <small>
         {% if news.link_to_original %}
         <a href="{{news.link_to_original}}">{{ news.publication }} <i class="icon-link-ext"></i></a>
@@ -45,7 +45,7 @@
       </small>
     {% endif %}
 
- {% if page.publication %}
+ {% if page.publication and page.publication !='' %}
       <small>
         {% if page.link_to_original %}
         <a href="{{page.link_to_original}}">{{ page.publication }} <i class="icon-link-ext"></i></a>

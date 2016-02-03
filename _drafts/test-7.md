@@ -1,9 +1,9 @@
 ---
 title: test 7
-category: what-im-watching
-publication: null
-image_path: null
-link_to_original: null
+category: news
+publication: ''
+image_path: ''
+link_to_original: ''
 ---
 
-content here
+test.

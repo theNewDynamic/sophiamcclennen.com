@@ -25,10 +25,13 @@ path_assets_images: /assets/img/
 # facebook_id:
 twitter_id: budparr
 permalink: /:categories/:title/
+categories:
+  - what-im-watching
+  - news
 
 category_names:
   - name: "What I'm Watching"
-    slug: "what-im-watching"
+    slug:
   - name: "News"
     slug: "news"
 

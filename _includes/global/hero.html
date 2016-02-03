@@ -2,25 +2,32 @@
   <div class="hero-inner">
     <section class="left-column">
       <h5><a href="/what-im-watching/" style="color:#111;">What I'm Watching</a></h5>
-      {% assign featured_post = site.posts | where: 'featured', true %}
+      {% assign featured_post = site.posts | where: 'category', 'what-im-watching' %}
       {% for post in featured_post limit: 1 %}
-      {% if post.image_path %}
+      {% if post.image_path and post.image_path != '' %}
         <img src="{{post.image_path}}" alt="{{ post.title }}" max-width="500px" />
         {% else %}
-        {{ post.excerpt }}
+        {{ post.content | truncate: 300 }}
       {% endif %}
-
-
-        <h4><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>'  }} </a></h4>
+        <h4>
+          <a href="{{ post.url }}">
+            {{ post.title | markdownify | remove: '<p>' | remove: '</p>'  }}
+          </a>
+        </h4>
       {% endfor %}
     </section>
     <div class="hero-copy">
       {% assign posts = site.categories.news %}
       <h5><a href="/news/" style="color:#111;">News</a></h5>
-      {% for news in posts limit: 2 %}
+      {% for news in posts limit: 4 %}
         <div class="post-excerpt">
-          <h4><a href="{{ news.url }}">{{ news.title | markdownify | remove: '<p>' | remove: '</p>'  }}</a></h4>
-          {{ news.content | strip_html | truncate: 25, '&#8230;'}}
+          <h4>
+            <a href="{{ news.url }}">
+              {{ news.title | markdownify | remove: '<p>' | remove: '</p>'  }}
+            </a>
+          </h4>
+          <small><a href="{{ news.url }}">&raquo; Read More</a></small>
+          <!-- {{ news.content }} -->
         </div>
       {% endfor %}
     </div>

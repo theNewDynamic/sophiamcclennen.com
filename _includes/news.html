@@ -11,12 +11,12 @@
     </time>
   {% endif %}
 
-  {% if news.featured_image %}
+  {% if news.featured_image and news.featured_image !='' %}
   <img src="{{ site.path_assets_images }}{{ news.featured_image}}" >
   {% endif %}
 
 
-  {% if news.image_path %}
+  {% if news.image_path and news.image_path !='' %}
     <img src="{{news.image_path}}" alt="{{ news.title }}" max-width="500px" />
   {% endif %}
   {{ content }}
@@ -25,7 +25,7 @@
 
   {{ news.content }}
 
-  {% if news.publication %}
+  {% if news.publication and news.publication !='' %}
   Read the rest at
         {% if news.link_to_original %}
         <a href="{{news.link_to_original}}">{{ news.publication }} <small><i class="icon-link-ext"></i></small></a>

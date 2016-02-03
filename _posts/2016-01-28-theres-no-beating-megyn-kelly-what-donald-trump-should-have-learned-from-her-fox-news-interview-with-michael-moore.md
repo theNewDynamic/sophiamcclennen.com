@@ -1,5 +1,5 @@
 ---
-title: 'There’s no beating Megyn Kelly - What Donald Trump should have learned from her Fox News interview with Michael Moore'
+title: 'There’s no beating Megyn Kelly: What Donald Trump should have learned from her Fox News interview with Michael Moore'
 publication: Salon
 category: what-im-watching
 image_path: /uploads/megyn-kelly-donald-trump-the-kelly-file-05202015-2-620x383.jpg

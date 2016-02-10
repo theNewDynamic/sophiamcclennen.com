@@ -8,7 +8,7 @@ home_page_image:
 dsq_thread_id:
   - 1454958602
 # category: "What I'm Watching"
- category: what-im-watching
+category: what-im-watching
 ---
 
 ![](/assets/img/HirschMarabunta.jpg)

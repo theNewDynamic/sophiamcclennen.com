@@ -8,7 +8,7 @@ home_page_image:
 dsq_thread_id:
   - 1097042384
 # category: "What I'm Watching"
- 
+category: what-im-watching
 ---
 
 ![](/assets/img/Screen-Shot-2013-02-05-at-6.36.28-PM.png)

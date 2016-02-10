@@ -8,7 +8,7 @@ home_page_image:
 dsq_thread_id:
   - 829297331
 # category: "What I'm Watching"
- 
+category: what-im-watching 
 format: aside
 ---
 

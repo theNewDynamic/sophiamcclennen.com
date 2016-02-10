@@ -8,7 +8,7 @@ home_page_image:
 dsq_thread_id:
   - 926478083
 # category: "What I'm Watching"
- 
+category: what-im-watching 
 ---
 
 ![](/assets/img/colbert-trump-592x364.jpg)

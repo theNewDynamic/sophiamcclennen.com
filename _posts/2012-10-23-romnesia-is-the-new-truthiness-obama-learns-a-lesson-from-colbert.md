@@ -8,7 +8,7 @@ home_page_image:
 dsq_thread_id:
   - 897508852
 # category: "What I'm Watching"
- 
+category: what-im-watching 
 ---
 
 ![](/assets/img/cn_image.size_.romnesia.jpg)

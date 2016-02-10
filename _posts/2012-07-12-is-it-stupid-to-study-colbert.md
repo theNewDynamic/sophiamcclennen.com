@@ -8,7 +8,7 @@ home_page_image:
 dsq_thread_id:
   - 780233280
 # category: "What I'm Watching"
- 
+category: what-im-watching
 ---
 
 ![](/assets/img/2012-07-11-colbertbooks.jpeg)

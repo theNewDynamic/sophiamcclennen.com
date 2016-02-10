@@ -6,7 +6,7 @@ layout: post
 dsq_thread_id:
   - 780904942
 # category: "What I'm Watching"
- 
+category: what-im-watching 
 ---
 Colbert News Hub interviewed me on my latest book, *Colbert&#8217;s America*. Read the full interview [here][1].
 

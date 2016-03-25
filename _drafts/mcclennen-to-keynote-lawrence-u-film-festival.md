@@ -1,8 +1,10 @@
 ---
 title: McClennen to Keynote Lawrence U Film Festival
-category: what-im-watching
+category: news
 publication:
-image_path:
-link_to_original:
+image_path: /lawrence.jpg
+link_to_original: 'https://www.lawrence.edu/academics/study/spanish/film_festival'
 ---
-content here
+
+
+Sophia McClennen to deliver the Keynote lecture for Lawrence University's Latin American and Spanish Film Festival on April 22, 2016.

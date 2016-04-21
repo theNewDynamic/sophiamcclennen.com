@@ -153,3 +153,8 @@ prose:
             label: 'Add Sharing Buttons to this page?'
             help: 'Check if you want sharing buttons to show up on the page.'
             value: 'false'
+
+compress_html:
+  ignore:
+    envs: [development]
+  profile: false

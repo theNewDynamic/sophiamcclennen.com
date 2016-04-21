@@ -1,7 +1,7 @@
 ---
 title: McClennen introduces Bernie Sanders at Penn State.
 category: what-im-watching
-publication:
+publication: Judson Mantz on Facebook
 image_path: /sophia mcclennen-1.jpg
 link_to_original: 'https://www.facebook.com/judson.mantz/posts/1293230787358105'
 ---

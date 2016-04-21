@@ -10,6 +10,7 @@ group :jekyll_plugins do
   # gem 'autoprefixer-rails'
   # gem 'uglifier'
   gem 'jekyll-sitemap'
+  gem 'jekyll-seo-tag'
   # gem 'jekyll-archives'
 end
 # gem 'jekyll-paginate'

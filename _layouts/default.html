@@ -63,6 +63,8 @@ layout: compress
 
   </head>
 <body
+{% if page.section %} id="{{ page.section}}"{% endif %}
+{% if page.class %} class="{{ page.class }}"{% endif %}
 >
   <div class="wrapper">
       {% include global/nav-top.html %}

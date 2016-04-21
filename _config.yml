@@ -6,7 +6,7 @@ description: 'Official author site'
 include: ['_pages']
 
 exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md', 'prose.yaml']
-
+version: 3.0.3
 # dev options (true/false)
 # if site is in production, 'production: true'
 production: true

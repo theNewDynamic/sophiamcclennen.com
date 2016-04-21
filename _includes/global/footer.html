@@ -1,0 +1,42 @@
+<!--<div class="wrapper-for-content-outside-of-footer">
+   Uncomment this whole section for a sticky footer. The content of the page should be inside of this .wrapper-for-content-outside-of-footer
+  <div class="push"></div>
+</div>-->
+
+<footer class="footer-2">
+
+
+  {% if page.section != 'home' %}
+  {% assign about = site.pages | where: 'title', 'About' %}
+    {% for page in about %}
+      <div class="row">
+        <p>{{ page.excerpt }}</p>
+      </div>
+    {% endfor %}
+  {% endif %}
+    <ul>
+      <li class="source-org vcarfd copyright">
+        <a href="{{site.url}}">&copy; {{ site.time | date: '%Y' }} <span class="org fn">{{ site.title }}</span></a>
+      </li>
+    </ul>
+    <div class="footer-secondary-links">
+      <ul>
+          <li><a href="http://sonnetmedia.net">site by sonnet media</a></li>
+      </ul>
+
+      <!-- <ul class="footer-social">
+        <li><a href="javascript:void(0)">
+          <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/facebook-logo-circle.png" alt="Facebook">
+          </a></li>
+        <li><a href="javascript:void(0)">
+          <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/twitter-logo-circle.png" alt="Twitter">
+        </a></li>
+        <li><a href="javascript:void(0)">
+          <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/youtube-logo-circle.png" alt="YouTube">
+        </a></li>
+      </ul> -->
+    </div>
+</footer>
+{% if page.background_image %}
+  <img src="/assets/img/{{page.background_image}}" class="bg">
+{% endif %}

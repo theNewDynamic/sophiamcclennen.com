@@ -63,7 +63,7 @@ layout: compress
 
   </head>
 
-<body{% if page.section %} id="{{ page.section}}"{% endif %}{% if page.class %} class="{{ page.class }}"{% endif %}>
+<body>
   <div class="wrapper">
       {% include global/nav-top.html %}
       {% if page.section == 'home' %}
@@ -76,7 +76,7 @@ layout: compress
 
   </div>
 </div>
-
+{% include global/footer.html %}
 {% include global/scripts.html %}
 </body>
 </html>

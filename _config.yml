@@ -2,6 +2,9 @@ url: http://www.sophiamcclennen.com
 sitename: 'Sophia A. McClennen'
 title: 'Sophia A. McClennen'
 description: 'Sophia A. McClennen works on the intersections between culture, politics, and society. Her books focus on cultural responses to complex social change, such as the connections between the satire of Stephen Colbert and post 9/11 politics or the exile writing of Ariel Dorfman and dictatorship in 1970s Latin America.'
+author:
+  twitter: mcclennen65
+  picture: /assets/img/sophia-3.jpg
 
 # do not include  https://github.com/...
 #Pages - store all pages in the _pages directory

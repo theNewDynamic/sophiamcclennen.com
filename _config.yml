@@ -16,7 +16,6 @@ version: 3.0.3
 # if site is in production, 'production: true'
 production: true
 bust_css_cache: true
-
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -32,7 +31,7 @@ path_assets_images: /assets/img/
 
 # options (social)
 # facebook_id:
-twitter_id: budparr
+twitter_id: mcclennen65
 permalink: /:categories/:title/
 categories:
   - what-im-watching
@@ -46,8 +45,8 @@ category_names:
 
 
 sass:
-    style: :compressed
-    sass_dir: assets/css/_sass
+  style: :compressed
+  sass_dir: assets/css/_sass
 
 collections:
   books:

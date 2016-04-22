@@ -67,10 +67,8 @@ layout: compress
 {% if page.class %} class="{{ page.class }}"{% endif %}
 >
   <div class="wrapper">
+      {% include global/nav-top.html %}
 
-      {% if page.section == 'home' %}
-        {% include global/hero.html %}
-      {% endif %}
     <div class="{% if page.splash_image %}content_splash{% endif %}">
       <section class="content">
         {{content}}

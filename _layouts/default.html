@@ -56,10 +56,6 @@ layout: compress
         <link rel="stylesheet" media="all" href="http://universal-ie6-css.googlecode.com/files/ie6.0.3.css">
       <![endif]-->
 
-    {% if jekyll.environment == "production" %}
-      {% include global/analytics.html %}
-      {% include global/seo.html %}
-    {% endif %}
 
   </head>
 <body
@@ -78,6 +74,7 @@ layout: compress
 
   </div>
 </div>
+{% include global/footer.html %}
 {% include global/scripts.html %}
 </body>
 </html>

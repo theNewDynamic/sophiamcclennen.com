@@ -198,7 +198,7 @@ h2 {
       }
 
       &:after {
-        content: '›';
+        content: '\203A';
         font-size: 1.2em;
         position: absolute;
         right: $navigation-submenu-padding / 2;

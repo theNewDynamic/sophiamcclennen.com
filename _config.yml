@@ -7,6 +7,7 @@ author:
   picture: /assets/img/sophia-3.jpg
 
 # do not include  https://github.com/...
+encoding: utf-8
 #Pages - store all pages in the _pages directory
 include: ['_pages']
 

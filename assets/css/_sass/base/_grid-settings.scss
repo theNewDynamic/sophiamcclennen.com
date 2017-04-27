@@ -1,19 +1,19 @@
 @import '../libs/neat/neat-helpers'; // or '../neat/neat-helpers' when not in Rails
 // Neat Overrides
-///////////////////////////////////////////////////////////////////////////////
+
 $column: 90px;
 $gutter: 30px;
 $grid-columns: 12;
 $max-width: em(1088);
 
 // Neat Breakpoints
-///////////////////////////////////////////////////////////////////////////////
+
 $medium-screen: em(640);
 $large-screen: em(860);
 $wide-screen: em(1600);
 
 
-//// viewport breakpoints idea from sassparilla, vp= viewport
+// viewport breakpoints idea from sassparilla, vp= viewport
 $a-vp: em(300); // first viewport
 $b-vp: em(420); // up one -
 $c-vp: em(600); // up two
@@ -25,7 +25,7 @@ $ie-fixed-vp: em(980);    // Viewport for IE fixed width
 
 $tiny-screen-up: new-breakpoint(min-width $a-vp 4);
 $small-screen-up: new-breakpoint(min-width $b-vp 4);
-//$medium-screen-below: new-breakpoint(max-width $c-vp 4);
+// $medium-screen-below: new-breakpoint(max-width $c-vp 4);
 $medium-screen-up: new-breakpoint(min-width $c-vp 4);
 
 $normal-screen-up: new-breakpoint(min-width $d-vp 4);

@@ -1,8 +1,10 @@
 ---
-title: McClennen interviewed with WZBC Radio News in Bosto.
-category: what-im-watching
+title: McClennen interviewed with WZBC Radio News in Boston.
+category: news
 publication:
 image_path:
 link_to_original:
 ---
-content here
+
+
+I talked with John Grebe with [WZBC Boston](http://wzbc.org/#archive) about the future of the DNC on July 23.

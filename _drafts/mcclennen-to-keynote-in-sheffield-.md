@@ -1,8 +1,10 @@
 ---
 title: McClennen to Keynote in Sheffield.
-category: what-im-watching
+category: news
 publication:
 image_path:
-link_to_original:
+link_to_original: 'https://catostreetconference.wordpress.com/programme/'
 ---
-content here
+
+
+I will be speaking on debts and rights at The Interdisciplinary Centre of the Social Sciences (ICoSS) in Sheffield on September 12.

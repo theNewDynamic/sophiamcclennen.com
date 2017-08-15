@@ -1,8 +1,10 @@
 ---
-title: McClennen feautred at Der spiegel
-category: what-im-watching
+title: McClennen featured at Der Spiegel conference
+category: news
 publication:
 image_path:
-link_to_original:
+link_to_original: 'http://reporter-forum.de/rw17/dozenten/sophia-a-mcclennen/'
 ---
-content here
+
+
+McClennen lectured on "Satire in the age of Trump" at a reporter workshop for Der Spiegel in Hamburg in May 2017.

@@ -1,8 +1,10 @@
 ---
 title: McClennen interviewed for NPR San Francisco
-category: what-im-watching
+category: news
 publication:
 image_path:
 link_to_original:
 ---
-content here
+
+
+I as a guest on NPR affiliate KPFA-FM/San Francisco CA with Living Room to talk about free speech on college campuses. Listen to the interview [here](https://kpfa.org/player/?audio=270069).

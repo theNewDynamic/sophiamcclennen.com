@@ -17,7 +17,7 @@ version: 3.2.1
 # if site is in production, 'production: true'
 production: true
 bust_css_cache: true
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 

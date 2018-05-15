@@ -1,8 +1,9 @@
 ---
 title: CSPAN covers my talk at UMN
-category: what-im-watching
+category: news
 publication:
 image_path:
-link_to_original:
+link_to_original: 'https://www.youtube.com/watch?v=hOXqXyKd1pg'
 ---
-content here
+
+The YouTube link for the CSPAN coverage of my talk at UMN's State of Our Satirical Union event is live.&nbsp; Check it out.

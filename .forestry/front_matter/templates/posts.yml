@@ -1,0 +1,390 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: textarea
+  hidden: false
+  default: ''
+- name: publication
+  label: Publication
+  type: list
+  hidden: false
+  default: ''
+- name: link_to_original
+  label: Link to original
+  type: list
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: ''
+- name: dsq_thread_id
+  label: Dsq thread id
+  type: list
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: list
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post
+- name: sm_writing_cats
+  label: Sm writing cats
+  type: list
+  hidden: false
+  default: ''
+- name: enclosure
+  label: Enclosure
+  type: list
+  hidden: false
+  default: ''
+- name: related_book
+  label: Related book
+  type: text
+  hidden: false
+  default: ''
+- name: attribution
+  label: Attribution
+  type: textarea
+  hidden: false
+  default: ''
+- name: short_quote
+  label: Short quote
+  type: textarea
+  hidden: false
+  default: ''
+- name: home_page_image
+  label: Home page image
+  type: list
+  hidden: false
+  default: ''
+- name: published
+  label: Published
+  type: boolean
+  hidden: false
+  default: ''
+- name: format
+  label: Format
+  type: text
+  hidden: false
+  default: ''
+- name: dsq_needs_sync
+  label: Dsq needs sync
+  type: list
+  hidden: false
+  default: ''
+- name: featured
+  label: Featured
+  type: boolean
+  hidden: false
+  default: ''
+- name: category
+  label: Category
+  type: text
+  hidden: false
+  default: ''
+- name: image_path
+  label: Image path
+  type: text
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: ''
+pages:
+- _posts/2018-05-15-the-gift-jerry-fallwell-gave-us-the-right-to-make-fun-of-donald-trump.md
+- _posts/2018-05-15-mcclennen-to-lecture-on-new-book-at-lasa.md
+- _posts/2018-05-15-how-sinclair-is-taking-over-local-news.md
+- _posts/2018-05-15-cspan-covers-my-talk-at-umn.md
+- _posts/2018-05-15-congratulations-graduates-now-get-ready-to-work-for-free.md
+- _posts/2018-03-21-the-science-of-satire-vs-lies-how-satire-helps-the-brain.md
+- _posts/2018-03-21-mcclennen-an-invited-speaker-at-umns-the-state-of-our-satirical-union.md
+- _posts/2018-02-25-mcclennen-interviewed-by-wzbc-radio-news-in-boston.md
+- _posts/2018-02-21-mcclennen-joins-srdja-popovic-for-a-leacture-on-laughtivism-and-the-power-of-satire.md
+- _posts/2018-02-21-mcclennen-featured-on-life-lessons.md
+- _posts/2018-02-15-mcclennen-to-present-at-the-johns-hopkins-foreign-affairs-symposium.md
+- _posts/2018-02-15-mcclennen-at-the-mccourtney-institute-for-democracy.md
+- _posts/2018-01-15-startalk-episode-on-stephen-colbert.md
+- _posts/2018-01-15-mcclennen-hosts-bassem-youssef.md
+- _posts/2018-01-15-backstage-with-neil-degrasse-tyson.md
+- _posts/2018-01-14-the-bitter-irony-of-donald-trump.md
+- _posts/2018-01-14-backstage-with-jordan-klepper.md
+- _posts/2017-10-16-mcclennen-interviewed-for-npr-san-francisco.md
+- _posts/2017-10-16-how-jordan-klepper-will-win-the-trump-era-satire-game.md
+- _posts/2017-10-16-backstage-with-michael-moore.md
+- _posts/2017-08-15-mcclennen-featured-at-der-spiegel-conference.md
+- _posts/2017-08-15-mcclennen-an-invited-speaker-for-icee-fest-in-bucharest.md
+- _posts/2017-08-15-mcclennen-a-featured-speaker-at-icee-fest-in-bucharest.md
+- _posts/2017-08-15-german-newspaper-sz-interviews-mcclennen-on-satire-and-trump.md
+- _posts/2017-08-08-why-is-donna-brazile-still-emailing-me-the-tone-deaf-dnc-has-no-credibility.md
+- _posts/2017-08-08-we-mourn-manchester-but-not-kabul.md
+- _posts/2017-08-08-trumps-muslim-travel-ban-is-a-win-for-isis-this-must-see-film-about-syrian-journalists-shows-why.md
+- _posts/2017-08-08-this-is-what-democracy-looks-like-why-black-lives-matter-is-a-struggle-to-save-our-democracy.md
+- _posts/2017-08-08-mcclennen-to-keynote-in-sheffield-.md
+- _posts/2017-08-08-mcclennen-interviewed-with-wzbc-radio-news-in-boston-.md
+- _posts/2017-08-08-is-dead-donald-trump-funny-understanding-gallows-humor-in-the-trump-era.md
+- _posts/2017-08-08-greed-is-not-good-will-the-trump-team-disasters-finally-put-an-end-to-the-businessman-myth.md
+- _posts/2017-08-08-enough-with-the-colbert-defense.md
+- _posts/2017-04-24-mcclennen-talks-to-thom-hartmann-about-satire-and-trump-.md
+- _posts/2017-04-24-mcclennen-interviewed-on-sirius-xm-.md
+- _posts/2017-04-24-mcclennen-featured-on-watching-the-hawks.md
+- _posts/2017-04-24-bill-oreilly-ruined-the-news.md
+- _posts/2017-04-05-why-political-satire-is-the-antidote-to-trumpism.md
+- _posts/2017-04-05-mcclennen-on-bbc-scotland.md
+- _posts/2017-04-05-mcclennen-interview-for-group-therapy.md
+- _posts/2016-12-05-nodapl-is-nativelivesmatter-the-protests-at-standing-rock-are-not-only-about-environmentalism-theyre-about-racism.md
+- _posts/2016-12-05-like-a-double-dose-of-dubya-donald-trumps-presidency-will-be-like-the-george-w--bush-disaster--only-worse.md
+- _posts/2016-12-05-is-this-how-our-free-press-dies-how-our-45th-president-could-spell-the-end-of-an-independent-fourth-estate.md
+- _posts/2016-12-05-im-with-stupid-the-entire-2016-election-has-been-an-insult-to-our-intelligence.md
+- _posts/2016-12-05-im-mad-as-hell-and-im-not-going-to-take-it-anymore-understanding-anger-in-the-donald-trump-era.md
+- _posts/2016-12-05-academic-witch-hunts-are-back-the-new-mccarthyism-a-sign-of-the-stupidity-of-the-post-truth-era.md
+- _posts/2016-07-07-the-system-really-is-rigged-why-winner-take-all-voting-is-killing-our-democracy.md
+- _posts/2016-07-07-the-press-has-not-done-its-job-3-ways-the-media-has-failed-our-democracy-in-covering-the-election.md
+- _posts/2016-07-07-kennedy-center-podcast.md
+- _posts/2016-06-14-why-millennials-love-bernie-sanders-this-is-what-trump-hillary-and-chris-matthews-don-t-understand-about-how-politics-has-changed.md
+- _posts/2016-06-14-the-unexpected-side-effect-of-hillary-2016-how-she-transformed-democrats-into-new-republicans.md
+- _posts/2016-06-14-the-daily-show-is-dead-to-me-trevor-noah-will-never-ever-be-good-at-his-job.md
+- _posts/2016-06-14-mcclennen-to-keynote-conference-on-the-politics-of-dissent.md
+- _posts/2016-06-14-mcclennen-at-the-kennedy-center.md
+- _posts/2016-06-14-maybe-donald-trump-has-really-lost-his-mind.md
+- _posts/2016-06-14-bernie-sanders-is-not-a-sore-loser-our-democracy-is-screwed-unless-we-fix-the-unfair-rules.md
+- _posts/2016-04-21-mcclennen-introduces-bernie-sanders-at-penn-state-.md
+- _posts/2016-04-21-i-dared-criticize-fox-news-and-speak-up-for-samantha-bee.md
+- _posts/2016-03-30-can-a-russian-funded-cable-network-actually-promote-free-press-in-the-u-s-.md
+- _posts/2016-03-25-mcclennen-to-keynote-lawrence-u-film-festival.md
+- _posts/2016-03-25-mcclennen-awarded.md
+- _posts/2016-03-25-fox-news-stupidly-tries-to-slime-samantha-bee.md
+- _posts/2016-02-29-sutherland-lecture.md
+- _posts/2016-02-29-keynote-for-iup.md
+- _posts/2016-02-12-michael-moore-could-have-died-last-week-trying-to-get-back-to-just-breathing-is-enough-of-a-burden.md
+- _posts/2016-01-28-theres-no-beating-megyn-kelly-what-donald-trump-should-have-learned-from-her-fox-news-interview-with-michael-moore.md
+- _posts/2016-01-26-sarah-palins-american-lobotomy-the-republicans-keep-making-us-dumber-and-not-even-stephen-colbert-can-save-us.md
+- _posts/2016-01-25-interviewed-about-the-onion.md
+- _posts/2016-01-20-michael-moore-might-save-flint-moore-jon-stewart-john-oliver-keep-proving-satirists-get-more-done-than-politicians.md
+- _posts/2016-01-15-what-the-media-can-learn-from-bill-maher-1-year-after-charlie-hebdo-attack-satirists-still-taking-risks-news-outlets-wont.md
+- _posts/2016-01-07-they-created-our-bundytrump-hellscape-fox-news-angry-white-audience-will-destroy-us-yet.md
+- _posts/2016-01-04-donald-trump-has-made-us-all-aholes-how-2016-has-coarsened-us-all-into-fox-news-jerks.md
+- _posts/2015-12-26-michael-moore-just-exploded-the-rights-biggest-lie.md
+- _posts/2015-12-23-mcclennen-appears-on-rts-watching-the-hawks.md
+- _posts/2015-12-23-guest-on-thom-hartmanns-show-.md
+- _posts/2015-12-23-fox-news-new-war-on-truth-this-is-why-donald-trump-and-gop-field-get-away-with-lies.md
+- _posts/2015-12-17-where-to-invade-next.md
+- _posts/2015-12-16-washington-post.md
+- _posts/2015-12-09-cited-in-micheal-moores-new-film-trailer.md
+- _posts/2015-12-04-how-pervasive-anti-millennial-sentiment-has-hurt-the-cause-of-student-protesters.md
+- _posts/2015-11-23-republicans-just-dont-get-stephen-colbert-why-the-fox-news-watching-climate-change-denying-crowd-cant-understand-complex-satire.md
+- _posts/2015-11-18-lets-listen-to-bill-maher-on-paris-religion-and-race-maher-walks-a-fascinating-and-tricky-line.md
+- _posts/2015-11-13-trevor-noah-has-cratered-the-daily-show-he-has-no-bite-no-message.md
+- _posts/2015-11-05-michael-moores-gutsy-new-film-our-military-has-not-won-a-war-since-world-war-ii.md
+- _posts/2015-11-04-coddled-college-kids-arent-the-problem-the-lies-about-them-are.md
+- _posts/2015-10-19-larry-david-saved-bernie-sanders-snl-impression-made-him-human-likable--after-a-rough-debate-with-hillary-clinton.md
+- _posts/2015-10-15-trevor-noahs-master-class-its-not-just-fox-news--this-is-the-topic-that-needs-noah-oliver-stewart.md
+- _posts/2015-10-15-prof.-mcclennens-essay-on-alterlatino-identity-appears-in-the-journal-of-american-studies-of-turkey.md
+- _posts/2015-10-09-staggering-ways-america-rigged-traumatize-and-impoverish-kids-coming-out-college.md
+- _posts/2015-10-06-this-is-larry-wilmores-brilliant-moment-its-not-all-about-trevor-noah-on-comedy-central.md
+- _posts/2015-09-28-trevor_noah_gives_fox_news_a_free_pass_the_new_daily_show_could_be_great_for_ailes_and_hannity_bad_for_america.md
+- _posts/2015-09-24-so_much_for_stephen_colbert_dipping_his_balls_in_donald_trumps_mouth.md
+- _posts/2015-09-18-jon_stewart_come_back_we_need_you_gop_debate_bullst_really_does_need_eviscerating.md
+- _posts/2015-09-18-appearance-on-cnn-to-discuss-colbert.md
+- _posts/2015-09-11-screw-u-gops-war-college-students.md
+- _posts/2015-09-08-stephen_colbert_can_save_us_from_trump_but_we_all_must_mock_this_bozo.md
+- _posts/2015-09-04-introduction-to-focus.md
+- _posts/2015-08-19-new-book-release.md
+- _posts/2015-08-10-jon-stewart-flag-flying-for-political-satire.md
+- _posts/2015-08-10-jon-stewart-final-show-the-jon.md
+- _posts/2015-08-07-twitter_won_the_gop_debate_a_fitting_tribute_to_jon_stewart_who_made_citizen_satirists_of_us_all.md
+- _posts/2015-08-05-jon_stewarts_real_threat_to_fox_news_you_dont_get_to_define_patriotism.md
+- _posts/2015-07-20-jon_stewart_conquered_fox_news_essential_highlights_from_the_daily_shows_16_years_of_truth_telling.md
+- _posts/2015-07-15-fox_news_wore_jon_stewart_down_how_16_years_of_debunking_right_wing_lies_exhausted_the_last_honest_man.md
+- _posts/2015-06-19-stephen_colbert_roars_back_donald_trump_evisceration_suggests_gop_clown_car_in_for_a_world_of_hurt.md
+- _posts/2015-06-12-jerry_seinfelds_new_bizarro_world_the_sadness_of_watching_a_genius_age_into_bill_oreilly.md
+- _posts/2015-05-13-penn-state-awards.md
+- _posts/2015-05-13-p.md
+- _posts/2015-05-11-panel-discussion-debt-deliberations.md
+- _posts/2015-05-06-pamela_gellers_south_park_idiocy_satire_hatred_and_the_rights_faith_based_fear_mongering.md
+- _posts/2015-04-28-our_stunted_democracy_could_learn_from_kazakhstan_another_bushclinton_race_doesnt_look_free_to_the_rest_of_the_world.md
+- _posts/2015-04-24-clint-eastwood-still-a-jerk-his-new-michael-moore-threat-and-the-gops-fox-news-derangement-problem.markdown
+- _posts/2015-04-09-fox_news_rolling_stone_problem_imagine_a_panel_investigating_bill_oreillys_war_stories_and_megyn_kellys_hyperbole.md
+- _posts/2015-04-06-ted-cruz-isnt-idiot-hes-delusional-and-thats-far-more-dangerous.md
+- _posts/2015-04-06-presenting-is-satire-saving-our-nation.md
+- _posts/2015-04-01-trevor_noahs_fox_news_problem_the_real_challenge_facing_the_new_daily_show_host.md
+- _posts/2015-03-23-listen_up_frat_boys_you_are_not_jon_stewart.md
+- _posts/2015-03-17-speaking-on-is-satire-saving-our-nation.md
+- _posts/2015-03-10-hyping-fear-economic-engine-news-business-and-we-all-pay-price.md
+- _posts/2015-02-23-surprising-takeaway-2015-oscars-and-why-sean-penns-joke-fell-flat.md
+- _posts/2015-02-22-on-satire-and-politics-a-review.md
+- _posts/2015-02-20-my_first_impulse_is_to_call_you_a_dumb_obama_ass_licking_ct_american_sniper_fans_tell_me_off.md
+- _posts/2015-02-19-sophia-mcclennens-is-satire-saving-our-nation.md
+- _posts/2015-02-13-you-had-me-at-hello-how-jon-stewarts-first-episode-gave-birth-to-his-brand-of-satire-37508.md
+- _posts/2015-02-12-sophiamcclennen-interviewed-on-jon-stewart.md
+- _posts/2015-02-11-who_will_factcheck_fox_news_now_were_fked_without_stewart_and_colbert.md
+- _posts/2015-02-09-jon_stewarts_brian_williams_dilemma_how_will_daily_show_handle_a_friend_becoming_a_punchline.md
+- _posts/2015-02-04-speaking-on-the-rights-todebt.md
+- _posts/2015-02-04-speaking-frank2015.md
+- _posts/2015-02-03-speaking-society-for-critical-exchange.md
+- _posts/2015-01-29-michael-moore.md
+- _posts/2015-01-27-take-note-satire-saving-our-nation.md
+- _posts/2015-01-26-american_snipers_biggest_lie_clint_eastwood_has_a_delusional_fox_news_problem.md
+- _posts/2015-01-23-the-antiextremist-satire.md
+- _posts/2015-01-16-to_categorically_dismiss_the_cartoons_is_to_not_understand_them_in_context.md
+- _posts/2015-01-09-theyll_come_for_jon_stewart_next_why_satirists_always_threaten_fundamentalists.md
+- _posts/2014-12-24-i_got_slimed_by_rush_the_real_story_of_how_stephen_colbert_schooled_limbaugh_on_u_s_history_patriotism.md
+- _posts/2014-12-19-was-colbert-the-best-political-satirist-of-our-time.md
+- _posts/2014-12-19-the-stephen-colbert-legacy.md
+- _posts/2014-12-19-interview-with-wab-kinew.md
+- _posts/2014-12-18-10-reasons-it-sucks-to-lose.md
+- _posts/2014-12-17-evil_fox_news_idiocy_unchecked_as_stephen_colbert_departs_demented_loons_set_to_run_free.md
+- _posts/2014-12-12-stephen_colbert_schooled_fox_news_hard_comedy_bill_oreilly_and_the_exposure_of_right_wing_patriotism_lies.md
+- _posts/2014-12-05-doug-miles-interviews-me-on-is-satire-saving-our-nation.md
+- _posts/2014-12-03-interview-on-is-satire-saving-our-nation-with-jeff-shechtman.md
+- _posts/2014-11-19-interview-on-new-book-by-jean-dean-for-tristate-radio.md
+- _posts/2014-11-18-fox_news_misleads_about_jon_stewart_sean_hannity_bill_oreilly_and_the_insane_new_partisanship.md
+- _posts/2014-11-17-jon_stewarts_war_on_propaganda_hannity_cruz_sound_as_dogmatic_as_fundamentalist_iranians.md
+- _posts/2014-11-10-is-satire-saving-our-nation-is-the-1-hot-new-elease-in-media-studies.md
+- _posts/2014-11-04-jon_stewart_im_either_a_dildo_rolled_in_glitter_or_bob_dylan.md
+- _posts/2014-11-01-does-satire-news-influence-elections.md
+- _posts/2014-10-30-stewart_colbert_and_oliver_for_the_win_satire_millennials_and_fear_of_an_extreme_right_wing_senate.md
+- _posts/2014-10-30-lecture-on-human-rights.md
+- _posts/2014-10-27-first-time-penn-state-history-professor-and-undergrad-team-write.md
+- _posts/2014-10-23-research-center-led-sia-professor-obtains-grants-over-2-million-supporting-global-studies-penn.md
+- _posts/2014-10-17-bill_oreilly_finally_admits_it_im_really_obnoxious.md
+- _posts/2014-10-15-jon_stewart_knows_best_in_a_fox_news_world_we_need_satire_more_than_meet_the_press.md
+- _posts/2014-10-15-daily-collegian-covers-is-satire-saving-our-nation.md
+- _posts/2014-10-06-john_oliver_is_smarter_than_the_state_department_irony_will_not_defeat_isis.md
+- _posts/2014-10-02-stewart_colbert_save_the_day_bill_oreilly_and_fox_news_isis_insanity_makes_them_more_essential_than_ever.md
+- _posts/2014-10-01-book-trailer-is-satire-saving-our-nation.md
+- _posts/2014-09-04-is-neoliberalism-ruining-our-universities.md
+- _posts/2014-08-27-welcome-back-why-college-students-are-better-than-you-think.md
+- _posts/2014-07-16-ideas-of-the-decade.md
+- _posts/2014-07-16-book-cover.md
+- _posts/2014-07-16-472.md
+- _posts/2014-05-20-is-satire-saving-our-nation.md
+- _posts/2014-05-20-academe-reviews-my-new-co-authored-book.md
+- _posts/2013-10-09-new-book-contract.md
+- _posts/2013-10-09-its-not-a-game.md
+- _posts/2013-10-09-2013-peace-perspectives-lecture.md
+- _posts/2013-07-18-wpsu-reviews-colberts-america.md
+- _posts/2013-07-01-latin-american-cultural-studies-in-the-21st-century.md
+- _posts/2013-07-01-human-rights-and-literature.md
+- _posts/2013-02-05-looking-for-sanity-in-the-gun-debate-listen-to-the-comedians.md
+- _posts/2012-12-19-will-dunford-help-afghanistan.md
+- _posts/2012-12-19-satire-is-shaping-the-next-generation-of-american-citizens.md
+- _posts/2012-12-19-is-colbert-saving-us-democracy.md
+- _posts/2012-11-19-cronk-news-debut-podcast.md
+- _posts/2012-11-13-you-gotta-love-colberts-balls.md
+- _posts/2012-10-23-romnesia-is-the-new-truthiness-obama-learns-a-lesson-from-colbert.md
+- _posts/2012-10-23-canada-covers-colberts-america.md
+- _posts/2012-10-15-colbert-makes-citizenship-fun-the-philly-inquirer-review.md
+- _posts/2012-10-10-the-debate-you-really-want-to-watch-stewart-vs-oreilly.md
+- _posts/2012-10-10-colberts-america-is-a-smart-book.md
+- _posts/2012-10-05-comedians-take-bigger-role-in-political-scene.md
+- _posts/2012-09-26-its-arithmetic-the-romney-campaign-adds-up-to-lies-and-insults.md
+- _posts/2012-09-19-stephen-colbert-makes-political-particaption-enjoyable.md
+- _posts/2012-09-05-satires-has-influence-in-politics.md
+- _posts/2012-09-03-truthiness-is-not-a-joke-lying-and-loving-it-at-the-rnc.md
+- _posts/2012-08-28-democracy-satire-and-stephen-colbert.md
+- _posts/2012-08-26-how-to-get-stephen-colbert.md
+- _posts/2012-08-11-%e2%80%8bsatire-never-tells-you-what-to-think.md
+- _posts/2012-08-10-politicos-patrick-gavin-on-colberts-america.md
+- _posts/2012-07-30-radio-interview-on-colberts-america-with-angel-clark.md
+- _posts/2012-07-25-studying-stephen-colbert-seriously-funny.md
+- _posts/2012-07-16-am-i-a-colbert-coddler.md
+- _posts/2012-07-12-is-it-stupid-to-study-colbert.md
+- _posts/2012-07-09-truthinessology-the-stephen-colbert-effect-becomes-an-obsession-in-academia.md
+- _posts/2012-07-05-what-im-watching-july-4-2012.md
+- _posts/_posts/2012-06-29-douglas-kellner-professor-ucla.md
+- _posts/2012-06-29-interview-colbert-news-hub-the-nations-news-leader.md
+- _posts/_posts/2012-06-13-victoria-garrett-on-ariel-dorfman.md
+- _posts/_posts/2012-06-13-robert-f-barsky-on-ariel-dorfman.md
+- _posts/_posts/2012-06-13-paul-tiyambe-zeleza-on-the-dialectics-of-exile.md
+- _posts/_posts/2012-06-13-neil-larsen-on-the-dialectics-of-exile.md
+- _posts/_posts/2012-06-13-maria-helena-rueda-on-the-dialectics-of-exile.md
+- _posts/_posts/2012-06-13-k-m-sibbald-on-ariel-dorfman.md
+- _posts/_posts/2012-06-13-julio-ortega-on-the-dialectics-of-exile.md
+- _posts/_posts/2012-06-13-jeffrey-r-di-leo-on-representing-humanity.md
+- _posts/_posts/2012-06-13-james-dawes-on-representing-humanity.md
+- _posts/_posts/2012-06-13-henry-a-giroux-on-ariel-dorfman.md
+- _posts/_posts/2012-06-13-geoffrey-nunberg-on-colberts-america.md
+- _posts/_posts/2012-06-13-geoffrey-baym-on-colberts-america.md
+- _posts/_posts/2012-06-13-douglas-kellner-on-colberts-america.md
+- _posts/_posts/2012-06-13-debra-castillo-on-comparative-cultural-studies.md
+- _posts/_posts/2012-06-13-debra-a-castillo-on-ariel-dorfman.md
+- _posts/_posts/2012-06-13-daniel-john-nappo-on-comparative-cultural-studies.md
+- _posts/_posts/2012-06-13-ariel-dorfman-on-the-dialectics-of-exile.md
+- _posts/2012-06-13-video-mcclennen-on-colberts-america.md
+- _posts/_posts/2012-05-31-john-ochoa-on-the-dialectics-of-exile.md
+- _posts/2012-04-08-interview-viewpoints-media-traicks.md
+- _posts/2012-03-14-interview-goodbooks-kmbh.md
+- _posts/2012-03-14-intervew-topical-currents-wlrm.md
+- _posts/2012-02-24-nancy-pelosi-succumbs-to-the-power-of-colbert.md
+- _posts/2012-02-22-interview-wbal-news.md
+- _posts/2012-01-27-wheres-the-outrage-it-takes-comedians-to-stand-up-to-newts-hypocrisy.md
+- _posts/2012-01-23-whats-so-funny-why-colbert-is-funny-and-cain-is-not.md
+- _posts/2012-01-16-pac-daddy-colbert-makes-civics-lessons-fun.md
+- _posts/2011-12-23-merry-christmas-from-colbert-satires-special-gift.md
+- _posts/2011-11-28-is-there-a-way-to-be-good-again-how-to-be-a-man-after-the-penn-state-pedophilia-scandal.md
+- _posts/2011-11-27-teaching-the-kite-runner-at-penn-state.md
+- _posts/2011-11-14-has-the-colbert-nation-occupied-wall-street.md
+- _posts/2011-10-27-the-theory-and-practice-of-the-peruvian-grupo-chaski.md
+- _posts/2011-10-23-al-shir-wa-at-tadiib.md
+- _posts/2011-06-13-video-interview-mcclennen-on-ariel-dorfman.md
+- _posts/2011-06-13-praise-from-ariel-dorfman.md
+- _posts/2011-01-01-whats-left-for-latin-american-cultural-studies.md
+- _posts/2011-01-01-teaching-bad-books.md
+- _posts/2011-01-01-from-the-aesthetics-of-hunger-to-the-cosmetics-of-hunger-in-brazilian-cinema.md
+- _posts/2010-01-01-torture-and-truth-in-ariel-dorfmans-death-and-the-maiden.md
+- _posts/2010-01-01-beyond-death-and-the-maiden-ariel-dorfmans-media-criticism-and-journalism.md
+- _posts/2009-01-01-introducing-human-rights-and-literary-forms.md
+- _posts/2008-01-01-the-theory-and-practice-of-the-peruvian-grupo-chaski-2.md
+- _posts/2008-01-01-the-humanities-human-rights-and-the-comparative-imagination.md
+- _posts/2008-01-01-neoliberalism-and-the-crisis-of-intellectual-engagement.md
+- _posts/2008-01-01-introduction.md
+- _posts/2008-01-01-e-pluribus-unum-ex-uno-plura-legislating-and-deregulating-american-studies-post-911.md
+- _posts/2007-01-01-repression-and-resistance-in-higher-education.md
+- _posts/2007-01-01-countering-the-assault-on-higher-education.md
+- _posts/2007-01-01-area-studies-beyond-ontology-notes-on-latin-american-studies-american-studies-and-inter-american-studies.md
+- _posts/2006-09-01-the-geopolitical-war-on-u-s-higher-education.md
+- _posts/2005-05-01-forum-poetry-and-torture.md
+- _posts/2005-03-01-the-diasporic-subject-in-ariel-dorfmans-heading-south-looking-north.md
+- _posts/2005-01-01-inter-american-studies-or-imperial-american-studies.md
+- _posts/2005-01-01-exilic-perspectives-on-alien-nations.md
+- _posts/2004-09-01-poetry-and-torture.md
+- _posts/2003-12-01-after-civilization-the-theory-and-practice-of-introducing-latin-american-culture.md
+- _posts/2003-01-01-asi-fue-anti-colonial-narrative-in-alejo-carpentiers-concierto-barroco-and-reinaldo-arenass-el-mundo-alucinante.md
+- _posts/2002-01-01-designing-women-mexican-women-directors-and-feminist-film.md
+- _posts/2002-01-01-comparative-literature-and-latin-american-studies-from-disarticulation-to-dialogue.md
+- _posts/2002-01-01-an-introduction-to-comparative-cultural-studies-and-latin-america.md
+- _posts/2001-01-01-ariel-dorfman.md
+- _posts/2000-01-01-cultural-politics-rhetoric-and-the-essay-a-comparison-of-emerson-and-rodo.md
+- _posts/2000-01-01-chilex-the-economy-of-transnational-media-culture.md

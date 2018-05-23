@@ -1,0 +1,55 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: sharing
+  label: Sharing
+  type: boolean
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
+- name: include
+  label: Include
+  type: text
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: published
+  label: Published
+  type: boolean
+  hidden: false
+  default: ''
+pages:
+- pages/what-im-watching.md
+- pages/reviews.md
+- pages/news.md
+- pages/home.md
+- pages/books.md
+- pages/academics.md
+- pages/academic-writing.md
+- pages/academic-publications.md
+- pages/about.md
+- 404.html

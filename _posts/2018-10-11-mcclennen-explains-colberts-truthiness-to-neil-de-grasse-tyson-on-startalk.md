@@ -1,5 +1,5 @@
 ---
-title: McClennen expalins Colbert's Truthiniess to Neil de Grasse Tyson on StarTalk
+title: McClennen explains Colbert's Truthiness to Neil de Grasse Tyson on StarTalk
 category: news
 publication:
 image_path:

@@ -1,5 +1,5 @@
 ---
-title: Mc
+title: McClennen interviewed on satire and politics
 category: news
 publication:
 image_path:

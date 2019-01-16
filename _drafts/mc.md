@@ -1,6 +1,6 @@
 ---
 title: Mc
-category: what-im-watching
+category: news
 publication:
 image_path:
 link_to_original:

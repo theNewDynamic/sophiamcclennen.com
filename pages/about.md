@@ -14,11 +14,13 @@ As a child she lived in Manhattan, Washington DC, and Fort Lauderdale—a mix th
 
 She is currently [Professor of International Affairs and Comparative Literature](http://sia.psu.edu/faculty/sophia_mcclennen) at Penn State University and founding director of the [Center for Global Studies](http://cgs.psu.edu/). At Penn State she teaches courses on human rights culture, culture and globalization, media studies, global cinema, the cultures of displaced peoples, cultural trade policy, cross-cultural conflict resolution, and critical theory. [Click here for her Academics page](http://sophiamcclennen.com/academics/ "Academics"). [Click here for her academic bio.](http://sia.psu.edu/faculty/sophia_mcclennen)
 
-When she isn’t teaching or lecturing, she is writing. She has written three books, co-authored two, and co-edited three. She has published over 50 essays in books and journals. She regularly writes for [Salon][http://www.salon.com/] and [Huffington Post](http://www.huffingtonpost.com/sophia-a-mcclennen). She has also had pieces in *Alternet*, *Truthout*, *The Chronicle of Higher Education*, and *Counterpunch*.
+When she isn’t teaching or lecturing, she is writing. She has published eleven books and has two in process. Her most recent book is *Globalization and Latin American Cinema: Toward a New Critical Paradigm* (Palgrave 2018).&nbsp; She also co-edited *The Debt Age* (Routledge 2018) with Jeffrey Di Leo and Peter Hitchcock. Other recent books include&nbsp;*The Routledge Companion to Human Rights and Literature*&nbsp;(2015), co-edited with Alexandra Schultheis Moore, which includes over 50 contributions to the topic. She also recently published,&nbsp;*Is Satire Saving our Nation? Mockery and American Politics&nbsp;*(Palgrave 2014), co-authored with Penn State communications undergraduate Remy Maisel, and&nbsp;*Neoliberalism, Terrorism, Education&nbsp;*(Paradigm 2013), which she co-wrote with Jeffrey Di Leo, Henry Giroux, and Kenneth Saltman. Her current book project is&nbsp;*Trump is a Joke: Why Satire Makes Sense When Politics Doesn’t*, which analyzes the role that political satire has played in the Trump era.&nbsp; She is also working on a book in the global impact of political satire: *The Revolution Will Be Satirized*.
+
+She has published over 60 essays in books and journals. She writes regularly for&nbsp;*Salon*&nbsp;and has published in&nbsp;*Huffington Post, Daily Beast, Truthout, Counterpunch*, and other sites as well. &nbsp;She has been interviewed by Neil de Grasse Tyson, CNN, BBC TV, Wall Street Journal TV, HuffPost Live, The Chicago Tribune, The Washington Post, The Philadelphia Inquirer, Politico, Variety, The Hill, NPR-Miami, and CBC Canada among others. Find her on Twitter @mcclennen65.
 
 One of the great benefits to her work has been the opportunity to travel. In 2006 she was the Fulbright Research Chair in Globalization and Cultural Studies at Dalhousie University in Halifax, Nova Scotia, Canada and she also held a Fulbright faculty award in Peru (2003) where she researched Peruvian cinema.&nbsp; She has taught in Chile, Germany, and Peru, and has also done research in Argentina, Bolivia, Mexico, Spain, Guatemala, Uruguay, and Costa Rica.
 
-When she isn’t working, she practices Pilates, stand up paddling, and teaches kickboxing.&nbsp; In summers she races wooden sailboats with her family on Cape Cod. She spends a lot of time on social media and she loves watching clips of Colbert, Stewart, Oliver and more–but since it helps her research she counts that as work and play.&nbsp; She reads twitter more often than\* The New York Times. \*
+When she isn’t working, she practices Pilates, stand up paddling, and teaches yoga.&nbsp; In summers she races wooden sailboats with her family on Cape Cod. She spends a lot of time on social media and she loves watching clips of Colbert, Stewart, Oliver and more–but since it helps her research she counts that as work and play.&nbsp; She reads twitter more often than *The New York Times*.
 
 She lives with her two children in State College, PA. They enjoy the ease of small town living and explore cities whenever possible.
 
@@ -26,6 +28,4 @@ She lives with her two children in State College, PA. They enjoy the ease of sma
 
 Write to Sophia McClennen at [sophia.mcclennen@gmail.com](mailto:sophia.mcclennen@gmail.com)
 
-&nbsp;
-
-Publicity:<br>Tess Woods<br>[tess.woods@newmancom.com](mailto:tess.woods@newmancom.com)<br>Newman Communications<br>125 Walnut St. Suite 205<br>Watertown, MA 02472<br>(617) 254-4500
+Publicity:<br>Elise Bogdan<br>elise.bogdan@newmancom.com<br>Newman Communications<br>125 Walnut St. Suite 205<br>Watertown, MA 02472<br>(617) 254-4500

@@ -17,6 +17,8 @@
       {% endfor %}
     </section>
     <div class="hero-copy">
+      {% include global/contribute-button.html %}
+      <br><br>
       {% assign posts = site.categories.news %}
       <h5><a href="/news/" style="color:#111;">News</a></h5>
       {% for news in posts limit: 4 %}

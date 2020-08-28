@@ -1,7 +1,7 @@
 ---
 title: The Routledge Companion to Human Rights and Literature
 date: 2018-11-08 12:00:00
-cover_image: /assets/img/RC-Literature-and-Human-Rights_736411 copy.jpg
+cover_image: /assets/img/RC-Literature-and-Human-Rights_736411-300x427.jpg
 category:
 layout: book
 publisher:

@@ -1,7 +1,7 @@
 ---
 title: Pranksters vs. Autocrats
 date: 2020-10-08 12:00:00
-cover_image: /assets/img/pranksters.jpg
+cover_image: pranksters.jpg
 category:
 layout: book
 publisher:

@@ -1,7 +1,7 @@
 ---
 title: 'Globalization and Latin American Cinema: Towards a New Critical Paradigm'
 date: 2018-11-08 12:00:00
-cover_image: 'https://images.springer.com/sgw/books/medium/9783319570594.jpg'
+cover_image: 9783319570594.jpg
 category: news
 layout: book
 publisher:

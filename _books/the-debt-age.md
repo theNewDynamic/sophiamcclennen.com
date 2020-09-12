@@ -2,7 +2,7 @@
 title: The Debt Age
 date: 2018-02-03 12:00:00
 cover_image: debt-age.jpg
-category:
+category: trade
 layout: book
 publisher:
   -

@@ -2,7 +2,7 @@
 title: The Routledge Companion to Human Rights and Literature
 date: 2018-11-08 12:00:00
 cover_image: 9780415736411.jpg
-category:
+category: academic
 layout: book
 publisher:
   -

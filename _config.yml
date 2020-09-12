@@ -145,8 +145,7 @@ prose:
           field:
             label: 'Include Snippet'
             element: 'text'
-            help: 'for developer use only'
-            label: 'snippet'
+            help: 'for developer use only'            
         - name: 'sharing'
           field:
             element: 'checkbox'

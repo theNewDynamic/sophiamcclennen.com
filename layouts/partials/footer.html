@@ -1,0 +1,10 @@
+<footer class="border-t border-b bg-gray-400 text-white py-12">
+  <div class="tnd-container">
+    {{ with site.Params.description }}
+      {{ $.RenderString . }}
+    {{ end }}
+    <div class="font-bold my-4">
+      {{ i18n "copyright" }} {{ now.Format "2006" }} {{ site.Title }}
+    </div>
+  </div>
+</footer>

@@ -1,7 +1,0 @@
-{% assign books = site.books | where: 'featured', true | sort: 'date' %}
-
-{% for book in books %}
-	<a href="{{book.url}}" class="cover-transform-{{ forloop.index }}">
-		<img src="/assets/img/{{book.cover_image}}" class="book-cover">
-	</a>
-{% endfor  %}

@@ -1,0 +1,17 @@
+# Config Base
+# This is where root config key goes.
+# ###################################
+title: Sophia A. McClennen
+baseURL: https://www.sophiamcclennen.com
+DefaultContentLanguage: en
+enableRobotsTXT: true
+disableAliases: true
+# Some bugs related to 404 template https://github.com/gohugoio/hugo/issues/7603
+disableKinds:
+  - '404'
+social:
+  twitter: mcclennen65
+  facebook: sophia.mcclennen
+taxonomy:
+  category: categories
+googleAnalytics: UA-21655936-27

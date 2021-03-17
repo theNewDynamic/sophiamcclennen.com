@@ -1,0 +1,7 @@
+# Languages
+# Each language key stands as its language code
+# ################################
+en:
+  languageName: English
+  weight: 1
+  contentDir: content/en

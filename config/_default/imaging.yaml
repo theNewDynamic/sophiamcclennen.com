@@ -1,0 +1,10 @@
+# Imaging
+# If using Hugo's image processing
+# https://gohugo.io/content-management/image-processing/#image-processing-config
+# ################################
+quality: 95
+resampleFilter: lanczos
+exif:
+  disableDate: true
+  disableLatLong: true
+  excludeFields: .*

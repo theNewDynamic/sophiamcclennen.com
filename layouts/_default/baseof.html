@@ -1,0 +1,15 @@
+<html lang="{{ site.Language.Lang }}" class="no-js">
+  <head>
+    {{ partial "head.html" . }}
+    {{ block "addtohead" . }}{{ end }}
+  </head>
+  <body class="no-js">
+    {{ partial "header.html" . }}
+    <main class="max-w-7xl mx-auto">
+      {{ block "main" . }}
+        
+      {{ end }}
+    </main>
+    {{ partial "footer" . }}
+  </body>
+</html>

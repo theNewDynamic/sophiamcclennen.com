@@ -1,0 +1,107 @@
+description: |
+  Sophia A. McClennen works on the intersections between culture, politics, and society. Her books focus on cultural responses to complex social change, such as the connections between the satire of Stephen Colbert and post 9/11 politics or the exile writing of Ariel Dorfman and dictatorship in 1970s Latin America. Her work often analyzes the links between political events and their media representations, which has led her to critique the relationship between mainstream culture, political praxis, stereotypes, and social injustice.
+
+# ###############
+# TND SEO
+# https://github.com/theNewDynamic/hugo-module-tnd-seo#settings
+# ###############
+tnd_seo:
+  jsonld: true
+  enable_follow: true
+  disable_title: false
+
+# ###############
+# TND STYLES
+# https://github.com/theNewDynamic/hugo-module-tnd-styles#fonts
+# ###############
+tnd_styles:
+  fonts:
+  - family: Open
+    file: fonts/open-sans-v17-latin-300
+    weight: 300
+    style: normal
+  - family: Open
+    file: fonts/open-sans-v17-latin-300italic
+    weight: 300
+    style: italic
+  - family: Open
+    file: fonts/open-sans-v17-latin-regular
+    weight: 400
+  - family: Open
+    file: fonts/open-sans-v17-latin-italic
+    weight: 400
+    style: italic
+  - family: Open
+    file: fonts/open-sans-v17-latin-700
+    weight: 700
+    style: normal
+  - family: Open
+    file: fonts/open-sans-v17-latin-700italic
+    weight: 700
+    style: italic
+
+# ###############
+# TND FORMS
+# ###############
+tnd_forms:
+  css:
+    form: 'my-10 mx-auto'
+    control: mb-3
+    hidden: 'hidden'
+    submit: block w-full mt-6 border border-green-500 bg-green-200
+    input: border
+    textarea: border
+    select: block border w-fullw
+    select_wrapper: inline-block relative w-full mb-3
+
+# ###############
+# TND REDIRECTS
+# https://github.com/theNewDynamic/hugo-module-tnd-redirects#api
+# ###############
+tnd_redirects:
+  use_aliases: true
+  rules:
+    # Following rule for production
+    # - origin: https://that-project.netlify.com/*
+    #  target: https://www.that-project.com/:splat
+    #  code: 301
+    #  force: true
+    - origin: /example-1234
+      target: /example
+
+# ###############
+# TND HEADERS
+# https://github.com/theNewDynamic/hugo-module-tnd-headers#adding-custom-headers
+# ###############
+tnd_headers:
+  groups:
+    - headers:
+      - field: Content-Security-Policy
+        value: upgrade-insecure-requests
+      - field: Strict-Transport-Security
+        value: max-age=15768000
+      - field: X-Xss-Protection
+        value: 1; mode=block
+      - field: X-Frame-Options
+        value: DENY
+      - field: X-Content-Type-Options
+        value: nosniff
+      - field: Referrer-Policy
+        value: strict-origin-when-cross-origin
+      - field: Feature-Policy
+        value: camera 'none'; geolocation 'none'; microphone 'none';
+
+# ###############
+# TND Search
+# https://github.com/theNewDynamic/hugo-module-tnd-search/tree/master#settings
+# ###############
+tnd_search:
+  service: algolia
+
+tnd_books:
+  retailers:
+  - id: barnesandnoble
+    label: Barnes & Noble
+  - id: amazon
+    label: Amazon
+

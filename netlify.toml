@@ -1,0 +1,24 @@
+[build]
+publish = "public"
+command = "hugo --minify -e netlify"
+
+[build.environment]
+  GO_VERSION = "1.14"
+  NODE_VERSION = "15.4.0"
+  HUGO_VERSION = "0.81.0"
+
+[context]
+
+[context.production]
+
+[context.production.environment]
+HUGO_ENV = "production"
+
+[context.deploy-preview]
+command = "hugo --minify -e netlify -D -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+command = "hugo --minify -e netlify -b $DEPLOY_URL"
+
+[context.master]
+command = "hugo --minify -e netlify -b $DEPLOY_URL"

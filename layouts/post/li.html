@@ -1,0 +1,8 @@
+<h2 class="text-3xl font-bold">
+  <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
+</h2>
+<time datetime="{{ .Date }}">{{ .Date.Format "Monday January 2, 2006" }}</time>
+<div class="my-12 prose">
+  {{ .Summary }}
+</div>
+

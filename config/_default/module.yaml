@@ -1,0 +1,23 @@
+# Module
+# https://gohugo.io/hugo-modules/configuration/
+# https://www.thenewdynamic.com/article/hugo-modules-everything-from-imports-to-create/
+# ################################
+mounts:
+  - source: layouts
+    target: layouts
+  # Returning partials are core elements which should sit at the root of the project.
+  - source: func
+    target: layouts/partials/func
+imports:
+  - path: github.com/theNewDynamic/hugo-module-tnd-seo
+  - path: github.com/theNewDynamic/hugo-module-tnd-styles
+  - path: github.com/theNewDynamic/hugo-module-tnd-socials
+  - path: github.com/theNewDynamic/hugo-module-tnd-headers
+  - path: github.com/theNewDynamic/hugo-module-tnd-redirects
+  - path: github.com/theNewDynamic/hugo-module-tnd-netlifycms
+  - path: github.com/theNewDynamic/hugo-module-tnd-icons
+  - path: github.com/theNewDynamic/hugo-component-tnd-blocks
+  - path: github.com/theNewDynamic/hugo-module-tnd-func
+  - path: github.com/theNewDynamic/hugo-module-tnd-books
+  # If we need iuebenda
+  # - path: github.com/theNewDynamic/hugo-module-tnd-iubenda

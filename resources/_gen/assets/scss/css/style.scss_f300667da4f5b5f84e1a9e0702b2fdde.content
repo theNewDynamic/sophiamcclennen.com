@@ -1,0 +1,16 @@
+@import url(/Users/regisphilibert/Boulot/tnd/sophiamcclennen.com/assets/css/tailwind/utilities.css);
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column; }
+
+main {
+  flex: 1; }
+
+.tnd-container {
+  @apply max-w-5xl mx-auto px-4; }
+
+.pagination {
+  @apply flex justify-center items-center; }
+  .pagination .page-item a {
+    @apply px-4; }

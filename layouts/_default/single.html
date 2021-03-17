@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div class="tnd-container">
+  <div class="md:grid grid-cols-8">
+    <div class="col-span-6">
+      <h1 class="text-3xl font-bold">
+        <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
+      </h1>
+      <time datetime="{{ .Date }}">{{ .Date.Format "Monday January 2, 2006" }}</time>
+      <div class="my-12 prose">
+        {{ .Content }}
+      </div>
+      {{ with .Params.link_to_original }}
+      <div>
+        Read the rest:  <a class="text-blue-500" href="{{ . }}">link to original</a>
+      </div>
+      {{ end }}
+    </div>
+    <div class="col-span-2">
+      <div class="border p-4 my-4">
+        {{ partial "recent-posts.html" . }}
+      </div>
+      <div class="border p-4 my-4">
+        {{ range site.Taxonomies.categories }}
+          <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  
+</div>
+{{ end }}

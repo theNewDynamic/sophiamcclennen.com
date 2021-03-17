@@ -1,0 +1,7 @@
+{{ with site.Menus.main }}
+  <div class="mt-8">
+    {{ range . }}
+      <a class="inline-block py-1 px-4 border" href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+  </div>
+{{ end }}

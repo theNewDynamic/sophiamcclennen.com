@@ -8,6 +8,6 @@ dsq_thread_id:
 
 category: news
 ---
-Kaitlyn Zurcher of *The Daily Collegian* covers *Colbert&#8217;s America* [here][1].
+Kaitlyn Zurcher of *The Daily Collegian* covers *Colbert’s America* [here][1].
 
  [1]: http://www.collegian.psu.edu/archive/2012/09/05/Satire_in_Politics.aspx

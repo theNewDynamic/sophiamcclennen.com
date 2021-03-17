@@ -14,7 +14,7 @@ categories:
 
 ![](/assets/img/Screen-Shot-2012-12-19-at-6.02.02-PM.png)
 
-Watch this Huffington Post Live Segment where I&#8217;m interviewed along with Brian Morgenstern and Chris Tyson on Joseph Dunford&#8217;s appointment to lead US forces in Afghanistan.
+Watch this Huffington Post Live Segment where I’m interviewed along with Brian Morgenstern and Chris Tyson on Joseph Dunford’s appointment to lead US forces in Afghanistan.
 
 &nbsp;
 

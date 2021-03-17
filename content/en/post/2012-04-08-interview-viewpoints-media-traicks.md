@@ -17,6 +17,6 @@ category: news
 tags:
   - Press
 ---
-Click here for [McClennen&#8217;s interview on Viewpoints on Media Tracks][1].
+Click here for [McClennen’s interview on Viewpoints on Media Tracks][1].
 
  [1]: http://www.mediatracks.com/Segments/Politics_and_Comedy.mp3

@@ -8,6 +8,6 @@ dsq_thread_id:
 
 category: news
 ---
-Peter Bart from *Variety *[on Colbert&#8217;s new book and mine][1].
+Peter Bart from *Variety *[on Colbert’s new book and mine][1].
 
  [1]: http://www.variety.com/article/VR1118060396?refCatId=14

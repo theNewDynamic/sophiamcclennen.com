@@ -1,5 +1,5 @@
 ---
-title: 'Geoffrey Nunberg on Colbert&#8217;s America'
+title: 'Geoffrey Nunberg on Colbert’s America'
 permalink: /reviews/geoffrey-nunberg-on-colberts-america/
 related_book: colberts-america
 attribution: "Geoffrey Nunberg, Adjunct Full Professor, School of Information, University of California at Berkeley"

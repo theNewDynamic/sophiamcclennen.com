@@ -1,5 +1,5 @@
 ---
-title: 'WPSU Reviews Colbert&#8217;s America'
+title: 'WPSU Reviews Colbert’s America'
 author: Sophia McClennen
 layout: post
 # url: /news/wpsu-reviews-colberts-america/

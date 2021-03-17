@@ -1,5 +1,5 @@
 ---
-title: 'Geoffrey Baym on Colbert&#8217;s America'
+title: 'Geoffrey Baym on Colbert’s America'
 permalink: /reviews/geoffrey-baym-on-colberts-america/
 related_book: colberts-america
 attribution: Geoffrey Baym, Associate Professor, Department of Media Studies, University of North Carolina Greensboro

@@ -8,6 +8,6 @@ dsq_thread_id:
 
 category: news
 ---
-Penn State Live [covers][1] Colbert&#8217;s America.
+Penn State Live [covers][1] Colbert’s America.
 
  [1]: http://live.psu.edu/story/63333

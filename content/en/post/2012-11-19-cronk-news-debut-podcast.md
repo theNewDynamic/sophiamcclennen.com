@@ -15,7 +15,7 @@ dsq_thread_id:
 
 category: news
 ---
-Leah Wescott of [Cronk News][1] interviewed me for the debut [podcast][2] for &#8220;[Fridays are Satiredays][3]&#8220;.
+Leah Wescott of [Cronk News][1] interviewed me for the debut [podcast][2] for “;[Fridays are Satiredays][3]“;.
 
  [1]: http://www.cronknews.com/
  [2]: http://recordings.talkshoe.com/TC-124369/TS-681404.mp3

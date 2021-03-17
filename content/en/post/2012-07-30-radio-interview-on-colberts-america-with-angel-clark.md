@@ -1,5 +1,5 @@
 ---
-title: 'Radio interview on Colbert&#8217;s America with Angel Clark'
+title: 'Radio interview on Colbert’s America with Angel Clark'
 author: Sophia McClennen
 layout: post
 # url: /news/radio-interview-on-colberts-america-with-angel-clark/

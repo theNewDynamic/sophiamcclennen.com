@@ -13,7 +13,7 @@ title: Academic Publications
 Special issue of symploke. 20.1-2. (Fall 2012).
 
 
-&#8220;The Generation of ’72&#8243; &#8211; with Brantley Nicholson, eds.
+“;The Generation of ’72&#8243; &#8211; with Brantley Nicholson, eds.
 
 Special issue of A contracorriente. 10.1 (Fall 2012.)
 
@@ -150,7 +150,7 @@ Special issue of A contracorriente. 10.1 (Fall 2012.)
 
 11. “The World According to Miramax: Chocolate, Poetry and Neoliberal Aesthetics.” American Visual Cultures. Eds. Dave Holloway and John Beck. London: Continuum, March 2005. 241–48.
 
-12. “La cultura latinoamericana y los estudios interamericanos: proposiciones, peligros, posibilidades.” Espacios y discursos compartidos en la literatura de América Latina. Ed. Biagio D&#8217;Angelo. Lima: Fondo Editorial de la Universidad Católica Sedes Sapientiae, 2004. 259–72.
+12. “La cultura latinoamericana y los estudios interamericanos: proposiciones, peligros, posibilidades.” Espacios y discursos compartidos en la literatura de América Latina. Ed. Biagio D’Angelo. Lima: Fondo Editorial de la Universidad Católica Sedes Sapientiae, 2004. 259–72.
 
 13. *Reprint: “Comparative Literature and Latin American Studies: From Disarticulation to Dialogue.” Comparative Cultural Studies and Latin America. Eds. Sophia A. McClennen and Earl E. Fitz. West Lafayette, IN: Purdue UP, 2004. 111–36.
 

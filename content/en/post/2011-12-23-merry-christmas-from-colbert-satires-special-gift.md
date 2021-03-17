@@ -1,5 +1,5 @@
 ---
-title: 'Merry Christmas from Colbert: Satire&#8217;s Special Gift'
+title: 'Merry Christmas from Colbert: Satire’s Special Gift'
 date: 2011-12-23 12:00:00
 categories: 
 - what-im-watching

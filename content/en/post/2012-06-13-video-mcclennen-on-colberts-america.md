@@ -1,5 +1,5 @@
 ---
-title: 'Video: McClennen on Colbert&#8217;s America'
+title: 'Video: McClennen on Colbert’s America'
 author: Sophia McClennen
 layout: post
 # url: /news/video-mcclennen-on-colberts-america/

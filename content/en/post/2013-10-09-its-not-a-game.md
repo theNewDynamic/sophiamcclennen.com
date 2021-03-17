@@ -1,5 +1,5 @@
 ---
-title: 'It&#8217;s NOT a Game!'
+title: 'It’s NOT a Game!'
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/its-not-a-game/

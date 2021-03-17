@@ -35,7 +35,7 @@ Email: <sophia.mcclennen@gmail.com>
 *   [CMLIT 597B: Projecting Identity: Nationalism, Globalization, and Cinema][8]
 *   [SPAN 220: Reading Ibero-American Civilization][9]
 *   [SPAN 253: Introduction to Hispanic Literature][10]
-*   [SPAN 355: Survey of Spanish American Literature through &#8220;Modernismo&#8221;][11]
+*   [SPAN 355: Survey of Spanish American Literature through “;Modernismo”][11]
 *   [CMLIT 405: Inter-American Literature (Focus on Personal Narrative in the Americas)][12]
 *   [CMLIT005H: Literature of the Americas][13]
 *   [CMLIT405: Inter-American Literature (Focus on The Representation of Sex, Power, and Politics in the Americas)][14]

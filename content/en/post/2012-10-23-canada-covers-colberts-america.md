@@ -1,5 +1,5 @@
 ---
-title: 'Canada Covers Colbert&#8217;s America'
+title: 'Canada Covers Colbert’s America'
 author: Sophia McClennen
 layout: post
 # url: /news/canada-covers-colberts-america/

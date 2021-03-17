@@ -1,5 +1,5 @@
 ---
-title: 'The Generation of &#8217;72'
+title: "The Generation of '72"
 date: 2014-07-16 12:00:00
 category: trade
 editions:

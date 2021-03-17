@@ -1,5 +1,5 @@
 ---
-title: 'Colbert&#8217;s America is a &#8220;smart book.&#8221;'
+title: "Colbert's America is a smart book."
 author: Sophia McClennen
 layout: post
 # url: /news/colberts-america-is-a-smart-book/

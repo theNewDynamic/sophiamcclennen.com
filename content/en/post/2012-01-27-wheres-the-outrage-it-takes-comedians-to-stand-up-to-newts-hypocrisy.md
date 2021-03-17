@@ -1,5 +1,5 @@
 ---
-title: 'Where&#8217;s the Outrage? It Takes Comedians to Stand Up to Newt&#8217;s Hypocrisy'
+title: "Where's the Outrage? It Takes Comedians to Stand Up to Newt's Hypocrisy"
 date: 2012-01-27 12:00:00
 categories: 
 - what-im-watching

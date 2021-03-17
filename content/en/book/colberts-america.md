@@ -1,5 +1,5 @@
 ---
-title: 'Colbert&#8217;s America'
+title: "Colbert's America"
 featured: true
 date: 2012-07-03 12:00:00
 category: trade

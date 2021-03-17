@@ -1,5 +1,5 @@
 ---
-title: 'What&#8217;s So Funny? Why Colbert Is Funny and Cain Is Not'
+title: "What's So Funny? Why Colbert Is Funny and Cain Is Not"
 date: 2012-01-23 12:00:00
 categories: 
 - what-im-watching

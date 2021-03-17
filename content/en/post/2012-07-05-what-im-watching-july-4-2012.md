@@ -1,5 +1,5 @@
 ---
-title: 'What I&#8217;m Watching: July 4, 2012'
+title: "What I'm Watching: July 4, 2012"
 author: Sean Concannon
 layout: post
 # url: /what-im-watching/what-im-watching-july-4-2012/

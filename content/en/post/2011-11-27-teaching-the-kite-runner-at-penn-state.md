@@ -1,5 +1,5 @@
 ---
-title: 'Teaching &#8216;The Kite Runner&#8217; at Penn State'
+title: "Teaching 'The Kite Runner' at Penn State"
 date: 2011-11-27 12:00:00
 categories: 
 - what-im-watching

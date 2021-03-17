@@ -1,42 +1,28 @@
-# Ignore docs files
-_gh_pages
-_site
-
-# Numerous always-ignore extensions
-*.diff
-*.err
-*.orig
-*.log
-*.rej
-*.swo
-*.swp
-*.zip
-*.vi
-*~
-
-# OS or Editor folders
-*.scssc
+# OS
 .DS_Store
-._*
 Thumbs.db
-.cache
+
+# IDEs
+.buildpath
 .project
-.settings
-.tmproj
-*.esproj
-nbproject
-*.sublime-project
-*.sublime-workspace
-.idea
-*.scssc
+.settings/
+.build/
+.idea/
+nbproject/
 
-# Komodo
-*.komodoproject
-.komodotools
+# Vagrant
+.vagrant/
 
-# grunt-html-validation
-validation-status.json
-validation-report.json
+# FE Setup
+.bin/node_modules/
+/node_modules/
+/npm-debug.log.*
+/npm-debug.log
+/npm-debug.log*
 
-# Folders to ignore
-node_modules
+# Hugo
+hugo_stats.json
+/public/
+
+# Local Netlify folder
+.netlify

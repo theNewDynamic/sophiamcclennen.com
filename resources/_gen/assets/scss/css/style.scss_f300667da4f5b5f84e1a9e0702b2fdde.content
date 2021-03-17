@@ -1,4 +1,4 @@
-@import url(/Users/regisphilibert/Boulot/tnd/sophiamcclennen.com/assets/css/tailwind/utilities.css);
+@import url(/Users/regisphilibert/Boulot/tnd/sophiamcclennen.old/assets/css/tailwind/utilities.css);
 body {
   display: flex;
   min-height: 100vh;

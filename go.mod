@@ -1,14 +1,12 @@
 module github.com/theNewDynamic/sophiamcclennen.com
 
-replace github.com/theNewDynamic/hugo-module-tnd-books => /Users/regisphilibert/Boulot/tnd/hugo-module-tnd-books
-
 go 1.14
 
 require (
 	github.com/itemsapi/itemsjs v1.0.30 // indirect
 	github.com/theNewDynamic/hugo-component-tnd-blocks v0.0.0-20200618163712-a1fce85c0c7b // indirect
 	github.com/theNewDynamic/hugo-component-tnd-func v0.0.0-20200618164051-1db2b8f979ad // indirect
-	github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210316195248-229821ef3a79 // indirect
+	github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210317193634-45b2b6bf5fcb // indirect
 	github.com/theNewDynamic/hugo-module-tnd-forms v0.0.0-20210215134930-f4988c330b3b // indirect
 	github.com/theNewDynamic/hugo-module-tnd-func v0.0.0-20210316194241-a6d99cfae5a6 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-headers v0.1.4 // indirect

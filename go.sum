@@ -3,6 +3,9 @@ github.com/itemsapi/itemsjs v1.0.30/go.mod h1:n0bSxNsQ5NGV8tQVFHW5rh5m0Wi6H2iCWW
 github.com/theNewDynamic/hugo-component-tnd-blocks v0.0.0-20200618163712-a1fce85c0c7b h1:KTmxxuhuWevdfoN4rQz8Dq/ZGivhCcky1jFYoqT9xtI=
 github.com/theNewDynamic/hugo-component-tnd-blocks v0.0.0-20200618163712-a1fce85c0c7b/go.mod h1:VnztlqJpuK/eTa1KFBvyNCg3OgBGIwCxfccBMLJY3LM=
 github.com/theNewDynamic/hugo-component-tnd-func v0.0.0-20200618164051-1db2b8f979ad/go.mod h1:5B6aZlBcTImDoqa1jfbrRIuAX/VF2P4IWv9j7iBlGzE=
+github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210316195248-229821ef3a79/go.mod h1:TdaxDaT3NKAmACVDPufOGCYivfO8Ty8d0ThXPPEvlYk=
+github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210317193634-45b2b6bf5fcb h1:kUDK216oPbQLX8AWNNTwn6qcSR0z9ZJf3ms/17FQlv8=
+github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210317193634-45b2b6bf5fcb/go.mod h1:TdaxDaT3NKAmACVDPufOGCYivfO8Ty8d0ThXPPEvlYk=
 github.com/theNewDynamic/hugo-module-tnd-forms v0.0.0-20210215134930-f4988c330b3b h1:9c6rJy1OcyMWSztcuvqPe8F5FLLjnWVoIqOWnyUnp9c=
 github.com/theNewDynamic/hugo-module-tnd-forms v0.0.0-20210215134930-f4988c330b3b/go.mod h1:j9sQrPJ9va1OJYgokFkc15g/Y8BeeWzW26nJqtI8puQ=
 github.com/theNewDynamic/hugo-module-tnd-func v0.0.0-20210316194241-a6d99cfae5a6 h1:ml2d8bfTjJP9+XkNUwuayb6b461nmJOOcBIiE7/+RRU=

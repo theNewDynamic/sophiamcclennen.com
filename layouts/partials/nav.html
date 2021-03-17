@@ -1,7 +1,9 @@
+{{ $currentPage := . }}
 {{ with site.Menus.main }}
   <div class="mt-8">
     {{ range . }}
-      <a class="inline-block py-1 px-4 border" href="{{ .URL }}">{{ .Name }}</a>
+      <a class="inline-block px-4 py-1 border" href="{{ .URL }}">{{ .Name }}</a>
+      {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}
     {{ end }}
   </div>
 {{ end }}

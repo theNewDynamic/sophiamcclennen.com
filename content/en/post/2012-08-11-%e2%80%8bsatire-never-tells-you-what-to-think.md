@@ -11,4 +11,4 @@ categories:
 ---
 Quoted alongside Al Franken in John Rash’s “;[Laughing at, but not with, our politicians][1]” for the *Star Tribune*.
 
- [1]: http://www.startribune.com/opinion/commentaries/165790446.html
+ [1]: https://www.startribune.com/opinion/commentaries/165790446.html

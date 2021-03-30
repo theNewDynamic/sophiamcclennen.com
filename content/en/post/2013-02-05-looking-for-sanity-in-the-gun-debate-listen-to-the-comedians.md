@@ -20,7 +20,7 @@ But it’s much worse than that. This debate is not just about guns; it’s abou
 
 Beyond the real concerns any of us should have over the outcome of this conflict, our main worry should be the fact that the lack of dialogue, the absence of meaningful discussion of the issues, the political posturing, and the media coverage reveal a democracy in crisis.
 
-We have shrill and outrageous statements made in public: Like <a href="http://www.huffingtonpost.com/2013/01/15/james-yeager-tactical-response_n_2478594.html" target="_hplink">that of James Yeager</a>, CEO of Tactical Response, a Tennessee company that trains people in weapon and tactical skills, saying that he will be the first to shoot and set off a civil war if Obama takes measures to control guns. Yeager’s plan? If the majority wants to protect itself from guns, then he will have to shoot them.
+We have shrill and outrageous statements made in public: Like <a href="https://www.huffingtonpost.com/2013/01/15/james-yeager-tactical-response_n_2478594.html" target="_hplink">that of James Yeager</a>, CEO of Tactical Response, a Tennessee company that trains people in weapon and tactical skills, saying that he will be the first to shoot and set off a civil war if Obama takes measures to control guns. Yeager’s plan? If the majority wants to protect itself from guns, then he will have to shoot them.
 
 We have elected state politicians, like Steve Toth (R-The Woodlands) of Texas suggesting that they will attempt to circumvent any federal measure to control guns. Rather than solve the problem democratically, he offers a solution that seems based in secession.
 
@@ -32,10 +32,10 @@ Each of these examples reveals the ways that democratic deliberation is sufferin
 
 For example watch this Colbert clip:
 
-<div style="background-color:#000000;width:520px;"><div style="padding:4px;"><iframe src="http://media.mtvnservices.com/embed/mgid:arc:video:comedycentral.com:b9994a40-9261-4f15-a87b-9ad6dd01aad8" width="512" height="288" frameborder="0"></iframe><p style="text-align:left;background-color:#FFFFFF;padding:4px;margin-top:4px;margin-bottom:0px;font-family:Arial, Helvetica, sans-serif;font-size:12px;"><b><a href="http://thedailyshow.cc.com/">The Daily Show</a></b><br/>Get More: <a href="http://thedailyshow.cc.com/full-episodes/">Daily Show Full Episodes</a>,<a href="http://www.facebook.com/thedailyshow">The Daily Show on Facebook</a>,<a href="http://thedailyshow.cc.com/videos">Daily Show Video Archive</a></p></div></div>
+<div style="background-color:#000000;width:520px;"><div style="padding:4px;"><iframe src="https://media.mtvnservices.com/embed/mgid:arc:video:comedycentral.com:b9994a40-9261-4f15-a87b-9ad6dd01aad8" width="512" height="288" frameborder="0"></iframe><p style="text-align:left;background-color:#FFFFFF;padding:4px;margin-top:4px;margin-bottom:0px;font-family:Arial, Helvetica, sans-serif;font-size:12px;"><b><a href="https://thedailyshow.cc.com/">The Daily Show</a></b><br/>Get More: <a href="https://thedailyshow.cc.com/full-episodes/">Daily Show Full Episodes</a>,<a href="https://www.facebook.com/thedailyshow">The Daily Show on Facebook</a>,<a href="https://thedailyshow.cc.com/videos">Daily Show Video Archive</a></p></div></div>
 
 So if you are looking for some sanity in the gun debate, turn to comedy. Satirists like Stewart, Colbert, and Maher entertain us while revealing the flawed thinking that is making a folly of our democracy. You may think comedy is just about laughs, but these days satirical comedy is shooting with both barrels.
 
 Read the full blog [here][1].
 
- [1]: http://www.huffingtonpost.com/sophia-a-mcclennen/control-gun-control_b_2521114.html
+ [1]: https://www.huffingtonpost.com/sophia-a-mcclennen/control-gun-control_b_2521114.html

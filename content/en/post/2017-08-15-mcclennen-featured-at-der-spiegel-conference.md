@@ -4,7 +4,7 @@ categories:
   - news
 publication:
 image:
-link_to_original: 'http://reporter-forum.de/rw17/dozenten/sophia-a-mcclennen/'
+link_to_original: 'https://reporter-forum.de/rw17/dozenten/sophia-a-mcclennen/'
 ---
 
 

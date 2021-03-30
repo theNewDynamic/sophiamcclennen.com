@@ -5,6 +5,6 @@ categories:
 - what-im-watching
 url: /writing/cultural-politics-rhetoric-and-the-essay-a-comparison-of-emerson-and-rodo/
 publication: 'CLCWeb: Comparative Literature and Culture'
-link_to_original: http://clcwebjournal.lib.purdue.edu/clcweb00-1/mcclennen00.html
+link_to_original: https://clcwebjournal.lib.purdue.edu/clcweb00-1/mcclennen00.html
 ---
 “Cultural Politics, Rhetoric, and the Essay: A Comparison of Emerson and Rodó” appeared in <em>CLCWeb: Comparative Literature and Culture</em> 2.1 (2000).

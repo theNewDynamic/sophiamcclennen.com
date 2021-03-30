@@ -4,7 +4,7 @@ publication: "Alternet"
 categories: 
 - what-im-watching
 featured: true
-link_to_original: "http://www.alternet.org/news-amp-politics/ted-cruz-isnt-idiot-hes-delusional-and-thats-far-more-dangerous"
+link_to_original: "https://www.alternet.org/news-amp-politics/ted-cruz-isnt-idiot-hes-delusional-and-thats-far-more-dangerous"
 ---
 ![](/assets/img/ted_cruz17.jpg)
 

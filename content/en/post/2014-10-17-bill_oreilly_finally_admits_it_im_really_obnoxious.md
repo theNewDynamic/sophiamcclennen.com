@@ -2,7 +2,7 @@
 title: "Bill O’Reilly finally admits it: I’m really obnoxious!"
 publication: "Salon"
 featured: true
-link_to_original: "http://www.salon.com/2014/10/17/bill_oreilly_finally_admits_it_im_really_obnoxious/#"
+link_to_original: "https://www.salon.com/2014/10/17/bill_oreilly_finally_admits_it_im_really_obnoxious/#"
 categories: 
 - what-im-watching
 ---

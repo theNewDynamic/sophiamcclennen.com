@@ -4,7 +4,7 @@ categories:
 - what-im-watching
 publication: "The Huffington Post"
 featured: true
-link_to_original: "http://www.huffingtonpost.com/sophia-a-mcclennen/does-satire-news-influenc_b_6079176.html?utm_hp_ref=politics"
+link_to_original: "https://www.huffingtonpost.com/sophia-a-mcclennen/does-satire-news-influenc_b_6079176.html?utm_hp_ref=politics"
 ---
 ![Colbert Stewart](/assets/img/colbert-stewart.jpg)
 

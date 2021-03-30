@@ -13,4 +13,4 @@ Colbert News Hub interviewed me on my latest book, *Colbert’s America*. Read t
 
 [SlideDeck2 id=346]
 
- [1]: http://www.colbertnewshub.com/2012/06/01/exclusive-interview-sophia-mcclennen-author-colberts-america-satire-democracy/ "Colbert News Hub interview"
+ [1]: https://www.colbertnewshub.com/2012/06/01/exclusive-interview-sophia-mcclennen-author-colberts-america-satire-democracy/ "Colbert News Hub interview"

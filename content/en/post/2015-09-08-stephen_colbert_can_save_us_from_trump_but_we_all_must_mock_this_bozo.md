@@ -5,7 +5,7 @@ categories:
 - what-im-watching
 image: /assets/img/trump_colbert2-620x412.jpg
 featured: true
-link_to_original: "http://www.salon.com/2015/09/08/stephen_colbert_can_save_us_from_trump_but_we_all_must_mock_this_bozo/"
+link_to_original: "https://www.salon.com/2015/09/08/stephen_colbert_can_save_us_from_trump_but_we_all_must_mock_this_bozo/"
 ---
 
 

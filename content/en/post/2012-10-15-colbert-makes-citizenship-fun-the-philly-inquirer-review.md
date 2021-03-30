@@ -11,4 +11,4 @@ categories:
 ---
 Alexander Heffner [writes][1]* “;Colbert’s America* is a book for citizens of every creed who believe we are all entrusted with piloting American democracy.”
 
- [1]: http://articles.philly.com/2012-10-12/news/34388556_1_political-satire-stephen-colbert-young-voters
+ [1]: https://articles.philly.com/2012-10-12/news/34388556_1_political-satire-stephen-colbert-young-voters

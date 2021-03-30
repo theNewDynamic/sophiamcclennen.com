@@ -4,7 +4,7 @@ publication: "Salon"
 categories: 
 - what-im-watching
 featured: true
-link_to_original: "http://www.salon.com/2015/04/09/fox_news_rolling_stone_problem_imagine_a_panel_investigating_bill_oreillys_war_stories_and_megyn_kellys_hyperbole/"
+link_to_original: "https://www.salon.com/2015/04/09/fox_news_rolling_stone_problem_imagine_a_panel_investigating_bill_oreillys_war_stories_and_megyn_kellys_hyperbole/"
 ---
 ![](/assets/img/megyn_kelly.jpg)
 

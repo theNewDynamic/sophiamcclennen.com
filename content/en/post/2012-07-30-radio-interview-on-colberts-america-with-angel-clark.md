@@ -11,4 +11,4 @@ categories:
 ---
 I spoke with Angel Clark for Radio Freedom on July 30.   Listen to the interview [here][1].
 
- [1]: http://www.spreaker.com/user/angelclark/sophia_mcclennen_on_the_angel_clark_show_1
+ [1]: https://www.spreaker.com/user/angelclark/sophia_mcclennen_on_the_angel_clark_show_1

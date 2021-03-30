@@ -5,7 +5,7 @@ categories:
 publication: Salon
 image: /uploads/trump-funny-620x412.jpeg
 link_to_original: >-
-  http://www.salon.com/2017/07/29/is-dead-donald-trump-funny-understanding-gallows-humor-in-the-trump-era/
+  https://www.salon.com/2017/07/29/is-dead-donald-trump-funny-understanding-gallows-humor-in-the-trump-era/
 ---
 
 

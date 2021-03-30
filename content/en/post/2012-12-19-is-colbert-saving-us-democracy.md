@@ -11,4 +11,4 @@ categories:
 ---
 Listen to this [interview][1] with Eleanor Hall from ABC News (AU) on Colbert’s America and US democracy.
 
- [1]: http://www.abc.net.au/news/2012-11-27/is-colbert-saving-us-democracy/4394764
+ [1]: https://www.abc.net.au/news/2012-11-27/is-colbert-saving-us-democracy/4394764

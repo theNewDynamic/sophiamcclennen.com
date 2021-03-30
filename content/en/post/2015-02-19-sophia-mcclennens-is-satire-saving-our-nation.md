@@ -7,4 +7,4 @@ Sophia McClennen talks with Radio Times for NPR affiliate WHYY on Is Satire Savi
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/191786615&color=1e4f78"></iframe>
 
-[WHYY ](http://whyy.org/cms/radiotimes/2015/02/18/sophia-mcclennens-is-satire-saving-our-nation/)
+[WHYY ](https://whyy.org/cms/radiotimes/2015/02/18/sophia-mcclennens-is-satire-saving-our-nation/)

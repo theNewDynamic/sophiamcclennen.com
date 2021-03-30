@@ -5,6 +5,6 @@ categories:
 - what-im-watching
 image: /assets/img/jon_stewart_rivals.jpg
 featured: true
-link_to_original: "http://www.salon.com/2015/08/05/jon_stewarts_real_threat_to_fox_news_you_dont_get_to_define_patriotism/"
+link_to_original: "https://www.salon.com/2015/08/05/jon_stewarts_real_threat_to_fox_news_you_dont_get_to_define_patriotism/"
 ---
 Post-9/11, critiquing the right meant you hated the country. Stewart was the perfect foil for that false patriotism

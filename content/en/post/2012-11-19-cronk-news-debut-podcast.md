@@ -6,7 +6,7 @@ layout: post
 enclosure:
   - |
     |
-        http://recordings.talkshoe.com/TC-124369/TS-681404.mp3
+        https://recordings.talkshoe.com/TC-124369/TS-681404.mp3
         27528959
         audio/mpeg
 
@@ -18,6 +18,6 @@ categories:
 ---
 Leah Wescott of [Cronk News][1] interviewed me for the debut [podcast][2] for “;[Fridays are Satiredays][3]“;.
 
- [1]: http://www.cronknews.com/
- [2]: http://recordings.talkshoe.com/TC-124369/TS-681404.mp3
- [3]: http://www.cronknews.com/2012/11/16/podcast-debut-friday-is-satireday-today-at-100/
+ [1]: https://www.cronknews.com/
+ [2]: https://recordings.talkshoe.com/TC-124369/TS-681404.mp3
+ [3]: https://www.cronknews.com/2012/11/16/podcast-debut-friday-is-satireday-today-at-100/

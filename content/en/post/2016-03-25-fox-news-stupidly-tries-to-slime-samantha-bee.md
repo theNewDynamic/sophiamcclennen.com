@@ -4,7 +4,7 @@ categories:
 - what-im-watching
 publication: Alternet
 image: /kelly_bee_oreilly-620x412.jpg
-link_to_original: 'http://www.alternet.org/media/fox-news-stupidly-tries-slime-samantha-bee'
+link_to_original: 'https://www.alternet.org/media/fox-news-stupidly-tries-slime-samantha-bee'
 ---
 
 

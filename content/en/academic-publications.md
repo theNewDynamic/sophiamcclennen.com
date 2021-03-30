@@ -34,7 +34,7 @@ Special issue of A contracorriente. 10.1 (Fall 2012.)
 
 1. (With Jeffrey Di Leo). “Postscript on Violence.” symploke 20.1-2 (Winter 2012): 241-250.
 
-2. (With Brantley Nicholson). “The Generation of ’72: Latin America’s Forced Global Citizens.” A contracorriente 10.1 (Fall 2012): 1-17. http://tools.chass.ncsu.edu/open_journal/index.php/acontracorriente/article/view/593/1037
+2. (With Brantley Nicholson). “The Generation of ’72: Latin America’s Forced Global Citizens.” A contracorriente 10.1 (Fall 2012): 1-17. https://tools.chass.ncsu.edu/open_journal/index.php/acontracorriente/article/view/593/1037
 
 3. “From the Aesthetics of Hunger to the Cosmetics of Hunger in Brazilian Cinema.” symploke 19.1-2. (2011): 73-84.
 
@@ -48,13 +48,13 @@ Special issue of A contracorriente. 10.1 (Fall 2012.)
 
 8. “Neoliberalism and the Crisis of Intellectual Engagement.” Academic Freedom and Intellectual Activism in the post-9/11 University. Works and Days 51/52, 53/54.26–27. (2008–09): 459–70.
 
-9. “The Theory and Practice of the Peruvian Grupo Chaski.” Jump Cut 50 (2008): http://www.ejumpcut.org/archive/jc50.2008/Chaski/index.html.
+9. “The Theory and Practice of the Peruvian Grupo Chaski.” Jump Cut 50 (2008): https://www.ejumpcut.org/archive/jc50.2008/Chaski/index.html.
 
 10. “E Pluribus Unum/ Ex Uno Plura: Legislating and Deregulating American Studies post 9/11.” CR: The New Centennial Review 8.1 (2008): 145–75.
 
-11. “The Humanities, Human Rights, and the Comparative Imagination.” Representing Humanity in an Age of Terror. Eds. Sophia A. McClennen and Henry James Morello. Thematic issue of CLC Web: Comparative Literature and Culture 9.1 (2008). <http://docs.lib.purdue.edu/clcweb/vol9/iss1/>.
+11. “The Humanities, Human Rights, and the Comparative Imagination.” Representing Humanity in an Age of Terror. Eds. Sophia A. McClennen and Henry James Morello. Thematic issue of CLC Web: Comparative Literature and Culture 9.1 (2008). <https://docs.lib.purdue.edu/clcweb/vol9/iss1/>.
 
-12. (With Henry James Morello). “Introduction.” Representing Humanity in an Age of Terror. Thematic issue of CLC Web: Comparative Literature and Culture 9.1 (2008) <http://docs.lib.purdue.edu/clcweb/vol9/iss1/>. (50% my work).
+12. (With Henry James Morello). “Introduction.” Representing Humanity in an Age of Terror. Thematic issue of CLC Web: Comparative Literature and Culture 9.1 (2008) <https://docs.lib.purdue.edu/clcweb/vol9/iss1/>. (50% my work).
 
 13. “Area Studies Beyond Ontology: Notes on Latin American Studies, American Studies, and Inter-American Studies.” A contracorriente 5.1 (2007): 173–84.
 
@@ -66,13 +66,13 @@ Special issue of A contracorriente. 10.1 (Fall 2012.)
 
 17. “The Diasporic Subject in Ariel Dorfman’s Heading South, Looking North.” MELUS 30.1 (Spring 2005): 169–88.
 
-18. “Exilic Perspectives on ‘Alien Nations.’” CLCWeb: Comparative Literature and Culture 7.1 (2005): FTP: <http://clcwebjournal.lib.purdue.edu/clcweb05-1/mcclennen05.html>.
+18. “Exilic Perspectives on ‘Alien Nations.’” CLCWeb: Comparative Literature and Culture 7.1 (2005): FTP: <https://clcwebjournal.lib.purdue.edu/clcweb05-1/mcclennen05.html>.
 
 19. “Poetry and Torture.” World Literature Today 78.3–4 (September–December 2004): 68–70.
 
-20. “Comparative Literature and Latin American Studies: From Disarticulation to Dialogue.” Comparative Cultural Studies and Latin America. Eds. Sophia A. McClennen and Earl E. Fitz. CLCWeb: Comparative Literature and Culture 4.2 (2002): FTP: [http://clcwebjournal.lib.purdue.edu/clcweb02-2/introduction(mcclennen&fitz).html][1]
+20. “Comparative Literature and Latin American Studies: From Disarticulation to Dialogue.” Comparative Cultural Studies and Latin America. Eds. Sophia A. McClennen and Earl E. Fitz. CLCWeb: Comparative Literature and Culture 4.2 (2002): FTP: [https://clcwebjournal.lib.purdue.edu/clcweb02-2/introduction(mcclennen&fitz).html][1]
 
-21. (With Earl E. Fitz.) “An Introduction to Comparative Cultural Studies and Latin America.” Comparative Cultural Studies and Latin America. Eds. Sophia A. McClennen and Earl E. Fitz. CLCWeb: Comparative Literature and Culture 4.2 (2002): FTP: <http://clcwebjournal.lib.purdue.edu/clcweb02-2/mcclennen02.html> (50% my work).
+21. (With Earl E. Fitz.) “An Introduction to Comparative Cultural Studies and Latin America.” Comparative Cultural Studies and Latin America. Eds. Sophia A. McClennen and Earl E. Fitz. CLCWeb: Comparative Literature and Culture 4.2 (2002): FTP: <https://clcwebjournal.lib.purdue.edu/clcweb02-2/mcclennen02.html> (50% my work).
 
 22. “Así fue: Anti-colonial Narrative in Alejo Carpentier’s Concierto barroco and Reinaldo Arenas’s El mundo alucinante.” A contracorriente 1.1 (2003): 51–81.
 
@@ -82,9 +82,9 @@ Special issue of A contracorriente. 10.1 (Fall 2012.)
 
 25. “Ariel Dorfman.” The Review of Contemporary Fiction 21.3 (2000): 81–132.
 
-26. “Cultural Politics, Rhetoric, and the Essay: A Comparison of Emerson and Rodó.” CLCWeb: Comparative Literature and Culture 2.1 (2000): FTP: [ http://clcwebjournal.lib.purdue.edu/clcweb00-1/mcclennen00.html ][2]
+26. “Cultural Politics, Rhetoric, and the Essay: A Comparison of Emerson and Rodó.” CLCWeb: Comparative Literature and Culture 2.1 (2000): FTP: [ https://clcwebjournal.lib.purdue.edu/clcweb00-1/mcclennen00.html ][2]
 
-27. *Revised Reprint:  “Chilex: The Economy of Transnational Media Culture.” Cultural Logic 3.1 (2000): FTP: <http://eserver.org/clogic/>
+27. *Revised Reprint:  “Chilex: The Economy of Transnational Media Culture.” Cultural Logic 3.1 (2000): FTP: <https://eserver.org/clogic/>
 
 28. “Chilex: The Economy of Transnational Media Culture.” Mediations 22 (1999): 86–111.
 
@@ -98,7 +98,7 @@ Special issue of A contracorriente. 10.1 (Fall 2012.)
 
 ### Bibliography
 
-“Comparative Latin American Culture and Literature.” Comparative Cultural Studies and Latin America. Eds. Sophia A. McClennen and Earl E. Fitz. West Lafayette, IN: Purdue UP, 2004: 220–66. Reprint from CLCWeb: Comparative Literature and Culture. 4.2 (2002): FTP: <http://clcwebjournal.lib.purdue.edu/clcweb02-2/biblio(latinamericas).html>
+“Comparative Latin American Culture and Literature.” Comparative Cultural Studies and Latin America. Eds. Sophia A. McClennen and Earl E. Fitz. West Lafayette, IN: Purdue UP, 2004: 220–66. Reprint from CLCWeb: Comparative Literature and Culture. 4.2 (2002): FTP: <https://clcwebjournal.lib.purdue.edu/clcweb02-2/biblio(latinamericas).html>
 
 
 ### Translations from Spanish
@@ -158,5 +158,5 @@ Special issue of A contracorriente. 10.1 (Fall 2012.)
 
 15. Are Cultural Studies ‘Against Literature’: Reading Testimonial and Film in the Latin American Canon.” Woman as Witness. Eds. Linda S. Maier and Isabel Dulfano. New York: Peter Lang, 2003. 63–80.
 
- [1]: http://clcwebjournal.lib.purdue.edu/clcweb02-2/introduction%28mcclennen&fitz%29.html
- [2]: http://clcwebjournal.lib.purdue.edu/clcweb00-1/mcclennen00.html
+ [1]: https://clcwebjournal.lib.purdue.edu/clcweb02-2/introduction%28mcclennen&fitz%29.html
+ [2]: https://clcwebjournal.lib.purdue.edu/clcweb00-1/mcclennen00.html

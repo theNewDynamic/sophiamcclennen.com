@@ -11,4 +11,4 @@ categories:
 ---
 Penn State Live [covers][1] Colbert’s America.
 
- [1]: http://live.psu.edu/story/63333
+ [1]: https://live.psu.edu/story/63333

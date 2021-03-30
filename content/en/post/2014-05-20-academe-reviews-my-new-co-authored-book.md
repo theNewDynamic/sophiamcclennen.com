@@ -11,4 +11,4 @@ categories:
 ---
 Check out the [review][1] of *Neoliberalism, Terrrorism, Education* in *Academe.*
 
- [1]: http://www.aaup.org/article/thinking-academic-resistance#.U3ttuS_c2UZ
+ [1]: https://www.aaup.org/article/thinking-academic-resistance#.U3ttuS_c2UZ

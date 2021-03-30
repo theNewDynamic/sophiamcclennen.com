@@ -14,4 +14,4 @@ tags:
 ---
 Click here for [McClennen’s interview with Bill Vanko on WBAL News][1].
 
- [1]: http://www.wbal.com/article/87008/template-story/Stephen-Colbert
+ [1]: https://www.wbal.com/article/87008/template-story/Stephen-Colbert

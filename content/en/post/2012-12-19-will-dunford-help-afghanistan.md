@@ -20,4 +20,4 @@ Watch this Huffington Post Live Segment where I’m interviewed along with Brian
 
 &nbsp;
 
-<iframe src="http://embed.live.huffingtonpost.com/HPLEmbedPlayer/?segmentId=50be4d11fe344454290003e6&autoPlay=false" width="570" height="321" frameBorder="0" scrollable="no"></iframe>
+<iframe src="https://embed.live.huffingtonpost.com/HPLEmbedPlayer/?segmentId=50be4d11fe344454290003e6&autoPlay=false" width="570" height="321" frameBorder="0" scrollable="no"></iframe>

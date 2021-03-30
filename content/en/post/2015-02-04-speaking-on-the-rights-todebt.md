@@ -3,4 +3,4 @@ title: "Sophia McClennen to speak on “The Rights to Debt” at the Society for
 layout: post
 category: Event
 ---
-[Download Details](http://societyforcriticalexchange.org/WinterTheoryInstitute%202015/WTI_2015_Tabloid_Trifold.pdf)
+[Download Details](https://societyforcriticalexchange.org/WinterTheoryInstitute%202015/WTI_2015_Tabloid_Trifold.pdf)

@@ -4,7 +4,7 @@ categories:
 - what-im-watching
 publication: "Salon"
 featured: true
-link_to_original: "http://www.salon.com/2014/10/30/stewart_colbert_and_oliver_for_the_win_satire_millennials_and_fear_of_an_extreme_right_wing_senate/"
+link_to_original: "https://www.salon.com/2014/10/30/stewart_colbert_and_oliver_for_the_win_satire_millennials_and_fear_of_an_extreme_right_wing_senate/"
 ---
 ![Colbert Oliver](/assets/img/colbert_oliver.jpg)
 

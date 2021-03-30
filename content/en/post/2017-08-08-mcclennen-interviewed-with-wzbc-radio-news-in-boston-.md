@@ -8,4 +8,4 @@ link_to_original:
 ---
 
 
-I talked with John Grebe with [WZBC Boston](http://wzbc.org/#archive) about the future of the DNC on July 23.
+I talked with John Grebe with [WZBC Boston](https://wzbc.org/#archive) about the future of the DNC on July 23.

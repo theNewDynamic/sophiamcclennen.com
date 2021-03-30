@@ -5,7 +5,7 @@ categories:
 - what-im-watching
 image: /uploads/bundy_trump3.jpg
 featured: true
-link_to_original: 'http://www.salon.com/2016/01/05/they_created_our_bundytrump_hellscape_fox_news_angry_white_audience_will_destroy_us_yet/'
+link_to_original: 'https://www.salon.com/2016/01/05/they_created_our_bundytrump_hellscape_fox_news_angry_white_audience_will_destroy_us_yet/'
 categories:
   - what-im-watching
 ---

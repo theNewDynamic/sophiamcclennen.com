@@ -6,7 +6,7 @@ layout: post
 enclosure:
   - |
     |
-        http://www.mediatracks.com/Segments/Politics_and_Comedy.mp3
+        https://www.mediatracks.com/Segments/Politics_and_Comedy.mp3
         12034137
         audio/mpeg
 
@@ -20,4 +20,4 @@ tags:
 ---
 Click here for [McClennen’s interview on Viewpoints on Media Tracks][1].
 
- [1]: http://www.mediatracks.com/Segments/Politics_and_Comedy.mp3
+ [1]: https://www.mediatracks.com/Segments/Politics_and_Comedy.mp3

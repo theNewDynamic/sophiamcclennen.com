@@ -4,4 +4,4 @@ layout: post
 ---
 **Is Satire Saving Our Nation?: Mockery and American Politics**
 
-More more information: ["Goldfarb Center for Public Affairs and Civic Engagement"](http://www.colby.edu/goldfarb/upcoming-events/goldfarb-center-events/)
+More more information: ["Goldfarb Center for Public Affairs and Civic Engagement"](https://www.colby.edu/goldfarb/upcoming-events/goldfarb-center-events/)

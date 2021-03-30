@@ -17,6 +17,6 @@ Alex Strachan for Canadian news on political comedy, the election, and young vot
   </div>
 </div>
 
- [1]: http://www.canada.com/entertainment/Latenight+comics+blur+newsentertainment+divide/7418983/story.html
- [2]: http://www.edmontonjournal.com/entertainment/Latenight+comics+blur+news+entertainment/7421501/story.html
- [3]: http://www.vancouversun.com/entertainment/television/Young+American+voters+turning+Comedy+Central/7417666/story.html
+ [1]: https://www.canada.com/entertainment/Latenight+comics+blur+newsentertainment+divide/7418983/story.html
+ [2]: https://www.edmontonjournal.com/entertainment/Latenight+comics+blur+news+entertainment/7421501/story.html
+ [3]: https://www.vancouversun.com/entertainment/television/Young+American+voters+turning+Comedy+Central/7417666/story.html

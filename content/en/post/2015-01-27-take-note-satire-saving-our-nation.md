@@ -6,4 +6,4 @@ layout: post
 
 Penn State professor Sophia McClennen and recent Penn State graduate Remy Maisel co-authored the book, “Is Satire Saving Our Nation?: Mockery and American Politics.”    
 
-Listen at [Radio WPSU](http://radio.wpsu.org/post/take-note-satire-saving-our-nation)
+Listen at [Radio WPSU](https://radio.wpsu.org/post/take-note-satire-saving-our-nation)

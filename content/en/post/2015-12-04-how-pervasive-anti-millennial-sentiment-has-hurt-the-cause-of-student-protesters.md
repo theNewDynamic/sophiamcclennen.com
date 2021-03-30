@@ -5,7 +5,7 @@ categories:
 - what-im-watching
 image: /uploads/1447983064424.jpg
 featured: true
-link_to_original: 'http://theconversation.com/how-pervasive-anti-millennial-sentiment-has-hurt-the-cause-of-student-protesters-51234'
+link_to_original: 'https://theconversation.com/how-pervasive-anti-millennial-sentiment-has-hurt-the-cause-of-student-protesters-51234'
 categories:
   - what-im-watching
 ---

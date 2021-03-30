@@ -6,5 +6,5 @@ layout: post
 
 > In her new book, Penn State School of International Affairs professor Sophia McClennen argues that as millennials enter the voting pool, they predominantly watch their news in the form of satire, instead of cable news, and this is changing politics. The book, “Is Satire Saving our Nation: Mockery and American Politics,” co-authored with PSU media studies undergrad Remy Maisel, points out that, while political satire has always existed alongside American politics, news parody shows are making more of an impact on millennial viewers, redefining how they engage in voting and politics.
 
-Read the rest at [Penn State News](http://news.psu.edu/story/331747/2014/10/24/academics/first-time-penn-state-history-professor-and-undergrad-team-write)
+Read the rest at [Penn State News](https://news.psu.edu/story/331747/2014/10/24/academics/first-time-penn-state-history-professor-and-undergrad-team-write)
 

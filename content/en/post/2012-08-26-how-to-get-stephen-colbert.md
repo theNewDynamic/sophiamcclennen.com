@@ -11,4 +11,4 @@ categories:
 ---
 Listen to my interview with Jim Donavan, Morning News Anchor for WSYR FM 106.9 [here][1].
 
- [1]: http://www.wsyr.com/cc-common/podcast/single_page.html?podcast=BigJim&selected_podcast=Sophia_McClennen_-_Colberts_America_1345559452_23941.mp3
+ [1]: https://www.wsyr.com/cc-common/podcast/single_page.html?podcast=BigJim&selected_podcast=Sophia_McClennen_-_Colberts_America_1345559452_23941.mp3

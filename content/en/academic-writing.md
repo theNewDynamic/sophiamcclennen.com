@@ -24,7 +24,7 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 
 ### FILM AND MEDIA STUDIES
 
-[“Where is Latin American Culture? From the Location of Culture to the Ethics of Culture”](http://alternativas.osu.edu/en/issues/autumn-2013/essays/where-is-latin-american-culture.html)
+[“Where is Latin American Culture? From the Location of Culture to the Ethics of Culture”](https://alternativas.osu.edu/en/issues/autumn-2013/essays/where-is-latin-american-culture.html)
 
 
 [“From the Aesthetics of Hunger to the Cosmetics of Hunger in Brazilian Cinema”](https://www.dropbox.com/s/z9207ir2uxvopea/the%2520Aesthetics%2520of%2520Hunger%2520to%2520the%2520Cosmetics%2520of%2520Hunger%2520in%2520Brazilian%2520Cinema.pdf)
@@ -36,13 +36,13 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 [“Beyond Death and the Maiden: Ariel Dorfman’s Media Criticism and Journalism”](https://www.dropbox.com/s/idzwnhxgebxbzoy/Beyond%2520Death%2520and%2520the%2520Maiden.pdf)
 
 
-[“The Theory and Practice of the Peruvian Grupo Chaski”](http://www.ejumpcut.org/archive/jc50.2008/Chaski/index.html)
+[“The Theory and Practice of the Peruvian Grupo Chaski”](https://www.ejumpcut.org/archive/jc50.2008/Chaski/index.html)
 
 
 [“(De)Signing Women: Mexican Women Directors and Feminist Film.”](https://www.dropbox.com/s/altm81811qtlril/Designing%2520women%2520pdf.pdf?dl=0)
 
 
-[“Chilex: The Economy of Transnational Media Culture.”](http://clogic.eserver.org/3-1&amp;2/mcclennen.html)
+[“Chilex: The Economy of Transnational Media Culture.”](https://clogic.eserver.org/3-1&amp;2/mcclennen.html)
 
 
 
@@ -50,9 +50,9 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 
 
 (with Di Leo, Giroux, and Saltman)
-[“Twelve Theses on Education's Future in the Age of Neoliberalism and Terrorism (book excerpt)”](http://www.truthdig.com/arts_culture/item/12_theses_on_education_in_the_age_of_neoliberalism_and_terrorism_20140905)
+[“Twelve Theses on Education's Future in the Age of Neoliberalism and Terrorism (book excerpt)”](https://www.truthdig.com/arts_culture/item/12_theses_on_education_in_the_age_of_neoliberalism_and_terrorism_20140905)
 
-[“Neoliberalism as Terrorism; Or State of Disaster Exceptionalism”](http://quod.lib.umich.edu/o/ohp/10815548.0001.001/1:4.3/--terror-theory-and-the-humanities?rgn=div2;view=fulltext)
+[“Neoliberalism as Terrorism; Or State of Disaster Exceptionalism”](https://quod.lib.umich.edu/o/ohp/10815548.0001.001/1:4.3/--terror-theory-and-the-humanities?rgn=div2;view=fulltext)
 
 
 [“Life in the Red Zone; Or the Geographies of Neoliberalism.”](https://www.dropbox.com/s/nirfd7gv7gastny/cartographies%2520full%2520text%25202010%2520-%2520sophias%2520extract.pdf?dl=0)
@@ -73,16 +73,16 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 
 ### HUMAN RIGHTS
 
-[“Ideas of the Decade: Human Rights.”](http://stateofthediscipline.acla.org/entry/human-rights)
+[“Ideas of the Decade: Human Rights.”](https://stateofthediscipline.acla.org/entry/human-rights)
 
 
-[“Remediation”](http://complit.dukejournals.org/content/66/1/1.full.pdf+html)
+[“Remediation”](https://complit.dukejournals.org/content/66/1/1.full.pdf+html)
 
 
 [“Teaching the Kite Runner at Penn State”](https://www.dropbox.com/s/kfldq9hmuave6rn/Chronicle%2520Article%2520kite%2520runner.pdf?dl=0)
 
 
-[“Neoliberalism as Terrorism; Or State of Disaster Exceptionalism”](http://quod.lib.umich.edu/o/ohp/10815548.0001.001/1:4.3/--terror-theory-and-the-humanities?rgn=div2;view=fulltext)
+[“Neoliberalism as Terrorism; Or State of Disaster Exceptionalism”](https://quod.lib.umich.edu/o/ohp/10815548.0001.001/1:4.3/--terror-theory-and-the-humanities?rgn=div2;view=fulltext)
 
 
 (With Jeffrey Di Leo)
@@ -102,22 +102,22 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 [“Introducing Human Rights and Literary Forms; Or, The Vehicles and Vocabularies of Human Rights”](https://www.dropbox.com/s/d1q33yxo2ymnpb9/Introducing%2520Human%2520Rights%2520and%2520Literary%2520Forms.pdf)
 
 
-[“The Humanities, Human Rights, and the Comparative Imagination”](http://docs.lib.purdue.edu/clcweb/vol9/iss1/13/)
+[“The Humanities, Human Rights, and the Comparative Imagination”](https://docs.lib.purdue.edu/clcweb/vol9/iss1/13/)
 
 
 (With Henry James Morello).
-[“Introduction: Representing Humanity in an Age of Terror.”](http://docs.lib.purdue.edu/clcweb/vol9/iss1/1/)
+[“Introduction: Representing Humanity in an Age of Terror.”](https://docs.lib.purdue.edu/clcweb/vol9/iss1/1/)
 
-[“Poetry and Torture.”](http://www.thefreelibrary.com/Poetry+and+torture.-a0122924499)
+[“Poetry and Torture.”](https://www.thefreelibrary.com/Poetry+and+torture.-a0122924499)
 
 
 ### LATIN AMERICAN AND INTERAMERICAN STUDIES
 
-[“Where is Latin American Culture? From the Location of Culture to the Ethics of Culture”](http://alternativas.osu.edu/en/issues/autumn-2013/essays/where-is-latin-american-culture.html)
+[“Where is Latin American Culture? From the Location of Culture to the Ethics of Culture”](https://alternativas.osu.edu/en/issues/autumn-2013/essays/where-is-latin-american-culture.html)
 
 
 (With Brantley Nicholson).
-[“The Generation of ’72: Latin America’s Forced Global Citizens”](http://acontracorriente.chass.ncsu.edu/index.php/acontracorriente/article/view/593#.VBCNj_ldUvo)
+[“The Generation of ’72: Latin America’s Forced Global Citizens”](https://acontracorriente.chass.ncsu.edu/index.php/acontracorriente/article/view/593#.VBCNj_ldUvo)
 
 
 [“From the Aesthetics of Hunger to the Cosmetics of Hunger in Brazilian Cinema”](https://www.dropbox.com/s/z9207ir2uxvopea/the%2520Aesthetics%2520of%2520Hunger%2520to%2520the%2520Cosmetics%2520of%2520Hunger%2520in%2520Brazilian%2520Cinema.pdf)
@@ -126,7 +126,7 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 [“What’s Left for Latin American Cultural Studies?”](https://www.dropbox.com/s/2e7ebevpcwwz2ev/What%25E2%2580%2599s%2520Left%2520for%2520Latin%2520American%2520Cultural%2520Studies.pdf?dl=0)
 
 
-[“Identity as a Political Project in the Americas.”](http://interamericaonline.org/category/volume-4-1/)
+[“Identity as a Political Project in the Americas.”](https://interamericaonline.org/category/volume-4-1/)
 
 
 [“Politics and Privatization in Peruvian Cinema: Grupo Chaski’s Aesthetics of Survival”](https://www.dropbox.com/s/6y3qbki6xcn1h9l/politics%2520and%2520privatization.pdf?dl=0)
@@ -138,13 +138,13 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 [“Torture and Truth in Ariel Dorfman’s Death and the Maiden”](https://www.dropbox.com/s/6bl1sur0amtczns/62.2.mcclennen-1.pdf?dl=0)
 
 
-[“The Theory and Practice of the Peruvian Grupo Chaski”](http://www.ejumpcut.org/archive/jc50.2008/Chaski/index.html)
+[“The Theory and Practice of the Peruvian Grupo Chaski”](https://www.ejumpcut.org/archive/jc50.2008/Chaski/index.html)
 
 
 [“E Pluribus Unum/ Ex Uno Plura: Legislating and Deregulating American Studies post 9/11”](https://www.dropbox.com/s/4ymx58wa7a25bbn/E%2520Pluribus%2520Unum.pdf)
 
 
-[“Area Studies Beyond Ontology: Notes on Latin American Studies, American Studies, and Inter-American Studies”](http://www.ncsu.edu/acontracorriente/fall_07/McClennen.pdf)
+[“Area Studies Beyond Ontology: Notes on Latin American Studies, American Studies, and Inter-American Studies”](https://www.ncsu.edu/acontracorriente/fall_07/McClennen.pdf)
 
 
 [“Inter-American Studies or Imperial American Studies?”](https://www.dropbox.com/s/bz46azx9enaf8v5/Inter-American%2520Studies%2520or%2520Imperial%2520American%2520Studies.pdf)
@@ -153,32 +153,32 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 [”The Diasporic Subject in Ariel Dorfman’s Heading South, Looking North.”](https://www.dropbox.com/s/qy1hcub0agj3nsg/30029617.pdf?dl=0)
 
 
-[“Exilic Perspectives on ‘Alien Nations.’”](http://docs.lib.purdue.edu/clcweb/vol7/iss1/6/)
+[“Exilic Perspectives on ‘Alien Nations.’”](https://docs.lib.purdue.edu/clcweb/vol7/iss1/6/)
 
 
-[“Poetry and Torture.”](http://www.thefreelibrary.com/Poetry+and+torture.-a0122924499)
+[“Poetry and Torture.”](https://www.thefreelibrary.com/Poetry+and+torture.-a0122924499)
 
 
-[“Comparative Literature and Latin American Studies: From Disarticulation to Dialogue.”](http://docs.lib.purdue.edu/clcweb/vol4/iss2/8/)
+[“Comparative Literature and Latin American Studies: From Disarticulation to Dialogue.”](https://docs.lib.purdue.edu/clcweb/vol4/iss2/8/)
 
 
 (With Earl E. Fitz.)
-[“An Introduction to Comparative Cultural Studies and Latin America”](http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1147&amp;context=clcweb)
+[“An Introduction to Comparative Cultural Studies and Latin America”](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1147&amp;context=clcweb)
 
 
-[“Así fue: Anti-colonial Narrative in Alejo Carpentier’s Concierto barroco and Reinaldo Arenas’s El mundo alucinante.”](http://acontracorriente.chass.ncsu.edu/index.php/acontracorriente/article/view/74#.VBCOpfldUvo)
+[“Así fue: Anti-colonial Narrative in Alejo Carpentier’s Concierto barroco and Reinaldo Arenas’s El mundo alucinante.”](https://acontracorriente.chass.ncsu.edu/index.php/acontracorriente/article/view/74#.VBCOpfldUvo)
 
 
-[“After Civilization: The Theory and Practice of Introducing Latin American Culture”](http://38.105.236.139/adefl_bulletin_c_adfl_34_2_6&amp;from=adefl_bulletin_t_adfl34_2)
+[“After Civilization: The Theory and Practice of Introducing Latin American Culture”](https://38.105.236.139/adefl_bulletin_c_adfl_34_2_6&amp;from=adefl_bulletin_t_adfl34_2)
 
 
 [“(De)Signing Women: Mexican Women Directors and Feminist Film.”](https://www.dropbox.com/s/altm81811qtlril/Designing%2520women%2520pdf.pdf?dl=0)
 
 
-[“Cultural Politics, Rhetoric, and the Essay: A Comparison of Emerson and Rodó.”](http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1064&amp;amp;context=clcweb)
+[“Cultural Politics, Rhetoric, and the Essay: A Comparison of Emerson and Rodó.”](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1064&amp;amp;context=clcweb)
 
 
-[“Chilex: The Economy of Transnational Media Culture.”](http://clogic.eserver.org/3-1&amp;2/mcclennen.html)
+[“Chilex: The Economy of Transnational Media Culture.”](https://clogic.eserver.org/3-1&amp;2/mcclennen.html)
 
 
 [“Life in the Red Zone; Or the Geographies of Neoliberalism.”](https://www.dropbox.com/s/nirfd7gv7gastny/cartographies%2520full%2520text%25202010%2520-%2520sophias%2520extract.pdf?dl=0)
@@ -188,13 +188,13 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 ### COMPARATIVE LITERATURE AND COMPARATIVE CULTURAL STUDIES
 
 
-[“Ideas of the Decade: Human Rights.”](http://stateofthediscipline.acla.org/entry/human-rights)
+[“Ideas of the Decade: Human Rights.”](https://stateofthediscipline.acla.org/entry/human-rights)
 
 
-[“Remediation”](http://complit.dukejournals.org/content/66/1/1.full.pdf+html)
+[“Remediation”](https://complit.dukejournals.org/content/66/1/1.full.pdf+html)
 
 
-[“Where is Latin American Culture? From the Location of Culture to the Ethics of Culture”](http://alternativas.osu.edu/en/issues/autumn-2013/essays/where-is-latin-american-culture.html)
+[“Where is Latin American Culture? From the Location of Culture to the Ethics of Culture”](https://alternativas.osu.edu/en/issues/autumn-2013/essays/where-is-latin-american-culture.html)
 
 
 (With Jeffrey Di Leo)
@@ -205,35 +205,35 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 [“Introducing Human Rights and Literary Forms; Or, The Vehicles and Vocabularies of Human Rights”](https://www.dropbox.com/s/d1q33yxo2ymnpb9/Introducing%2520Human%2520Rights%2520and%2520Literary%2520Forms.pdf)
 
 
-[“The Humanities, Human Rights, and the Comparative Imagination”](http://docs.lib.purdue.edu/clcweb/vol9/iss1/13/)
+[“The Humanities, Human Rights, and the Comparative Imagination”](https://docs.lib.purdue.edu/clcweb/vol9/iss1/13/)
 
 
 (With Henry James Morello).
-[“Introduction: Representing Humanity in an Age of Terror.”](http://docs.lib.purdue.edu/clcweb/vol9/iss1/1/)
+[“Introduction: Representing Humanity in an Age of Terror.”](https://docs.lib.purdue.edu/clcweb/vol9/iss1/1/)
 
 
-[“Area Studies Beyond Ontology: Notes on Latin American Studies, American Studies, and Inter-American Studies”](http://www.ncsu.edu/acontracorriente/fall_07/McClennen.pdf)
+[“Area Studies Beyond Ontology: Notes on Latin American Studies, American Studies, and Inter-American Studies”](https://www.ncsu.edu/acontracorriente/fall_07/McClennen.pdf)
 
 
 [“Inter-American Studies or Imperial American Studies?”](https://www.dropbox.com/s/bz46azx9enaf8v5/Inter-American%2520Studies%2520or%2520Imperial%2520American%2520Studies.pdf)
 
 
-[“Exilic Perspectives on ‘Alien Nations.”](http://docs.lib.purdue.edu/clcweb/vol7/iss1/6/)
+[“Exilic Perspectives on ‘Alien Nations.”](https://docs.lib.purdue.edu/clcweb/vol7/iss1/6/)
 
 
-[“Comparative Literature and Latin American Studies: From Disarticulation to Dialogue.”](http://docs.lib.purdue.edu/clcweb/vol4/iss2/8/)
+[“Comparative Literature and Latin American Studies: From Disarticulation to Dialogue.”](https://docs.lib.purdue.edu/clcweb/vol4/iss2/8/)
 
 
 
 (With Earl E. Fitz.)
-[“An Introduction to Comparative Cultural Studies and Latin America”](http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1147&amp;context=clcweb)
+[“An Introduction to Comparative Cultural Studies and Latin America”](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1147&amp;context=clcweb)
 
 
 
 ### HIGHER EDUCATION
 
 (with Di Leo, Giroux, and Saltman)
-[“Twelve Theses on Education's Future in the Age of Neoliberalism and Terrorism (book excerpt)”](http://www.truthdig.com/arts_culture/item/12_theses_on_education_in_the_age_of_neoliberalism_and_terrorism_20140905)
+[“Twelve Theses on Education's Future in the Age of Neoliberalism and Terrorism (book excerpt)”](https://www.truthdig.com/arts_culture/item/12_theses_on_education_in_the_age_of_neoliberalism_and_terrorism_20140905)
 
 
 [“Teaching the Kite Runner at Penn State”](https://www.dropbox.com/s/kfldq9hmuave6rn/Chronicle%2520Article%2520kite%2520runner.pdf?dl=0)
@@ -254,6 +254,6 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 [“The Geopolitical War on U.S. Higher Education.”](https://www.dropbox.com/s/xmzayb22xid2sot/The%2520Geopolitical%2520War%2520on%2520US%2520Higher%2520Education.pdf)
 
 
-[“After Civilization: The Theory and Practice of Introducing Latin American Culture”](http://38.105.236.139/adefl_bulletin_c_adfl_34_2_6&amp;from=adefl_bulletin_t_adfl34_2)
+[“After Civilization: The Theory and Practice of Introducing Latin American Culture”](https://38.105.236.139/adefl_bulletin_c_adfl_34_2_6&amp;from=adefl_bulletin_t_adfl34_2)
 
 [1]: /assets/img/2014/07/cv-2014.pdf

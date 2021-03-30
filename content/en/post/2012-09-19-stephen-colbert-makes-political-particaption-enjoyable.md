@@ -11,4 +11,4 @@ categories:
 ---
 [Q&A][1] with Sophia A. McClennen on &#8216;Colbert’s America: Satire and Democracy’ with Kris Kitto for The Hill.
 
- [1]: http://thehill.com/capital-living/cover-stories/250201-qaa-with-sophia-a-mcclennen-author-colberts-america-satire-and-democracy-
+ [1]: https://thehill.com/capital-living/cover-stories/250201-qaa-with-sophia-a-mcclennen-author-colberts-america-satire-and-democracy-

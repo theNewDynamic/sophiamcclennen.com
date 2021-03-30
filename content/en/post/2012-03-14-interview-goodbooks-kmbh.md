@@ -14,4 +14,4 @@ tags:
 ---
 Click here for [McClennen’s interview with John Cook on the Goodbooks Radio Show, KMBH-FM][1].
 
- [1]: http://www.podbean.com/home/podcast-directory-play.php?eid=4872471
+ [1]: https://www.podbean.com/home/podcast-directory-play.php?eid=4872471

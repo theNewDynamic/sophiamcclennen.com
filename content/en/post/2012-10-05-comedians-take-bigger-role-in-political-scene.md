@@ -11,4 +11,4 @@ categories:
 ---
 Watch this [interview][1] with me for The Wall street Journal Live on the upcoming Stewart v. O’Reilly debate.
 
- [1]: http://live.wsj.com/#!72831C95-BEBB-400C-B8BD-5BF931ECB961
+ [1]: https://live.wsj.com/#!72831C95-BEBB-400C-B8BD-5BF931ECB961

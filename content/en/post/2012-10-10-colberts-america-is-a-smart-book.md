@@ -11,4 +11,4 @@ categories:
 ---
 Peter Bart from *Variety *[on Colbert’s new book and mine][1].
 
- [1]: http://www.variety.com/article/VR1118060396?refCatId=14
+ [1]: https://www.variety.com/article/VR1118060396?refCatId=14

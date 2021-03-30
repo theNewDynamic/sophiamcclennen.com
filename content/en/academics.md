@@ -62,31 +62,31 @@ Email: <sophia.mcclennen@gmail.com>
 *   [Abreviaturas para la redacción de trabajos escritos][27]
 *   [Paper Grading Rubric][28]
 
- [1]: http://sia.psu.edu/faculty/sophia_mcclennen
+ [1]: https://sia.psu.edu/faculty/sophia_mcclennen
  [2]: /assets/img/2014/07/cv-2014.pdf
  [3]: /assets/img/2012/07/INTAF-804-syllabus-2012.pdf
- [4]: http://www.personal.psu.edu/users/s/a/sam50/CMLIT101home.htm
+ [4]: https://www.personal.psu.edu/users/s/a/sam50/CMLIT101home.htm
  [5]: /academics/attachment/conflict-res/
- [6]: http://www.personal.psu.edu/users/s/a/sam50/Theory.htm
- [7]: http://www.personal.psu.edu/users/s/a/sam50/span597e.htm
- [8]: http://www.personal.psu.edu/users/s/a/sam50/projiden.htm
- [9]: http://www.personal.psu.edu/users/s/a/sam50/220/SPAN220home.htm
- [10]: http://www.personal.psu.edu/users/s/a/sam50/253/253home.htm
- [11]: http://www.personal.psu.edu/users/s/a/sam50/SPAN355.pdf
- [12]: http://www.personal.psu.edu/users/s/a/sam50/405/CMLIT405home2007.htm
- [13]: http://www.personal.psu.edu/users/s/a/sam50/CMLIT005home.htm
- [14]: http://www.personal.psu.edu/users/s/a/sam50/405/CMLIT405home.htm
- [15]: http://www.personal.psu.edu/users/s/a/sam50/CMLIT406home2003.htm
- [16]: http://www.personal.psu.edu/users/s/a/sam50/countercin.htm
- [17]: http://www.personal.psu.edu/users/s/a/sam50/cultstud.htm
- [18]: http://www.personal.psu.edu/users/s/a/sam50/copulahome.htm
- [19]: http://www.personal.psu.edu/users/s/a/sam50/cinergia/cinergia.htm
- [20]: http://www.personal.psu.edu/users/s/a/sam50/DorfmanSite/Library/dorfman.html
- [21]: http://www.personal.psu.edu/users/s/a/sam50/dissguide.htm
- [22]: http://www.personal.psu.edu/users/s/a/sam50/closeread.htm
- [23]: http://www.personal.psu.edu/users/s/a/sam50/studentinfo.htm
- [24]: http://www.personal.psu.edu/users/s/a/sam50/vocabLIT.htm
- [25]: http://www.personal.psu.edu/users/s/a/sam50/cinergia/dicespeng.htm
- [26]: http://www.personal.psu.edu/users/s/a/sam50/cinergia/conceptos.htm
- [27]: http://www.personal.psu.edu/users/s/a/sam50/abrevred.htm
- [28]: http://www.personal.psu.edu/users/s/a/sam50/rubric.htm
+ [6]: https://www.personal.psu.edu/users/s/a/sam50/Theory.htm
+ [7]: https://www.personal.psu.edu/users/s/a/sam50/span597e.htm
+ [8]: https://www.personal.psu.edu/users/s/a/sam50/projiden.htm
+ [9]: https://www.personal.psu.edu/users/s/a/sam50/220/SPAN220home.htm
+ [10]: https://www.personal.psu.edu/users/s/a/sam50/253/253home.htm
+ [11]: https://www.personal.psu.edu/users/s/a/sam50/SPAN355.pdf
+ [12]: https://www.personal.psu.edu/users/s/a/sam50/405/CMLIT405home2007.htm
+ [13]: https://www.personal.psu.edu/users/s/a/sam50/CMLIT005home.htm
+ [14]: https://www.personal.psu.edu/users/s/a/sam50/405/CMLIT405home.htm
+ [15]: https://www.personal.psu.edu/users/s/a/sam50/CMLIT406home2003.htm
+ [16]: https://www.personal.psu.edu/users/s/a/sam50/countercin.htm
+ [17]: https://www.personal.psu.edu/users/s/a/sam50/cultstud.htm
+ [18]: https://www.personal.psu.edu/users/s/a/sam50/copulahome.htm
+ [19]: https://www.personal.psu.edu/users/s/a/sam50/cinergia/cinergia.htm
+ [20]: https://www.personal.psu.edu/users/s/a/sam50/DorfmanSite/Library/dorfman.html
+ [21]: https://www.personal.psu.edu/users/s/a/sam50/dissguide.htm
+ [22]: https://www.personal.psu.edu/users/s/a/sam50/closeread.htm
+ [23]: https://www.personal.psu.edu/users/s/a/sam50/studentinfo.htm
+ [24]: https://www.personal.psu.edu/users/s/a/sam50/vocabLIT.htm
+ [25]: https://www.personal.psu.edu/users/s/a/sam50/cinergia/dicespeng.htm
+ [26]: https://www.personal.psu.edu/users/s/a/sam50/cinergia/conceptos.htm
+ [27]: https://www.personal.psu.edu/users/s/a/sam50/abrevred.htm
+ [28]: https://www.personal.psu.edu/users/s/a/sam50/rubric.htm

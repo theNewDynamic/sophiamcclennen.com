@@ -4,7 +4,7 @@ categories:
   - news
 publication:
 image:
-link_to_original: 'http://www.svhe.org/upcomingmeeting.html'
+link_to_original: 'https://www.svhe.org/upcomingmeeting.html'
 ---
 
 

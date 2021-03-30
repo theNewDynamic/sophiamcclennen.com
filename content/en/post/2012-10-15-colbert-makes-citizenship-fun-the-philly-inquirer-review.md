@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 886814253
 
-category: news
+categories: 
+  - news
 ---
 Alexander Heffner [writes][1]* “;Colbert’s America* is a book for citizens of every creed who believe we are all entrusted with piloting American democracy.”
 

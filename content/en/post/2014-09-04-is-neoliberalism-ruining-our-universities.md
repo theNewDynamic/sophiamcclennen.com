@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 3003062300
 
-category: news
+categories: 
+  - news
 ---
 *Truthout* has published an excerpt from my co-authored book with Jeffrey Di Leo, Sophia McClennen, and Kenneth Saltman: *Neoliberalism, Education, Terrorism: Contemporary Dialogues*. Check out[ Twelve Theses on Education’s Future in the Age of Neoliberalism and Terrorism.][1]
 

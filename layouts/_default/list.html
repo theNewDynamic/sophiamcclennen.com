@@ -1,12 +1,22 @@
 {{ define "main" }}
-<div class="tnd-container">
-  <h1 class="text-3xl font-bold">{{ .Title }}</h1>
-  {{ $paginator := .Paginate .Pages }}
-  {{ range $paginator.Pages }}
-    <div class="py-8">
-      {{ .Render "li" }}
+<div class="container">
+  <div class="grid-cols-8 md:grid">
+    <div class="col-span-6">      
+      {{ $paginator := .Paginate .Pages }}
+      {{ range $paginator.Pages }}
+        <div class="py-8">          
+          {{ .Render "li" }}
+        </div>
+      {{ end }}
+      {{ template "_internal/pagination.html" . }}      
     </div>
-  {{ end }}
-  {{ template "_internal/pagination.html" . }}
+    <div class="col-span-2">
+      <div class="p-4 my-4 border">
+        {{ partial "recent-posts.html" . }}
+      </div>
+     
+    </div>
+  </div>
+  
 </div>
 {{ end }}

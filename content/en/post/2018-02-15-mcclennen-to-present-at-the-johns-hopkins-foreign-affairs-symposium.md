@@ -1,6 +1,7 @@
 ---
 title: McClennen to present at the Johns Hopkins Foreign Affairs Symposium
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://hub.jhu.edu/2018/02/12/hopkins-foreign-affairs-symposium-lineup-2018/'

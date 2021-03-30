@@ -1,6 +1,7 @@
 ---
 title: New Book! Pranksters vs Autocrats with Srdja Popovic
-category: news
+categories: 
+  - news
 publication:
 image: /assets/img/pranksters.jpg
 link_to_original: >-

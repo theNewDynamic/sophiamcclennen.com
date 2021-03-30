@@ -1,6 +1,7 @@
 ---
 title: McClennen to Keynote Lawrence U Film Festival
-category: news
+categories: 
+  - news
 publication:
 image: /lawrence.jpg
 link_to_original: 'https://www.lawrence.edu/academics/study/spanish/film_festival'

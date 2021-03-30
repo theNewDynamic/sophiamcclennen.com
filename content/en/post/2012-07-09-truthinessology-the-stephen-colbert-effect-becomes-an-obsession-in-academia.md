@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 780207533
 
-category: news
+categories: 
+  - news
 ---
 *Colbert’s America *is mentioned in this [piece][1] by Paul Farhi for the *Washington Post. *
 

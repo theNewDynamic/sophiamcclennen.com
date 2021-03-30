@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="container">
+  <h1 class="text-2xl text-red-600 md:text-4xl">Excerpt from {{ .Title }}</h1>
+  {{ with .Params.excerpt }}
+  <div class="my-12 prose">
+    {{ $.RenderString . }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

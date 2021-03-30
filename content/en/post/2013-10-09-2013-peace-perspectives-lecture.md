@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 1841221226
 
-category: news
+categories: 
+  - news
 ---
 McClennen delivers the **2013 Peace Perspectives Lecture** at the University of Missouri as part of the Chancellor’s Distinguished Speaker Series.  Details on the event [here][1].
 

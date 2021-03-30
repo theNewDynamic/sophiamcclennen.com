@@ -5,7 +5,8 @@ layout: post
 dsq_thread_id: 
   - 800242162
  
-category: news
+categories: 
+  - news
 published: true
 ---
 

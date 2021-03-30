@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 780596645
 
-category: news
+categories: 
+  - news
 ---
 Check out Gail Shister’s [piece][1] on [*Colbert’s America* ][2]for *TV Newser*
 

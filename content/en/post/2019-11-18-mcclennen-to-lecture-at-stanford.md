@@ -1,6 +1,7 @@
 ---
 title: McClennen to lecture at Stanford
-category: news
+categories: 
+  - news
 publication:
 image: /uploads/lit-poster-low-res.jpg
 link_to_original: >-

@@ -1,6 +1,7 @@
 ---
 title: McClennen to Keynote conference on The Politics of Dissent
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'http://www.svhe.org/upcomingmeeting.html'

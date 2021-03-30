@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 2699831731
 
-category: news
+categories: 
+  - news
 ---
 Check out the [review][1] of *Neoliberalism, Terrrorism, Education* in *Academe.*
 

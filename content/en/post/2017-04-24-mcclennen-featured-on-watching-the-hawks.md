@@ -1,6 +1,7 @@
 ---
 title: McClennen featured on Watching the Hawks
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original:

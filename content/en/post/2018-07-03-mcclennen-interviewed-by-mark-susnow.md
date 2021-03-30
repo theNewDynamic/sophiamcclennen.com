@@ -1,6 +1,7 @@
 ---
 title: McClennen Interviewed by Mark Susnow
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://bbsradio.com/podcast/inspire-possibility-show-july-1-2018'

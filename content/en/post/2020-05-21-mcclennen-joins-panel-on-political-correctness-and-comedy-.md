@@ -1,6 +1,7 @@
 ---
 title: McClennen joins panel on political correctness and comedy.
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original:

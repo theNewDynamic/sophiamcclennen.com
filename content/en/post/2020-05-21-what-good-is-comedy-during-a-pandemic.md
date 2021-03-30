@@ -1,6 +1,7 @@
 ---
 title: What good is comedy during a pandemic?
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://kpfa.org/player/?audio=333144'

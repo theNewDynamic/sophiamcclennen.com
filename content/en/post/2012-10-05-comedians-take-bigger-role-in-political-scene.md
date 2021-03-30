@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 872665206
 
-category: news
+categories: 
+  - news
 ---
 Watch this [interview][1] with me for The Wall street Journal Live on the upcoming Stewart v. O’Reilly debate.
 

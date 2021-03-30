@@ -1,6 +1,7 @@
 ---
 title: McClennen on BBC Scotland
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original:

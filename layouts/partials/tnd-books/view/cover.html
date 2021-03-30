@@ -1,0 +1,3 @@
+{{ with partialCached "tnd-books/GetBookCover" . . }}
+  <img src="{{ . }}" alt="Cover for {{ $.Title }}" class="shadow-md">
+{{ end }}

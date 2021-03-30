@@ -1,6 +1,7 @@
 ---
 title: McClennen hosts Bassem Youssef
-category: news
+categories: 
+  - news
 publication:
 image: /uploads/37532183704-0f5394b285-o.jpg
 link_to_original:

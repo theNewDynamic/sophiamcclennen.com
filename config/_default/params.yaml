@@ -1,4 +1,4 @@
-description: |
+description: |-
   Sophia A. McClennen works on the intersections between culture, politics, and society. Her books focus on cultural responses to complex social change, such as the connections between the satire of Stephen Colbert and post 9/11 politics or the exile writing of Ariel Dorfman and dictatorship in 1970s Latin America. Her work often analyzes the links between political events and their media representations, which has led her to critique the relationship between mainstream culture, political praxis, stereotypes, and social injustice.
 
 # ###############
@@ -16,30 +16,38 @@ tnd_seo:
 # ###############
 tnd_styles:
   fonts:
-  - family: Open
-    file: fonts/open-sans-v17-latin-300
-    weight: 300
+  - family: "Work Sans"
+    file: fonts/WorkSans-VariableFont_wght
     style: normal
-  - family: Open
-    file: fonts/open-sans-v17-latin-300italic
-    weight: 300
-    style: italic
-  - family: Open
-    file: fonts/open-sans-v17-latin-regular
     weight: 400
-  - family: Open
-    file: fonts/open-sans-v17-latin-italic
+  - family: "Work Sans"
+    file: fonts/WorkSans-Italic-VariableFont_wght
     weight: 400
     style: italic
-  - family: Open
-    file: fonts/open-sans-v17-latin-700
+  - family: "Work Sans"
+    file: fonts/WorkSans-VariableFont_wght
     weight: 700
     style: normal
-  - family: Open
-    file: fonts/open-sans-v17-latin-700italic
+  - family: "Work Sans"
+    file: fonts/WorkSans-Italic-VariableFont_wght
     weight: 700
     style: italic
-
+  - family: Lora
+    file: fonts/Lora-Italic-VariableFont_wght
+    weight: 400
+    font-style: italic
+  - family: Lora
+    file: fonts/Lora-Italic-VariableFont_wght
+    weight: 600
+    font-style: italic
+  - family: Lora
+    file: fonts/Lora-VariableFont_wght
+    weight: 400
+    font-style: normal   
+  - family: Lora
+    file: fonts/Lora-VariableFont_wght
+    weight: 600
+    font-style: normal
 # ###############
 # TND FORMS
 # ###############

@@ -11,6 +11,7 @@ mounts:
 imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-seo
   - path: github.com/theNewDynamic/hugo-module-tnd-styles
+  - path: github.com/theNewDynamic/hugo-module-tnd-menus
   - path: github.com/theNewDynamic/hugo-module-tnd-socials
   - path: github.com/theNewDynamic/hugo-module-tnd-headers
   - path: github.com/theNewDynamic/hugo-module-tnd-redirects

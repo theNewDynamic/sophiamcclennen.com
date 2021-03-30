@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 786119717
 
-category: news
+categories: 
+  - news
 ---
 I spoke with Angel Clark for Radio Freedom on July 30.   Listen to the interview [here][1].
 

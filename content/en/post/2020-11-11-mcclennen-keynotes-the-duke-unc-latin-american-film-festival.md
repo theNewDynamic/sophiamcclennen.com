@@ -1,6 +1,7 @@
 ---
 title: McClennen keynotes the Duke-UNC Latin American Film festival
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://nclatinamericanfilmfestival.org/nclaff-conversations/'

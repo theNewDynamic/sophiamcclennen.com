@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 780211095
 
-category: news
+categories: 
+  - news
 tags:
   - "Colbert's America"
   - Press

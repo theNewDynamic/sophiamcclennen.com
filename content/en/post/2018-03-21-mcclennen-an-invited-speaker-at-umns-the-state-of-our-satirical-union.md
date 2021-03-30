@@ -1,6 +1,7 @@
 ---
 title: McClennen an invited speaker at UMN's "The State of Our Satirical Union"
-category: news
+categories: 
+  - news
 publication:
 image: /uploads/symposium.png
 link_to_original: 'https://cla.umn.edu/hsjmc/news-events/news/state-our-satirical-union'

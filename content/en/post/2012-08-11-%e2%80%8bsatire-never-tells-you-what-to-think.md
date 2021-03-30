@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 801619700
 
-category: news
+categories: 
+  - news
 ---
 Quoted alongside Al Franken in John Rash’s “;[Laughing at, but not with, our politicians][1]” for the *Star Tribune*.
 

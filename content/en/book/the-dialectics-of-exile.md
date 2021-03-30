@@ -1,11 +1,13 @@
 ---
 title: The Dialectics of Exile
-cover_image: /uploads/the-dialectics-of-exile.jpg
+
 date: 2014-02-24 12:00:00
 category: academic
+
 editions:
 - binding: hardcover
   publisher: Purdue University Press
+  cover_image: /uploads/the-dialectics-of-exile.jpg
   isbn: 9781557533159
 subtitle: Nation, Time and Language in Hispanic Literatures
 short_description: |

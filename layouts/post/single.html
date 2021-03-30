@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="container font-sans">
+
+  
+{{ range (.GetTerms "categories") }}
+  <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+{{ end }}
+
+  <h1 class="text-5xl font-bold">
+    <a href="{{ .RelPermalink }}" class="no-underline">{{ .Title | safeHTML }}</a>
+  </h1>  
+
+
+
+  <div class="my-12 prose prose-lg">
+    {{ .Content }}
+  </div>
+  {{ with .Params.link_to_original }}
+  <div>
+    Read the rest:  <a class="text-blue-500" href="{{ . }}">link to original</a>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

@@ -1,6 +1,7 @@
 ---
 title: McClennen explains Colbert's Truthiness to Neil de Grasse Tyson on StarTalk
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://www.startalkradio.net/all-access/the-truthiness-with-stephen-colbert/'

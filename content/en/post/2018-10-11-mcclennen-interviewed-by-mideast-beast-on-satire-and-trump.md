@@ -1,6 +1,7 @@
 ---
 title: McClennen interviewed by Mideast Beast on Satire and Trump
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://www.themideastbeast.com/did-president-trump-just-kill-satire/'

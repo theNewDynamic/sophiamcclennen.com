@@ -12,7 +12,6 @@
    "tailwindcss": "project"
   }
  },
- "dependencies": {},
  "description": "Replace this description with project's",
  "devDependencies": {
   "@tailwindcss/typography": "^0.4.0",

@@ -1,6 +1,7 @@
 ---
 title: McClennen interviewed on Islamophobia in the 2020 Election.
-category: news
+categories: 
+  - news
 publication: Indus News
 image:
 link_to_original: 'https://www.youtube.com/watch?v=8II49La5BtI'

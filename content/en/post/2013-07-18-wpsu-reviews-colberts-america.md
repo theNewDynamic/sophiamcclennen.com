@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 1510246603
 
-category: news
+categories: 
+  - news
 ---
 Daniel Mallinson reviews *Colbert’s America: Satire and Democracy* for WPSU, our local NPR affiliate. Listen in [here][1].
 

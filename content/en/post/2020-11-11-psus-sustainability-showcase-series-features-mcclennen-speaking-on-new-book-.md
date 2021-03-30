@@ -1,6 +1,7 @@
 ---
 title: PSU's Sustainability Showcase Series features McClennen speaking on new book.
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://www.pennstatecsl.com/showcases-fall-2020.html'

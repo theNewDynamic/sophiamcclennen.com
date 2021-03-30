@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 851052990
 
-category: news
+categories: 
+  - news
 ---
 [Q&A][1] with Sophia A. McClennen on &#8216;Colbert’s America: Satire and Democracy’ with Kris Kitto for The Hill.
 

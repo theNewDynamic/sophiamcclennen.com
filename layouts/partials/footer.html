@@ -1,10 +1,29 @@
-<footer class="border-t border-b bg-gray-400 text-white py-12">
-  <div class="tnd-container">
-    {{ with site.Params.description }}
-      {{ $.RenderString . }}
-    {{ end }}
-    <div class="font-bold my-4">
-      {{ i18n "copyright" }} {{ now.Format "2006" }} {{ site.Title }}
+<footer class="pt-8 pb-2 mt-32 bg-gray-500 border-t border-b">
+  <div class="container">    
+    {{ with site.Params.Description }}
+      <div class="max-w-4xl py-16 mx-auto">
+        <div class="grid grid-cols-8">
+          <div class="flex flex-col items-center col-span-2 lazyload">
+            <img class="w-40 h-40 rounded-full shadow" src="/img/sophia-sanders.jpeg" alt="{{ site.Title }}">
+            <div class="flex items-center max-w-xs mx-auto mt-12">
+              {{ range partialCached "tnd-socials/GetSocials" "GetSocials" }}
+                <a href="{{ .URL }}" class="w-8 mx-2 opacity-60 hover:opacity-100"title="Follow {{ .Handle }} on {{ .Service }}">
+                  {{ .SVG }}
+                </a>
+              {{ end }}
+              </div>            
+          </div>
+          <div class="col-span-6 prose text-gray-800">
+            {{  . }}
+          </div>
+        </div>        
+        </div>
+      {{ end }}
+
+    <div class="flex justify-between font-sans text-xs text-gray-700">
+      <div>{{ i18n "copyright" }} {{ now.Format "2006" }} {{ site.Title }}</div>
+      <a href="https://www.thenewdynamic.com?utm_source={{site.Title | urlize}}" class="footer-link-internal">site by
+        The New Dynamic</a>
     </div>
   </div>
 </footer>

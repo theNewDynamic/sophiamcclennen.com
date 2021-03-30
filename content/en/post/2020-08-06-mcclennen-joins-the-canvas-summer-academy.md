@@ -1,6 +1,7 @@
 ---
 title: McClennen joins the CANVAS Summer Academy
-category: news
+categories: 
+  - news
 publication:
 image: /uploads/yes-men-2.jpeg
 link_to_original: 'https://canvasopedia.org/summeracademy/'

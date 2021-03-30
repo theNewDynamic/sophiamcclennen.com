@@ -2,7 +2,8 @@
 title: >-
   McClennen joins Srdja Popovic for a leacture on Laughtivism and the Power of
   Satire
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'http://www.indiana.edu/~cahi/htmlemail/2018/february/laughtivism.shtml'

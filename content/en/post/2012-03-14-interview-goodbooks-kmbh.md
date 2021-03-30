@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 796082872
 
-category: news
+categories: 
+  - news
 tags:
   - America According to Colbert
   - Press

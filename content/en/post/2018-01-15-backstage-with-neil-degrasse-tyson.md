@@ -1,6 +1,7 @@
 ---
 title: Backstage with Neil deGrasse Tyson
-category: news
+categories: 
+  - news
 publication:
 image: /uploads/316-colbert-studio-2707.jpg
 link_to_original:

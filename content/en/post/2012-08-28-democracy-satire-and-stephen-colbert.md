@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 829843934
 
-category: news
+categories: 
+  - news
 ---
 Media Post’s Fern Siegel [writes][1]: “;Sounding like the president of Colbert Nation, McClennen makes a thoughtful, well-researched case for concluding his satire is &#8216;redefining the parameters of political dissent.’”
 

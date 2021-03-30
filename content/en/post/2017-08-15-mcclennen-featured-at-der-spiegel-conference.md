@@ -1,6 +1,7 @@
 ---
 title: McClennen featured at Der Spiegel conference
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'http://reporter-forum.de/rw17/dozenten/sophia-a-mcclennen/'

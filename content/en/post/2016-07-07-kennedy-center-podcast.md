@@ -1,6 +1,7 @@
 ---
 title: Kennedy Center Podcast
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'http://leecamp.net/special-podcast-redacted-tonight-live-with-reggie-watts-sophia-mcclennan-click-to-listen/'

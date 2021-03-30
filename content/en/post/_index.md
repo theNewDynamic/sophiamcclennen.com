@@ -6,7 +6,4 @@ categories:
 cascade:
   categories: 
   - what-im-watching
-menus:
-  main:
-   weight: 20
 ---

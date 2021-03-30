@@ -1,12 +1,16 @@
 ---
 title: About
+# featured_image:
+#   file: /uploads/headshot-2.png
 menu:
   main: 
     weight: 10
 summary: Sophia A. McClennen works on the intersections between culture, politics, and society. Her books focus on cultural responses to complex social change, such as the connections between the satire of Stephen Colbert and post 9/11 politics or the exile writing of Ariel Dorfman and dictatorship in 1970s Latin America. Her work often analyzes the links between political events and their media representations, which has led her to critique the relationship between mainstream culture, political praxis, stereotypes, and social injustice.
 ---
 
-![](/uploads/headshot-2.png) Sophia A. McClennen works on the intersections between culture, politics, and society. Her books focus on cultural responses to complex social change, such as the connections between the satire of Stephen Colbert and post 9/11 politics or the exile writing of Ariel Dorfman and dictatorship in 1970s Latin America. Her work often analyzes the links between political events and their media representations, which has led her to critique the relationship between mainstream culture, politics, stereotypes, and social injustice.
+{{< figure src="/uploads/headshot-2.png" title="Sophia A. McClennen" class="block float-left w-64 mr-6" >}} 
+
+Sophia A. McClennen works on the intersections between culture, politics, and society. Her books focus on cultural responses to complex social change, such as the connections between the satire of Stephen Colbert and post 9/11 politics or the exile writing of Ariel Dorfman and dictatorship in 1970s Latin America. Her work often analyzes the links between political events and their media representations, which has led her to critique the relationship between mainstream culture, politics, stereotypes, and social injustice.
 
 [Click here for her CV](https://www.dropbox.com/s/a6m5aokh8jj3rfs/cv%202019.pdf?dl=0)
 

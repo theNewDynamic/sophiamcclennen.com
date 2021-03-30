@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 897487944
 
-category: news
+categories: 
+  - news
 ---
 Alex Strachan for Canadian news on political comedy, the election, and young voters at [Canada.com][1], [The Edmonton Journal][2], and [The Vancouver Sun][3].
 

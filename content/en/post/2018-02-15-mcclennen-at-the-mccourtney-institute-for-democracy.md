@@ -1,6 +1,7 @@
 ---
 title: McClennen at the McCourtney Institute for Democracy
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'http://democracyinstitute.la.psu.edu/news-events/events/trump-is-a-joke-why'

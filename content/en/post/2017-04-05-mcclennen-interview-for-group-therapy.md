@@ -1,6 +1,7 @@
 ---
 title: McClennen Interview for Group Therapy
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original:

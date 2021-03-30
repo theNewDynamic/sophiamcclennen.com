@@ -1,4 +1,4 @@
 ---
-title: What I'm watching
+title: What I'm Watching
 url: /what-im-watching/
 ---

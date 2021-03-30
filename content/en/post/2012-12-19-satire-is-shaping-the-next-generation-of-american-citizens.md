@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 983321527
 
-category: news
+categories: 
+  - news
 ---
 Penn State Live [covers][1] Colbert’s America.
 

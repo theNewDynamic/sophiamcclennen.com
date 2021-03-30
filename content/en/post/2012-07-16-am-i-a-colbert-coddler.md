@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 782135944
 
-category: news
+categories: 
+  - news
 ---
 Looks like we annoyed *Newsbusters* enough to get a [piece][1] by its publisher and the founder of the Media Research Center.
 

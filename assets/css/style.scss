@@ -1,5 +1,7 @@
 @import 'tailwind/utilities.css';
 @import 'modules/layout';
-@import 'modules/container';
 @import 'modules/pagination';
 
+html {
+    scroll-behavior: smooth;
+}

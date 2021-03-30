@@ -15,8 +15,7 @@ short_description: |
 ---
 Do you watch satire TV? Have you re-posted a hilarious, yet biting graphic on facebook or tweeted round the clock jabs at inane politicians? Does it sometimes seem to you that Jon Stewart is a better journalist than most of CNN, Fox, and MSNBC? And were you a bit disappointed when Stephen Colbert did not actually run for president? If you or someone you know has done any of the above, then you'll want to read this book. _Is Satire Saving Our Nation?_ surveys the broad landscape of satire today and situates it within our nation's history.
 
-<iframe width="853" height="480" src="//www.youtube.com/embed/jMUYcr50RtE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
+{{< youtube id="jMUYcr50RtE" >}}
 We are witnessing an unprecedented growth and importance of satire in the public sphere, but is that fact good or bad for the health of our nation? Co-written by a millennial and a scholar, _Is Satire Saving Our Nation?_ shows how satire has become a central part of today's youth culture and it explains why it might just save our democracy after all.
 
 

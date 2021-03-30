@@ -1,6 +1,7 @@
 ---
 title: McClennen to Keynote in Sheffield.
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://catostreetconference.wordpress.com/programme/'

@@ -1,6 +1,7 @@
 ---
 title: McClennen awarded LaMarr Kopp Faculty Award for 2016
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original:

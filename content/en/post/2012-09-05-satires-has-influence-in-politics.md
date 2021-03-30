@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 832356010
 
-category: news
+categories: 
+  - news
 ---
 Kaitlyn Zurcher of *The Daily Collegian* covers *Colbert’s America* [here][1].
 

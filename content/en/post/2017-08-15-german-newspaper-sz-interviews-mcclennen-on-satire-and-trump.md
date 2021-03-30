@@ -1,6 +1,7 @@
 ---
 title: German newspaper SZ interviews McClennen on satire and Trump
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original:

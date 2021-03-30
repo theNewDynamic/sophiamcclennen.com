@@ -1,6 +1,7 @@
 ---
 title: McClennen speaks at MLRC Media Law conference
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: >-

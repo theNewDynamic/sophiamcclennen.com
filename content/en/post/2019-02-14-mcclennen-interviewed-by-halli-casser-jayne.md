@@ -1,6 +1,7 @@
 ---
 title: McClennen interviewed by Halli Casser-Jayne
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'http://hallicasser-jayne.com/from-the-sublime-to-the-ridiculous-edition/'

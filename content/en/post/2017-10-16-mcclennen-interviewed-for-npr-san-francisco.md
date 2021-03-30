@@ -1,6 +1,7 @@
 ---
 title: McClennen interviewed for NPR San Francisco
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original:

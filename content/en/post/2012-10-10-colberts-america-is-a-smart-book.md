@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 880476662
 
-category: news
+categories: 
+  - news
 ---
 Peter Bart from *Variety *[on Colbert’s new book and mine][1].
 

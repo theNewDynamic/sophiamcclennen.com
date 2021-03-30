@@ -1,6 +1,7 @@
 ---
 title: McClennen interviewed on satire and the 2020 election
-category: news
+categories: 
+  - news
 publication:
 image: /uploads/gillibrand-colbert-2-1200x800.jpg
 link_to_original:

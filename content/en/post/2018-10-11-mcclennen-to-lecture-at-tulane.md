@@ -1,6 +1,7 @@
 ---
 title: McClennen to lecture at Tulane
-category: news
+categories: 
+  - news
 publication:
 image: /uploads/mcclennen-poster.jpg
 link_to_original: >-

@@ -1,6 +1,7 @@
 ---
 title: McClennen to lecture on new book at LASA
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://lasa.international.pitt.edu/eng/congress/'

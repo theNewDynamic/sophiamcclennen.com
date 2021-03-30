@@ -1,6 +1,7 @@
 ---
 title: McClennen talks to Thom Hartmann about satire and Trump.
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://trofire.com/2017/04/16/can-stephen-colbert-defeat-trump-thom-hartmann-program/'

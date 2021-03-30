@@ -1,6 +1,7 @@
 ---
 title: McClennen featured on Life Lessons
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: >-

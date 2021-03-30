@@ -2,7 +2,8 @@
 title: >-
   McClennen and Popovic share their new book with Young Professionals in Foreign
   Policy
-category: News
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://www.ypfp.org/'

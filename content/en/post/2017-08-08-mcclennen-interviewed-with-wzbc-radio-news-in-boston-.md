@@ -1,6 +1,7 @@
 ---
 title: McClennen interviewed with WZBC Radio News in Boston.
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original:

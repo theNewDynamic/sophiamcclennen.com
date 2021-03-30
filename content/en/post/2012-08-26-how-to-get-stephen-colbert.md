@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 819486672
 
-category: news
+categories: 
+  - news
 ---
 Listen to my interview with Jim Donavan, Morning News Anchor for WSYR FM 106.9 [here][1].
 

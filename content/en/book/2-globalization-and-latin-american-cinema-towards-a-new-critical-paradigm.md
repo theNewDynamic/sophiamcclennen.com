@@ -1,7 +1,8 @@
 ---
 title: 'Globalization and Latin American Cinema: Towards a New Critical Paradigm'
 date: 2018-11-08 12:00:00
-category: news
+categories: 
+  - news
 layout: book
 editions:
 - binding: hardcover

@@ -1,6 +1,7 @@
 ---
 title: McClennen interviewed in Check Please
-category: news
+categories: 
+  - news
 publication: ''
 image: ''
 link_to_original: ''

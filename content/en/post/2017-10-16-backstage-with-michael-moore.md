@@ -1,6 +1,7 @@
 ---
 title: Backstage with Michael Moore
-category: news
+categories: 
+  - news
 publication:
 image: /uploads/22279822-10154953136331765-4230123443455607184-n.jpg
 link_to_original:

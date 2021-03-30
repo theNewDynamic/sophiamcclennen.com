@@ -1,4 +1,6 @@
-<div class="text-xl mb-4">Recent Posts</div>
-{{ range first 3 (where site.RegularPages "Type" "post") }}
-  <a class="block text-blue-500 my-4" href="{{ .RelPermalink }}">{{ .Title }}</a>
+{{ with index site.Taxonomies.categories "what-im-watching"}}
+  <h3 class="font-bold">What I'm Watching</h3>
+  {{range first 3 . }}
+    <a class="block my-4 text-blue-500" href="{{ .RelPermalink }}">{{ .Title }}</a>
+  {{ end }}
 {{ end }}

@@ -1,6 +1,7 @@
 ---
 title: McClennen an invited speaker for ICEE fest in Bucharest
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original:

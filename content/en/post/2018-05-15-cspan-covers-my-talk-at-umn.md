@@ -1,6 +1,7 @@
 ---
 title: CSPAN covers my talk at UMN
-category: news
+categories: 
+  - news
 publication:
 image:
 link_to_original: 'https://www.youtube.com/watch?v=hOXqXyKd1pg'

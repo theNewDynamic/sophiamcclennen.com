@@ -1,6 +1,7 @@
 ---
 title: Backstage with Jordan Klepper
-category: news
+categories: 
+  - news
 publication:
 image: /uploads/26196167-10155189343351765-7083052590841667202-n-1.jpg
 link_to_original:

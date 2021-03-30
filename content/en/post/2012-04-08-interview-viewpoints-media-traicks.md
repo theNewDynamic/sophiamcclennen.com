@@ -13,7 +13,8 @@ enclosure:
 dsq_thread_id:
   - 781233163
 
-category: news
+categories: 
+  - news
 tags:
   - Press
 ---

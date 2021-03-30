@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 983266231
 
-category: news
+categories: 
+  - news
 ---
 Listen to this [interview][1] with Eleanor Hall from ABC News (AU) on Colbert’s America and US democracy.
 

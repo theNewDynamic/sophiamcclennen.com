@@ -1,0 +1,4 @@
+main:
+  - name: News
+    url: /categories/news/
+    weight: 20

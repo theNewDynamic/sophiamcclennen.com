@@ -1,6 +1,7 @@
 ---
 title: Keynote for IUP
-category: news
+categories: 
+  - news
 publication: ''
 image: ''
 link_to_original: 'http://www.iup.edu/english/grad/students/english-graduate-organization/conferences-and-colloquia/'

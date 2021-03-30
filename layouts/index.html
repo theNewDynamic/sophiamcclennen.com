@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="tnd-container">
+<div class="font-sans tnd-container">
   {{ with site.GetPage "categories/what-im-watching" }}
     {{ range first 1 .Pages }}
     {{ .Render "li" }}

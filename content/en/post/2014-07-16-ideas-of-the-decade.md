@@ -6,7 +6,8 @@ layout: post
 dsq_thread_id:
   - 2849833269
 
-category: news
+categories: 
+  - news
 ---
 My contribution to the *The 2014 &#8211; 2015 Report on the State of the Discipline of Comparative Literature* published by American Comparative Literature Association has just been released: “;[Ideas of the Decade: Human Rights][1].”
 

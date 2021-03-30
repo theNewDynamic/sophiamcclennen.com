@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="container py-8">
+  <div class="mb-32">
+    {{ partial "books/all" . }}
+  </div>
+  {{ range where .Pages ".Type" "book" }}
+    <div id="{{ .Title | urlize }}" class="py-8">
+      {{ .Render "li" }}
+    </div>
+  {{ end }}
+</div>
+{{ end }}

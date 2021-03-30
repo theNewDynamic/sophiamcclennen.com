@@ -5,7 +5,8 @@ layout: post
 dsq_thread_id:
   - 785774068
 
-category: news
+categories: 
+  - news
 tags:
   - Ariel Dorfman
 ---

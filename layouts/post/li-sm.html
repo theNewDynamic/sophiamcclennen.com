@@ -1,8 +1,8 @@
-<div class="bg-gray-100 shadow">
+<div class="mb-8 bg-gray-100 shadow">
   {{ with .Params.image }}
   <img src="{{.}}" alt="" class="w-full mb-2">
 {{ end }}
-  <div class="px-4 pb-2">
+  <div class="px-4 py-4 pb-2">
     <h2 class="max-w-4xl font-sans font-bold leading-tight">
       <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
   </h2>

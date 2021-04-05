@@ -1,5 +1,5 @@
 {{ with .Params.image }}
-  <img src="{{.}}" alt="" class="max-w-full md:max-w-md">
+  <img data-src="{{.}}" alt="" class="max-w-full lazyload md:max-w-md">
 {{ end }}
 <h2 class="max-w-xl text-3xl font-bold">
   <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>

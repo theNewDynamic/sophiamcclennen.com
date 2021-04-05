@@ -6,3 +6,10 @@ body{
 main{
   flex: 1;
 }
+
+html.no-js .js-only{
+  visibility: hidden;
+}
+html.js .js-only{
+  visibility: visible;
+}

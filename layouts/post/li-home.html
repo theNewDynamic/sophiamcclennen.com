@@ -1,7 +1,7 @@
 <div class="md:flex">
   <div> 
     {{ with .Params.image }}
-      <img src="{{.}}" alt="" class="w-full mb-1">
+      <img data-src="{{.}}" alt="" class="w-full mb-1 lazyload">
     {{ end }}        
   </div>
   <div>

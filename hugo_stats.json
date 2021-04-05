@@ -96,6 +96,7 @@
       "inline-block",
       "inline-flex",
       "items-center",
+      "js-only",
       "justify-between",
       "justify-center",
       "justify-end",

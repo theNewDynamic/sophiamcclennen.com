@@ -3,13 +3,12 @@
     {{ partial "head.html" . }}
     {{ block "addtohead" . }}{{ end }}
   </head>
-  <body class="font-serif bg-gray-300 no-js">
-    <div class="container">
+  <body class="bg-white">    
+    <div class="">
       <div class="bg-white">
-        {{ partial "header.html" . }}
+        {{ partial "header.html" . }}        
         <main>
           {{ block "main" . }}
-
           {{ end }}
         </main>
         {{ partial "footer" . }}

@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <div class="container">
+    {{ $paginator := .Paginate .Pages }}
+    <div class="gap-12 md:grid lg:grid-cols-3 md:grid-cols-2">
+			{{ range $paginator.Pages }}
+				{{ .Render "li-sm"}}
+			{{ end }}
+		</div>
+		<div class="mt-20">
+			{{ template "_internal/pagination.html" . }}      
+		</div>
+	</div>
+{{ end }}

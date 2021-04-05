@@ -3,7 +3,7 @@ title: "Jon Stewart’s real threat to Fox News: You don’t get to define patri
 publication: "Salon"
 categories: 
 - what-im-watching
-image: /assets/img/jon_stewart_rivals.jpg
+image: /uploads/jon_stewart_rivals.jpg
 featured: true
 link_to_original: "https://www.salon.com/2015/08/05/jon_stewarts_real_threat_to_fox_news_you_dont_get_to_define_patriotism/"
 ---

@@ -3,7 +3,7 @@ title: "Jerry Seinfeld’s new bizarro world: The sadness of watching a genius a
 publication: "Salon"
 categories: 
 - what-im-watching
-image: /assets/img/jerry_seinfeld.jpg
+image: /uploads/jerry_seinfeld.jpg
 featured: true
 link_to_original: "https://www.salon.com/2015/06/12/jerry_seinfelds_new_bizarro_world_the_sadness_of_watching_a_genius_age_into_bill_oreilly/"
 ---

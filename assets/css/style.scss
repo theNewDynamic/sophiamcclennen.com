@@ -5,3 +5,7 @@
 html {
     scroll-behavior: smooth;
 }
+
+.z-100:hover {
+    z-index: 100 !important;
+}

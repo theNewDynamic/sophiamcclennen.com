@@ -256,4 +256,4 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 
 [“After Civilization: The Theory and Practice of Introducing Latin American Culture”](https://38.105.236.139/adefl_bulletin_c_adfl_34_2_6&amp;from=adefl_bulletin_t_adfl34_2)
 
-[1]: /assets/img/2014/07/cv-2014.pdf
+[1]: /uploads/2014/07/cv-2014.pdf

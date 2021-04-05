@@ -3,7 +3,7 @@ title: "The Staggering Ways America Is Rigged to Traumatize and Impoverish Kids 
 publication: "Alternet"
 categories: 
 - what-im-watching
-image: /assets/img/college-student.jpg
+image: /uploads/college-student.jpg
 featured: true
 link_to_original: "https://www.alternet.org/news-amp-politics/staggering-ways-america-rigged-traumatize-and-impoverish-kids-coming-out-college"
 ---

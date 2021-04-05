@@ -16,7 +16,7 @@ featured: true
 
 Thanks to Stephen and his young playmate for illustrating the false logic being offered by Congress.
 
-![](/assets/img/Colbert-games-large.jpg)
+![](/uploads/Colbert-games-large.jpg)
 
 Stephen Colbert does an excellent job of describing the way the game-playing of the shutdown is not a game and not a joke. See the clip here:
 

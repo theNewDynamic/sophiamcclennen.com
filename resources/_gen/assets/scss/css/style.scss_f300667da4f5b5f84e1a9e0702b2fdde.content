@@ -12,5 +12,29 @@ main {
   .pagination .page-item a {
     @apply px-4; }
 
+/* pagination.html: https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L117 */
+.pagination {
+  @apply px-0 mx-0; }
+
+.pagination li {
+  @apply inline-block text-xs mb-8 mr-1 font-sans; }
+
+.pagination li a {
+  @apply no-underline rounded text-gray-500 border bg-white py-1 px-3; }
+
+.pagination li.disabled {
+  @apply hidden; }
+
+.pagination li.active a:link,
+.pagination li.active a:active,
+.pagination li.active a:visited {
+  @apply bg-gray-200 text-gray-800; }
+
+.pagination li a:hover, .pagination li.active a:hover {
+  @apply bg-gray-500 text-white; }
+
 html {
   scroll-behavior: smooth; }
+
+.z-100:hover {
+  z-index: 100 !important; }

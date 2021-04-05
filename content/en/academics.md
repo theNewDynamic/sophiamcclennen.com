@@ -63,8 +63,8 @@ Email: <sophia.mcclennen@gmail.com>
 *   [Paper Grading Rubric][28]
 
  [1]: https://sia.psu.edu/faculty/sophia_mcclennen
- [2]: /assets/img/2014/07/cv-2014.pdf
- [3]: /assets/img/2012/07/INTAF-804-syllabus-2012.pdf
+ [2]: /uploads/2014/07/cv-2014.pdf
+ [3]: /uploads/2012/07/INTAF-804-syllabus-2012.pdf
  [4]: https://www.personal.psu.edu/users/s/a/sam50/CMLIT101home.htm
  [5]: /academics/attachment/conflict-res/
  [6]: https://www.personal.psu.edu/users/s/a/sam50/Theory.htm

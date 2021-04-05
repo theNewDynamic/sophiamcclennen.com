@@ -1,14 +1,14 @@
-{{ $publication := .Params.publication }}
+{{ with .Params.image }}
+  <img src="{{.}}" alt="" class="max-w-md">
+{{ end }}
 <h2 class="max-w-xl text-3xl font-bold">
   <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
 </h2>
 <time datetime="{{ .Date }}" class="block my-4 font-sans text-xs">{{ .Date.Format "Monday January 2, 2006" }}</time>
 <div class="mb-12 prose">
   {{ .Content }}
-  {{ with .Params.link_to_original }}
-    <div>
-      Read:  <a class="text-blue-500" href="{{ . }}">{{ with $publication }}{{ . }}{{ else }}link to original{{ end }}</a>
-    </div>
-  {{ end }}
+  <div class="text-base">
+    {{ partial "link-to-original" . }}
+  </div>
 </div>
 

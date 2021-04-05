@@ -1,7 +1,7 @@
 {{ $args := dict "menu" "main" "Page" $ }}
-<div class="items-center justify-between md:flex">
+<div class="items-center justify-between lg:container md:flex">
 {{ with partial "tnd-menus/GetMenu" $args }}
-<nav class="flex flex-wrap justify-center font-sans text-xs md:text-sm md:justify-start">
+<nav class="flex flex-wrap justify-center font-sans text-xs font-bold text-gray-500 md:text-sm md:justify-start">
   {{ range $MenuEntry := . }}
     {{ template "tnd_menus_menu_entry" . }}
   {{ end }}

@@ -6,6 +6,6 @@ categories:
 featured: true
 link_to_original: "https://www.alternet.org/news-amp-politics/ted-cruz-isnt-idiot-hes-delusional-and-thats-far-more-dangerous"
 ---
-![](/assets/img/ted_cruz17.jpg)
+![](/uploads/ted_cruz17.jpg)
 
 Since Ted Cruz first announced his candidacy, much has been made of his chances of winning, his arrogance and his extreme conservative views. But most of the controversy over his candidacy centers on his lying.

@@ -3,7 +3,7 @@ title: "Trevor Noah gives Fox News a free pass: The new “Daily Show” could b
 publication: "Salon"
 categories: 
 - what-im-watching
-image: /assets/img/stewart_noah-620x412.jpg
+image: /uploads/stewart_noah-620x412.jpg
 featured: true
 link_to_original: "https://www.salon.com/2015/09/28/trevor_noah_gives_fox_news_a_free_pass_the_new_daily_show_could_be_great_for_ailes_and_hannity_bad_for_america/"
 ---

@@ -13,7 +13,7 @@ categories:
 format: aside
 ---
 
-![](/assets/img/Screen-Shot-2012-09-26-at-6.31.46-PM3.png)
+![](/uploads/Screen-Shot-2012-09-26-at-6.31.46-PM3.png)
 
 We need to continue to thank Jon Stewart and Stephen Colbert for using their powerful political comedy to shed some light on these recent developments. The segments they have run show us that Romney’s comments are not gaffes. They are not bloopers. In fact, they are glimpses into the character behind the candidates.
 

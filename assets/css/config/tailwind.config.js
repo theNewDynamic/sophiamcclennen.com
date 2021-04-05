@@ -1,3 +1,4 @@
+const colors = require("tailwindcss/colors");
 module.exports = {
   future: {
     // removeDeprecatedGapUtilities: true,
@@ -7,9 +8,16 @@ module.exports = {
   theme: {
     container: {
       center: true,
-      padding: "4rem",
+      padding: {
+        DEFAULT: '1rem',
+        sm: '2rem',
+        // xl: '4rem',        
+      },
     },
     extend: {
+      colors: {
+        gray: colors.blueGray,
+      },
       fontFamily: {
         sans: [
           "Work Sans",

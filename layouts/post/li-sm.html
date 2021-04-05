@@ -1,0 +1,17 @@
+<div class="bg-gray-100 shadow">
+  {{ with .Params.image }}
+  <img src="{{.}}" alt="" class="w-full mb-2">
+{{ end }}
+  <div class="px-4 pb-2">
+    <h2 class="max-w-4xl font-sans font-bold leading-tight">
+      <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
+  </h2>
+  {{/*  <time datetime="{{ .Date }}" class="block my-4 font-sans text-xs">{{ .Date.Format "Monday January 2, 2006" }}</time>  */}}
+  <div class="font-sans text-sm prose">
+      {{ .Content }}
+      <div class="text-xs">
+        {{ partial "link-to-original" . }}
+      </div>
+  </div>
+  </div>
+</div>

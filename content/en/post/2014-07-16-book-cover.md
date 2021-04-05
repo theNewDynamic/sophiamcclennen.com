@@ -9,7 +9,7 @@ dsq_thread_id:
 categories: 
   - news
 ---
-![](/assets/img/RC-Literature-and-Human-Rights_736411.jpg) Routledge has designed the book cover for *The Routledge Companion to Human Rights and Literature.*
+![](/uploads/RC-Literature-and-Human-Rights_736411.jpg) Routledge has designed the book cover for *The Routledge Companion to Human Rights and Literature.*
 
 
 

@@ -1,0 +1,16 @@
+{{ $publication := .Params.publication }}
+{{ with .Params.link_to_original }}
+  <div class="font-sans font-bold no-underline prose-indigo">
+    
+    <a target="_blank" class="inline-flex items-center px-2 py-1 no-underline align-text-bottom transition bg-gray-100 border border-gray-200 rounded hover:text-white hover:bg-indigo-500 hover:underline" href="{{ . }}" style="text-decoration: none;">
+      
+      {{ with $publication }}Read at {{ . }}{{ else }}link to original{{ end }}
+      
+      <svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+      </svg>
+
+    </a>
+    
+  </div>
+{{ end }}

@@ -1,0 +1,23 @@
+<div class="md:flex">
+  <div>
+ 
+    {{ with .Params.image }}
+      <img src="{{.}}" alt="" class="w-full mb-1">
+    {{ end }}
+    
+  
+    
+  </div>
+  <div>
+    <div class="md:pl-8">
+      <h2 class="max-w-xl font-sans text-3xl font-bold">
+        <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
+      </h2>
+      {{/*  <time datetime="{{ .Date }}" class="block my-1 font-sans text-xs">{{ .Date.Format "Monday January 2, 2006" }}</time>  */}}
+      <div class="mb-12 prose prose-xs">
+          {{ .Content }}
+          {{ partial "link-to-original" . }}
+      </div>
+    </div>
+  </div>
+</div>

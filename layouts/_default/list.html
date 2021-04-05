@@ -4,7 +4,7 @@
     <div class="col-span-6">      
       {{ $paginator := .Paginate .Pages }}
       {{ range $paginator.Pages }}
-        <div class="py-8">          
+        <div class="md:py-8">          
           {{ .Render "li" }}
         </div>
       {{ end }}

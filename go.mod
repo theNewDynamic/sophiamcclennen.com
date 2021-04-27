@@ -6,7 +6,7 @@ require (
 	github.com/itemsapi/itemsjs v1.0.30 // indirect
 	github.com/theNewDynamic/hugo-component-tnd-blocks v0.0.0-20200618163712-a1fce85c0c7b // indirect
 	github.com/theNewDynamic/hugo-component-tnd-func v0.0.0-20200618164051-1db2b8f979ad // indirect
-	github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210329191035-cdc985c2f14b // indirect
+	github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210427175135-11d0212c893e // indirect
 	github.com/theNewDynamic/hugo-module-tnd-forms v0.0.0-20210215134930-f4988c330b3b // indirect
 	github.com/theNewDynamic/hugo-module-tnd-func v0.0.0-20210316194241-a6d99cfae5a6 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-headers v0.1.4 // indirect

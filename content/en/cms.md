@@ -1,6 +1,7 @@
 ---
 Title: Your CMS
 type: netlifycms
+exclude_collection: true
 outputs:
   - HTML
   - netlifycms_config

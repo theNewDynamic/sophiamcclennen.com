@@ -1,16 +1,25 @@
 name: "posts"
-label: "Posts"
-label_singular: "Post"
-description: This is what we do best. Writing blog posts.
+label: "News"
+label_singular: "News"
 folder: "content/en/post"
 filter: { field: "exclude_collection" }
 create: true
 sortableFields: ['title']
-preview_path: blog/{{slug}}
+preview_path: news/{{slug}}
 fields:
   - import field title
   - import field date
   - import field description
+  - name: categories
+    widget: list
+    required: false
+  - name: attribution
+    widget: string
+    required: false
+  - name: links_to_original
+    widget: string
+    required: false
   - import field body
   - import field seo
+
 

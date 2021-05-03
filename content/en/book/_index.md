@@ -4,5 +4,5 @@ url: books
 exclude_collection: true
 menu:
   main:
-    weight: 50
+    weight: 40
 ---

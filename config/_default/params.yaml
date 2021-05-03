@@ -36,26 +36,12 @@ tnd_styles:
     weight: 700
     display: swap
     style: italic
-  - family: Lora
-    file: fonts/Lora-Italic-VariableFont_wght
-    weight: 400
-    display: swap
-    font-style: italic
-  - family: Lora
-    file: fonts/Lora-Italic-VariableFont_wght
-    weight: 600
-    display: swap
-    font-style: italic
-  - family: Lora
-    file: fonts/Lora-VariableFont_wght
-    weight: 400
-    display: swap
-    font-style: normal   
-  - family: Lora
-    file: fonts/Lora-VariableFont_wght
+  - family: "Work Sans"
+    file: fonts/WorkSans-VariableFont_wght
     weight: 600
     display: swap
     font-style: normal
+  
 # ###############
 # TND FORMS
 # ###############

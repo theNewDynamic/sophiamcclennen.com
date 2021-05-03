@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="container max-w-6xl">
     {{ with site.GetPage "categories/what-im-watching" }}
-      <h2 class="text-4xl font-bold text-black my-14">What I'm Watching...</h2>
+      <h2 class="text-4xl text-black font-boldd font-test my-14">What I'm Watching...</h2>
       <div class="mb-24"> 
         {{ range first 1 .Pages }}        
             {{ .Render "li-home"}}        

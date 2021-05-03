@@ -2,7 +2,7 @@
 title: Academic Writing
 menu:
   main:
-    weight: 40
+    weight: 70
 ---
 
 Here is a sampling of my academic writings including articles, book chapters, and book excerpts grouped by research area (Film and media studies, neoliberalism, human rights, Latin American and inter-american studies, comparative literature and comparative cultural studies, and higher education).
@@ -14,7 +14,7 @@ For my full CV click [here][1]. To see short pieces and blogs click [here](/what
 ##### Contents
 
 - [FILM AND MEDIA STUDIES](#film-and-media-studies)
-- [NEOLIBERALISM](#neoliberism)  
+- [NEOLIBERALISM](#neoliberalism)
 - [HUMAN RIGHTS](#human-rights)
 - [LATIN AMERICAN AND INTERAMERICAN STUDIES](#latin-american-and-interamerican-studies)
 - [COMPARATIVE LITERATURE AND COMPARATIVE CULTURAL STUDIES](#comparative-literature-and-comparative-cultural-studies)

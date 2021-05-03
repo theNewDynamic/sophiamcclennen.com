@@ -1,6 +1,6 @@
 description: |-
-  Sophia A. McClennen works on the intersections between culture, politics, and society. Her books focus on cultural responses to complex social change, such as the connections between the satire of Stephen Colbert and post 9/11 politics or the exile writing of Ariel Dorfman and dictatorship in 1970s Latin America. Her work often analyzes the links between political events and their media representations, which has led her to critique the relationship between mainstream culture, political praxis, stereotypes, and social injustice.
-
+  Sophia A. McClennen works on the intersections between culture, politics and society. Her books focus on cultural responses to complex social change, such as satire and contemporary politics or the power of storytelling in advancing human rights. She is professor of international affairs and comparative literature at Penn State University and founding director of the Center for Global Studies and has a regular column with Salon.com.
+default_image: /uploads/sophiamclennen.jpeg
 # ###############
 # TND SEO
 # https://github.com/theNewDynamic/hugo-module-tnd-seo#settings
@@ -16,40 +16,40 @@ tnd_seo:
 # ###############
 tnd_styles:
   fonts:
-  - family: "Work Sans"
-    file: fonts/WorkSans-VariableFont_wght
-    style: normal
-    weight: 400
-    display: swap
-  - family: "Work Sans"
-    file: fonts/WorkSans-Italic-VariableFont_wght
-    weight: 400
-    display: swap
-    style: italic
-  - family: "Work Sans"
-    file: fonts/WorkSans-VariableFont_wght
-    weight: 700
-    display: swap
-    style: normal
-  - family: "Work Sans"
-    file: fonts/WorkSans-Italic-VariableFont_wght
-    weight: 700
-    display: swap
-    style: italic
-  - family: "Work Sans"
-    file: fonts/WorkSans-VariableFont_wght
-    weight: 600
-    display: swap
-    font-style: normal
-  
+    - family: "Work Sans"
+      file: fonts/WorkSans-VariableFont_wght
+      style: normal
+      weight: 400
+      display: swap
+    - family: "Work Sans"
+      file: fonts/WorkSans-Italic-VariableFont_wght
+      weight: 400
+      display: swap
+      style: italic
+    - family: "Work Sans"
+      file: fonts/WorkSans-VariableFont_wght
+      weight: 700
+      display: swap
+      style: normal
+    - family: "Work Sans"
+      file: fonts/WorkSans-Italic-VariableFont_wght
+      weight: 700
+      display: swap
+      style: italic
+    - family: "Work Sans"
+      file: fonts/WorkSans-VariableFont_wght
+      weight: 600
+      display: swap
+      font-style: normal
+
 # ###############
 # TND FORMS
 # ###############
 tnd_forms:
   css:
-    form: 'my-10 mx-auto'
+    form: "my-10 mx-auto"
     control: mb-3
-    hidden: 'hidden'
+    hidden: "hidden"
     submit: block w-full mt-6 border border-green-500 bg-green-200
     input: border
     textarea: border
@@ -78,20 +78,20 @@ tnd_redirects:
 tnd_headers:
   groups:
     - headers:
-      - field: Content-Security-Policy
-        value: upgrade-insecure-requests
-      - field: Strict-Transport-Security
-        value: max-age=15768000
-      - field: X-Xss-Protection
-        value: 1; mode=block
-      - field: X-Frame-Options
-        value: DENY
-      - field: X-Content-Type-Options
-        value: nosniff
-      - field: Referrer-Policy
-        value: strict-origin-when-cross-origin
-      - field: Feature-Policy
-        value: camera 'none'; geolocation 'none'; microphone 'none';
+        - field: Content-Security-Policy
+          value: upgrade-insecure-requests
+        - field: Strict-Transport-Security
+          value: max-age=15768000
+        - field: X-Xss-Protection
+          value: 1; mode=block
+        - field: X-Frame-Options
+          value: DENY
+        - field: X-Content-Type-Options
+          value: nosniff
+        - field: Referrer-Policy
+          value: strict-origin-when-cross-origin
+        - field: Feature-Policy
+          value: camera 'none'; geolocation 'none'; microphone 'none';
 
 # ###############
 # TND Search
@@ -102,8 +102,7 @@ tnd_search:
 
 tnd_books:
   retailers:
-  - id: barnesandnoble
-    label: Barnes & Noble
-  - id: amazon
-    label: Amazon
-
+    - id: barnesandnoble
+      label: Barnes & Noble
+    - id: amazon
+      label: Amazon

@@ -1,4 +1,4 @@
-<div class="mb-8 bg-gray-100 shadow">
+<div class="mb-8 shadow bg-gray-50">
   {{ with .Params.image }}
     <img data-src="{{.}}" alt="" class="w-full mb-2 lazyload">
   {{ end }}
@@ -7,9 +7,11 @@
       <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
   </h2>
   {{/*  <time datetime="{{ .Date }}" class="block my-4 font-sans text-xs">{{ .Date.Format "Monday January 2, 2006" }}</time>  */}}
-  <div class="font-sans text-sm prose">
-      {{ .Content }}
-      <div class="text-xs">
+  <div class="flex-col justify-between h-full font-sans text-sm prose flexd">
+      <div>
+        {{ .Content }}
+      </div>
+      <div class="mt-auto mb-8 text-xs">
         {{ partial "link-to-original" . }}
       </div>
   </div>

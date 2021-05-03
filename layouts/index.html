@@ -1,4 +1,17 @@
 {{ define "main" }}
+  {{ with site.GetPage "categories/news" }}
+    <div class="bg-gray-700 ">
+      <div class="container max-w-6xl grid-cols-2 gap-4 text-xs text-white md:grid lg:grid-cols-3 lg:gap-14">
+        {{ range first 3 .Pages }}
+          <div class="px-2 py-3 hover:bg-gray-600">
+            <a href="{{ .RelPermalink }}">
+              {{ .Title | safeHTML }} &RightArrow;
+            </a>
+          </div>
+        {{ end }}  
+        </div>
+      </div>    
+    {{ end }}
   <div class="container max-w-6xl">
     {{ with site.GetPage "categories/what-im-watching" }}
       <h2 class="text-4xl text-black font-boldd font-test my-14">What I'm Watching...</h2>
@@ -13,6 +26,6 @@
           {{ end }}  
         </div>
         <a href="/what-im-watching/" class="inline-block px-2 py-1 my-8 text-white bg-indigo-700 rounded hover:bg-indigo-600">More "What I'm Watching</a>
-      {{ end }}
+    {{ end }}      
   </div>  
 {{ end }}

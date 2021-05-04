@@ -1,11 +1,11 @@
-name: "posts"
-label: "Articles"
-label_singular: "Article"
-folder: "content/en/post"
+name: "news"
+label: "News"
+label_singular: "News"
+folder: "content/en/news"
 filter: { field: "exclude_collection" }
 create: true
 sortableFields: ['title']
-preview_path: what-im-watching/{{slug}}
+preview_path: news/{{slug}}
 fields:
   - import field title
   - import field date

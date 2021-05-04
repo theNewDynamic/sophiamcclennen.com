@@ -1,1 +1,2 @@
-post: /news/:slug/
+news: /news/:slug/
+post: /what-im-watching/:slug

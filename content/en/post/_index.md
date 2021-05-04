@@ -1,9 +1,5 @@
 ---
-title: News
-url: /news
+title: What I'm Watching
 exclude_collection: true
-categories:
-cascade:
-  categories: 
-  - what-im-watching
+url: /what-im-watching
 ---

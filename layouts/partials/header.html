@@ -1,13 +1,9 @@
 {{ $header_image := $.Param "image" }} 
-{{ $title := .Title }} 
-
-{{ with (.GetTerms "categories") }}
-  {{ range first 1 .}}
-{{ $title = .LinkTitle }}
-  {{ end }}
+{{ $title := .Title }}
+{{ with index (dict "post" "What I'm watching" "news" "News") $.Type }}
+  {{ $title = . }}
 {{ end }}
-
-<header class="relative bg-white">      
+<header class="relative bg-white">
   {{ partial "nav" . }}
   {{ if .IsHome }}
       {{ partial "header-home" . }}
@@ -16,16 +12,14 @@
       <div class="bg-top bg-no-repeat bg-cover" style="height:30rem;background-image:url({{ $header_image }})">    
       </div>
       <div class="w-2/3 px-4 py-4 mx-auto mb-8 -mt-10 font-sans text-5xl font-bold text-center text-red-600 bg-white rounded-t shadow-md xl:text-6xl">      
-        {{ $title }}      
+        {{ $title }}
       </div>
     {{ else }}
       <div class="flex-col items-center px-8 py-12 mb-16 text-center bg-gray-500 rounded md:flex">
         <a href="/" class="block font-sans text-4xl font-bold text-center text-white xl:text-5xl">
           {{ site.Title }}
-        </a>          
-        {{ if ne .Type "post" }}
-          <h1 class="text-2xl text-gray-300">{{ .Title}}</h1>    
-        {{ end }}
+        </a>
+        <h1 class="text-2xl text-gray-300">{{ $title }}</h1>
       </div>
     {{ end }}
   {{ end }}

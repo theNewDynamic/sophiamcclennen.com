@@ -1,7 +1,9 @@
 main:
   - name: News
-    url: /categories/news/
+    params:
+      page: /news
     weight: 30
   - name: Articles
-    url: /what-im-watching/
-    weight: 20  
+    params:
+      page: /post
+    weight: 20

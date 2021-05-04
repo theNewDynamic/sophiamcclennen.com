@@ -1,4 +1,4 @@
-{{ with index site.Taxonomies.categories "what-im-watching"}}
+{{ with where site.RegularPages "Type" "post" }}
   <h3 class="font-bold">What I'm Watching</h3>
   {{range first 3 . }}
     <a class="block my-4 text-blue-500" href="{{ .RelPermalink }}">{{ .Title }}</a>

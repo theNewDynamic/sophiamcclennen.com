@@ -1,10 +1,10 @@
 {{ define "main" }}
 <div class="container max-w-5xl">
   <div class="grid-cols-8 md:grid">
-    <div class="col-span-6">      
+    <div class="col-span-6">
       {{ $paginator := .Paginate .Pages }}
       {{ range $paginator.Pages }}
-        <div class="md:py-8">          
+        <div class="md:py-8">
           {{ .Render "li" }}
         </div>
       {{ end }}

@@ -1,15 +1,16 @@
-name: "news"
-label: "News"
-label_singular: "News"
-folder: "content/en/news"
+name: "article_base"
+label: "article"
+label_singular: "article"
+folder: "content/en/article"
 filter: { field: "exclude_collection" }
 create: true
-sortableFields: ['title']
-preview_path: news/{{slug}}
+sortable_fields: ['title', 'date']
+preview_path: article/{{slug}}
 fields:
   - import field title
   - import field date
   - import field description
+  - import field image
   - name: attribution
     widget: string
     required: false

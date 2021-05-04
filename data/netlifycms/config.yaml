@@ -13,6 +13,18 @@ slug:
 collections:
 - import collection books
 - import collection pages
-- import collection posts
-- import collection news
+- import: collection article_base
+  extend:
+    name: "posts"
+    label: "Articles"
+    label_singular: "Article"
+    folder: "content/en/post"
+    preview_path: what-im-watching/{{slug}}
+- import: collection article_base
+  extend:
+    name: "news"
+    label: "News"
+    label_singular: "News"
+    folder: "content/en/news"
+    preview_path: news/{{slug}}
 - import collection reviews

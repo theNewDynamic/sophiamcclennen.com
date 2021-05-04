@@ -1,13 +1,16 @@
 <div class="mb-8 shadow bg-gray-50">
+
   {{ with .Params.image }}
     <img data-src="{{.}}" alt="" class="w-full mb-2 lazyload">
   {{ end }}
-  <div class="px-4 py-4 pb-2">
+
+
+  <div class="">
     <h2 class="max-w-4xl font-sans font-bold leading-tight">
       <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
-  </h2>
-  {{/*  <time datetime="{{ .Date }}" class="block my-4 font-sans text-xs">{{ .Date.Format "Monday January 2, 2006" }}</time>  */}}
-  <div class="flex-col justify-between h-full font-sans text-sm prose flexd">
+    </h2>
+
+    <div class="flex-col justify-between h-full font-sans text-sm prose bg-red-200 flexd">
       <div>
         {{ .Content }}
       </div>
@@ -16,4 +19,7 @@
       </div>
   </div>
   </div>
+
+
+
 </div>

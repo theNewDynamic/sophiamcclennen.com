@@ -15,12 +15,12 @@
     {{with $header_image }}
       <div class="bg-top bg-no-repeat bg-cover" style="height:30rem;background-image:url({{ $header_image }})">    
       </div>
-      <div class="w-2/3 px-4 py-4 mx-auto mb-8 -mt-10 font-serif text-5xl font-bold text-center text-red-600 bg-white rounded-t shadow-md xl:text-6xl">      
+      <div class="w-2/3 px-4 py-4 mx-auto mb-8 -mt-10 font-sans text-5xl font-bold text-center text-red-600 bg-white rounded-t shadow-md xl:text-6xl">      
         {{ $title }}      
       </div>
     {{ else }}
       <div class="flex-col items-center px-8 py-12 mb-16 text-center bg-gray-500 rounded md:flex">
-        <a href="/" class="block font-serif text-4xl text-center text-white xl:text-5xl">
+        <a href="/" class="block font-sans text-4xl font-bold text-center text-white xl:text-5xl">
           {{ site.Title }}
         </a>          
         {{ if ne .Type "post" }}

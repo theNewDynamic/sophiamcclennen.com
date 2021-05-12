@@ -19,13 +19,9 @@ Email: [sophia.mcclennen@gmail.com](mailto:sophia.mcclennen@gmail.com)
 
 &nbsp;
 
-**Current Courses:**
+**Courses:**
 
 * [INTAF 804: Global Cultures and Leadership](/uploads/2012/07/INTAF-804-syllabus-2012.pdf)
-
-&nbsp;
-
-**Previously Taught Courses:**
 
 * [CMLIT 143: Human Rights and World Literature](https://www.personal.psu.edu/users/s/a/sam50/CMLIT101home.htm)
 * [INTAF597: Cross-cultural conflict resolution](/academics/attachment/conflict-res/)

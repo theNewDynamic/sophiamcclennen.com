@@ -1,15 +1,13 @@
 ---
 title: Praise from Ariel Dorfman
 author: Sophia McClennen
-categories: 
+categories:
   - news
-# url: /news/praise-from-ariel-dorfman/
 dsq_thread_id:
   - 785774068
-
-categories: 
-  - news
 tags:
   - Ariel Dorfman
+date: 2011-06-13T18:13:27.262Z
 ---
-Quote from Dorfman himself: “I purloin the phrase from Sophia McClennen, my most astute critic, thus far, who has written extensively about my work, most notably in a new book, *Ariel Dorfman: An Aesthetics of Hope*.” *Art Bulletin*, march 2009. Volume XCI, no. 1, p 58.
+
+Quote from Dorfman himself: “I purloin the phrase from Sophia McClennen, my most astute critic, thus far, who has written extensively about my work, most notably in a new book, _Ariel Dorfman: An Aesthetics of Hope_.” _Art Bulletin_, march 2009. Volume XCI, no. 1, p 58.

@@ -6,7 +6,7 @@ dsq_thread_id:
   - 780904942
 categories:
   - what-im-watching
-date: 2012-06-29T18:17:21.864Z
+date: 2012-06-29T12:00:00.864Z
 ---
 Colbert News Hub interviewed me on my latest book, *Colbert’s America*. Read the full interview [here][1].
 

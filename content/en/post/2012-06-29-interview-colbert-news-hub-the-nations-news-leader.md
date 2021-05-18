@@ -1,13 +1,12 @@
 ---
-title: 'Interview: Colbert News Hub “The Nation’s News Leader”'
+title: "Interview: Colbert News Hub “The Nation’s News Leader”"
 author: Sophia McClennen
 layout: post
-# url: /what-im-watching/interview-colbert-news-hub-the-nations-news-leader/
 dsq_thread_id:
   - 780904942
-# category: "What I'm Watching"
-categories: 
-- what-im-watching 
+categories:
+  - what-im-watching
+date: 2012-06-29T18:17:21.864Z
 ---
 Colbert News Hub interviewed me on my latest book, *Colbert’s America*. Read the full interview [here][1].
 

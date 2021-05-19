@@ -1,5 +1,6 @@
 ---
 title: "Trevor Noah gives Fox News a free pass: The new “Daily Show” could be great for Ailes and Hannity, bad for America"
+date: 2015-09-28T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

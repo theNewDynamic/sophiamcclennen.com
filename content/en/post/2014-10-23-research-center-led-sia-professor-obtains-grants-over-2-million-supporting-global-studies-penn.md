@@ -1,5 +1,6 @@
 ---
 title: "Research center led by SIA professor obtains grants of over $2 million supporting global studies at Penn State, K-12, and in the community"
+date: 2014-10-23T12:00:00.864Z
 layout: post
 category:
 ---

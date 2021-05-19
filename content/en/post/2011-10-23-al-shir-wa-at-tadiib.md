@@ -1,6 +1,6 @@
 ---
 title: Al-Shi’r wa At-Ta’diib
-date: 2011-10-23 12:00:00
+date: 2011-10-23T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/al-shir-wa-at-tadiib/

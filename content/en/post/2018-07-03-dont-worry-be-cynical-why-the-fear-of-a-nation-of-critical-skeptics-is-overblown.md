@@ -1,7 +1,7 @@
 ---
-title: >-
-  Don’t worry, be cynical: Why the fear of a nation of critical skeptics is
-  overblown
+title: "Don’t worry, be cynical: Why the fear of a nation of critical skeptics is overblown"
+date: 2018-07-03T12:00:00.864Z
+  
 categories: 
 - what-im-watching
 publication: Salon.com

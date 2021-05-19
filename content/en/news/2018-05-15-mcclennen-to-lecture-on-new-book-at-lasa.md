@@ -1,5 +1,6 @@
 ---
 title: McClennen to lecture on new book at LASA
+date: 2018-05-15T12:00:00.864Z
 categories: 
   - news
 publication:

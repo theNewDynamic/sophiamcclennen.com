@@ -1,5 +1,6 @@
 ---
 title: "It's Arithmetic: The Romney Campaign Adds Up to Lies and Insults"
+date: 2012-09-26T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/its-arithmetic-the-romney-campaign-adds-up-to-lies-and-insults/
@@ -11,9 +12,9 @@ dsq_thread_id:
 categories: 
 - what-im-watching 
 format: aside
+image: /uploads/Screen-Shot-2012-09-26-at-6.31.46-PM3.png
 ---
 
-![](/uploads/Screen-Shot-2012-09-26-at-6.31.46-PM3.png)
 
 We need to continue to thank Jon Stewart and Stephen Colbert for using their powerful political comedy to shed some light on these recent developments. The segments they have run show us that Romney’s comments are not gaffes. They are not bloopers. In fact, they are glimpses into the character behind the candidates.
 

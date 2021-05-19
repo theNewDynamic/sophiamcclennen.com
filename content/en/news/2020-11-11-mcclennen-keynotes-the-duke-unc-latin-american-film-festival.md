@@ -1,5 +1,6 @@
 ---
 title: McClennen keynotes the Duke-UNC Latin American Film festival
+date: 2020-11-11T12:00:00.864Z
 categories: 
   - news
 publication:

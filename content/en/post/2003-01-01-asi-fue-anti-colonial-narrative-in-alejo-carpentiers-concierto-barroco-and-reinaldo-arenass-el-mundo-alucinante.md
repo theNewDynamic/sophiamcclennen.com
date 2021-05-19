@@ -1,6 +1,6 @@
 ---
 title: 'Así fue: Anti-colonial Narrative in Alejo Carpentier’s Concierto barroco and Reinaldo Arenas’s El mundo alucinante'
-date: 2003-01-01 12:00:00
+date: 2003-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/asi-fue-anti-colonial-narrative-in-alejo-carpentiers-concierto-barroco-and-reinaldo-arenass-el-mundo-alucinante/

@@ -1,6 +1,6 @@
 ---
 title: 'After Civilization: The Theory and Practice of Introducing Latin American Culture'
-date: 2003-12-01 12:00:00
+date: 2003-12-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/after-civilization-the-theory-and-practice-of-introducing-latin-american-culture/

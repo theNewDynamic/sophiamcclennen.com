@@ -1,7 +1,6 @@
 ---
-title: >-
-  Why we need serious Trump jokes: From "SNL" to Colbert, comedians make sense
-  out of impeachment
+title: "Why we need serious Trump jokes: From SNL to Colbert, comedians make sense out of impeachment"
+date: 2019-10-09T12:00:00.864Z  
 categories: 
 - what-im-watching
 publication: Salon.com

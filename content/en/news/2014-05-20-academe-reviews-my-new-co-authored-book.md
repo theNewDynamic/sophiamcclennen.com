@@ -1,5 +1,6 @@
 ---
 title: Academe Reviews My New Co-Authored Book
+date: 2014-05-20T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/academe-reviews-my-new-co-authored-book/

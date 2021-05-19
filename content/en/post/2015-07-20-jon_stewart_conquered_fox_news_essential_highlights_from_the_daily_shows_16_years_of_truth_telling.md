@@ -1,5 +1,6 @@
 ---
 title: "Jon Stewart conquered Fox News: Essential highlights from “The Daily Show’s” 16-years of truth-telling"
+date: 2015-07-20T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

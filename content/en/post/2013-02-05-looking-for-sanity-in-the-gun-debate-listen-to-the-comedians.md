@@ -1,5 +1,6 @@
 ---
 title: Looking for Sanity in the Gun Debate? Listen to the Comedians
+date: 2013-02-05T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/looking-for-sanity-in-the-gun-debate-listen-to-the-comedians/
@@ -10,9 +11,9 @@ dsq_thread_id:
 # category: "What I'm Watching"
 categories: 
 - what-im-watching
+image: /uploads/Screen-Shot-2013-02-05-at-6.36.28-PM.png
 ---
 
-![](/uploads/Screen-Shot-2013-02-05-at-6.36.28-PM.png)
 
 It is extremely hard to watch the nation convulse over gun control. Those of us concerned with the state of our democracy and with the increasing acceptance of violence as an everyday part of life cringe as we hear the pro-gun rhetoric. We hear that any effort to control guns is tantamount to waging war, to tyranny, and to destroying all of our national values.
 

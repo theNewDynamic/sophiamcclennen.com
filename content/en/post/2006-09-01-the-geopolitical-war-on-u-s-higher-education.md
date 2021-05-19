@@ -1,6 +1,6 @@
 ---
 title: The Geopolitical War on U.S. Higher Education
-date: 2006-09-01 12:00:00
+date: 2006-09-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/the-geopolitical-war-on-u-s-higher-education/

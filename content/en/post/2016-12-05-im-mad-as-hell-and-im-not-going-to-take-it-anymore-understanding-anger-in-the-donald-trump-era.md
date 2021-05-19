@@ -1,5 +1,6 @@
 ---
 title: '“I’m mad as hell and I’m not going to take it anymore!”: Understanding anger in the Donald Trump era'
+date: 2016-12-05T12:00:00.864Z
 category:
   - what-im-watching
 publication: salon.com

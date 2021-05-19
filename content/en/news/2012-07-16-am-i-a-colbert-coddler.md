@@ -1,5 +1,6 @@
 ---
 title: Am I a Colbert Coddler?
+date: 2012-07-16T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/am-i-a-colbert-coddler/

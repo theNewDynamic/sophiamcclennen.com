@@ -1,5 +1,6 @@
 ---
 title: 'Interview: Viewpoints on Media Tracks'
+date: 2012-04-08T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/interview-viewpoints-media-traicks/

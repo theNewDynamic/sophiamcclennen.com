@@ -1,5 +1,6 @@
 ---
 title: Is dead Donald Trump funny? Understanding gallows humor in the Trump era
+date: 2017-08-08T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon

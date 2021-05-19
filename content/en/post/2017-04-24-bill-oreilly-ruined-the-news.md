@@ -1,5 +1,6 @@
 ---
 title: Bill O’Reilly ruined the news
+date: 2017-04-24T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon

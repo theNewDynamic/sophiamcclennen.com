@@ -1,5 +1,6 @@
 ---
 title: '“;Democracy, Satire And Stephen Colbert”'
+date: 2012-08-28T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/democracy-satire-and-stephen-colbert/

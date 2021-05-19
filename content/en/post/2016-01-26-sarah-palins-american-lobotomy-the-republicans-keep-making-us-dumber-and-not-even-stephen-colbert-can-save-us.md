@@ -1,5 +1,6 @@
 ---
 title: 'Sarah Palin’s American lobotomy: The Republicans keep making us dumber, and not even Stephen Colbert can save us'
+date: 2016-01-26T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

@@ -1,5 +1,6 @@
 ---
 title: "Pamela Geller’s “South Park” idiocy: Satire, hatred and the right’s faith-based fear-mongering"
+date: 2015-05-06T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

@@ -1,5 +1,6 @@
 ---
 title: 'Like a double dose of Dubya: Donald Trump’s presidency will be like the George W. Bush disaster — only worse'
+date: 2016-12-05T12:00:00.864Z
 category:
   - what-im-watching
 publication: salon.com

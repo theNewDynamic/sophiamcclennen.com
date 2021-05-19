@@ -1,5 +1,6 @@
 ---
 title: McClennen at the McCourtney Institute for Democracy
+date: 2018-02-15T12:00:00.864Z
 categories: 
   - news
 publication:

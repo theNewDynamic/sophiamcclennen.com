@@ -1,5 +1,6 @@
 ---
 title: McClennen interviewed on satire and the 2020 election
+date: 2019-01-16T12:00:00.864Z
 categories: 
   - news
 publication:

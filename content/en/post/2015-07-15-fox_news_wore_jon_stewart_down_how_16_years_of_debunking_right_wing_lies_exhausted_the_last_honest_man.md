@@ -1,5 +1,6 @@
 ---
 title: "Fox News wore Jon Stewart down: How 16 years of debunking right-wing lies exhausted the last honest man"
+date: 2015-07-15T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

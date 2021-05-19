@@ -1,5 +1,6 @@
 ---
 title: New Book! Pranksters vs Autocrats with Srdja Popovic
+date: 2020-09-03T12:00:00.864Z
 categories: 
   - news
 publication:

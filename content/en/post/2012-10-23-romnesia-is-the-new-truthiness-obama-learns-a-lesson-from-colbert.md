@@ -1,5 +1,6 @@
 ---
 title: 'Romnesia Is the New Truthiness: Obama Learns a Lesson From Colbert'
+date: 2012-10-23T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/romnesia-is-the-new-truthiness-obama-learns-a-lesson-from-colbert/
@@ -10,9 +11,9 @@ dsq_thread_id:
 # category: "What I'm Watching"
 categories: 
 - what-im-watching 
+image: /uploads/cn_image.size_.romnesia.jpg
 ---
 
-![](/uploads/cn_image.size_.romnesia.jpg)
 
 By now you have probably seen the video where President Obama refers to Romney’s complete forgetting of his previous political stances as “;Romnesia.” Obama supporters are finding this wordplay a breath of fresh air in an election that has seemed to stumble, most notoriously with the first round of Presidential debates. After a relatively dull campaign Obama is getting new energy and new life. And he is doing it by following the example of master wordplay satirist, Stephen Colbert.
 

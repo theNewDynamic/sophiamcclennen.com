@@ -1,6 +1,6 @@
 ---
 title: "Teaching 'The Kite Runner' at Penn State"
-date: 2011-11-27 12:00:00
+date: 2011-11-27T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/teaching-the-kite-runner-at-penn-state/

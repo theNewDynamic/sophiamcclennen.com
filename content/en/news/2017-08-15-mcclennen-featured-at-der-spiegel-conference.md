@@ -1,5 +1,6 @@
 ---
 title: McClennen featured at Der Spiegel conference
+date: 2017-08-15T12:00:00.864Z
 categories: 
   - news
 publication:

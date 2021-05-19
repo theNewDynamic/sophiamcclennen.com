@@ -1,5 +1,6 @@
 ---
 title: "Jon Stewart, come back, we need you: GOP debate bulls**t really does need eviscerating"
+date: 2015-09-18T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

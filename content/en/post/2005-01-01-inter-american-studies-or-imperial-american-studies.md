@@ -1,6 +1,6 @@
 ---
 title: Inter-American Studies or Imperial American Studies?
-date: 2005-01-01 12:00:00
+date: 2005-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/inter-american-studies-or-imperial-american-studies/

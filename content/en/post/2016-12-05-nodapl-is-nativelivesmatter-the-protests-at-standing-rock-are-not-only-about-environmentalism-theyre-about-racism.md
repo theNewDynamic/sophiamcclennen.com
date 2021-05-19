@@ -1,5 +1,7 @@
 ---
-title: '#NoDAPL is #NativeLivesMatter: The protests at Standing Rock are not only about environmentalism, they’re about racism'
+title: "#NoDAPL' is #NativeLivesMatter: The protests at Standing Rock are not only about environmentalism, they’re about racism"
+slug: "NoDAPL is NativeLivesMatter: The protests at Standing Rock are not only about environmentalism, they’re about racism"
+date: 2016-12-05T12:00:00.864Z
 category:
   - what-im-watching
 publication: salon.com

@@ -1,7 +1,6 @@
 ---
-title: >-
-  “This is what democracy looks like”: Why Black Lives Matter is a struggle to
-  save our democracy
+title: "This is what democracy looks like: Why Black Lives Matter is a struggle to save our democracy"
+date: 2017-08-08T12:00:00.864Z  
 categories: 
 - what-im-watching
 publication: Salon

@@ -1,5 +1,6 @@
 ---
 title: The Bitter Irony of Donald Trump
+date: 2018-01-14T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.

@@ -1,6 +1,6 @@
 ---
 title: 'Forum: Poetry and Torture'
-date: 2005-05-01 12:00:00
+date: 2005-05-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/forum-poetry-and-torture/

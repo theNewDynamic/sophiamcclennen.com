@@ -1,5 +1,6 @@
 ---
 title: "McClennen speaks on a panel on “Debt Deliberations: Structural, institutional, Financial” at the Center for Place, Culture, and Politics at CUNY's Graduate Center May 11."
+date: 2015-05-11T12:00:00.864Z
 layout: post
 ---
 **Panel: Debt Deliberations: Structural, Institutional, Financial, May 11th, 2015**  

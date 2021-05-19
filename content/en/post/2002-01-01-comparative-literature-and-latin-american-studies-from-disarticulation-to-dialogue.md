@@ -1,6 +1,6 @@
 ---
 title: 'Comparative Literature and Latin American Studies: From Disarticulation to Dialogue'
-date: 2002-01-01 12:00:00
+date: 2002-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/comparative-literature-and-latin-american-studies-from-disarticulation-to-dialogue/

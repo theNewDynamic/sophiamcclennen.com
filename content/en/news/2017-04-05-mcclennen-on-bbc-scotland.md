@@ -1,5 +1,6 @@
 ---
 title: McClennen on BBC Scotland
+date: 2017-04-05T12:00:00.864Z
 categories: 
   - news
 publication:

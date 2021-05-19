@@ -1,5 +1,6 @@
 ---
 title: McClennen Interviewed by Mark Susnow
+date: 2018-07-03T12:00:00.864Z
 categories: 
   - news
 publication:

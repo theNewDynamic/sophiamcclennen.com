@@ -8,12 +8,8 @@ sortable_fields: ['title', 'date']
 preview_path: article/{{slug}}
 fields:
   - import field title
-  - import field date
-  - import field description
-  - import field image
-  - name: attribution
-    widget: string
-    required: false
+  - import field date  
+  - import field image  
   - name: links_to_original
     widget: string
     required: false

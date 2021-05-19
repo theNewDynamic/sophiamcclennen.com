@@ -1,5 +1,6 @@
 ---
 title: Enough with the "Colbert Defense"
+date: 2017-08-08T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon

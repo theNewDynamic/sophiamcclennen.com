@@ -1,5 +1,6 @@
 ---
 title: "Jon Stewart’s real threat to Fox News: You don’t get to define patriotism!"
+date: 2015-08-05T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

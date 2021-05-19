@@ -1,5 +1,6 @@
 ---
 title: "Screw U: The GOP’s War on College Students"
+date: 2015-09-11T12:00:00.864Z
 publication: "Alternet"
 categories: 
 - what-im-watching

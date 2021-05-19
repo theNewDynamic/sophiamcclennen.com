@@ -1,6 +1,6 @@
 ---
 title: Repression and Resistance in Higher Education
-date: 2007-01-01 12:00:00
+date: 2007-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/repression-and-resistance-in-higher-education/

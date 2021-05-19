@@ -1,5 +1,6 @@
 ---
 title: "Stephen Colbert roars back: Donald Trump evisceration suggests GOP clown car in for a world of hurt"
+date: 2015-06-19T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

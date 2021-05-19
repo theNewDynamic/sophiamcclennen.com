@@ -1,5 +1,6 @@
 ---
 title: "So much for Stephen Colbert dipping his balls in Donald Trump’s mouth"
+date: 2015-09-24T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

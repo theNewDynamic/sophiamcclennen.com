@@ -1,13 +1,12 @@
 ---
 title: How pervasive anti-millennial sentiment has hurt the cause of student protesters
+date: 2015-12-04T12:00:00.864Z
 publication: The conversation
 categories: 
 - what-im-watching
 image: /uploads/1447983064424.jpg
 featured: true
 link_to_original: 'https://theconversation.com/how-pervasive-anti-millennial-sentiment-has-hurt-the-cause-of-student-protesters-51234'
-categories:
-  - what-im-watching
 ---
 
 Building on anti-millennial rhetoric, student protesters have been described as overreacting, hysterical, entitled and coddled.

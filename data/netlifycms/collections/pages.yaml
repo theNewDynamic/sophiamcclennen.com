@@ -9,7 +9,6 @@ preview_path: /{{slug}}
 fields:
   - import field title
   - import field date
-  - import field description
   - import field body
   - import field seo
 

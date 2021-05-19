@@ -1,5 +1,6 @@
 ---
 title: 'Truthiness Is Not a Joke: Lying and Loving It at the RNC'
+date: 2012-09-03T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/truthiness-is-not-a-joke-lying-and-loving-it-at-the-rnc/
@@ -11,9 +12,9 @@ dsq_thread_id:
 categories: 
 - what-im-watching 
 format: aside
+image: "/uploads/colbert-ryan2.png"
 ---
 
-![](/uploads/colbert-ryan2.png)
 
 When comedian Stephen Colbert launched his show, *The Colbert Report* (2005), he introduced the word “;<a href="https://www.colbertnation.com/the-colbert-report-videos/24039/october-17-2005/the-word---truthiness" target="_hplink">truthiness</a>” to the U.S. public. Speaking in character as a bloviating right-wing pundit, Colbert explained that truthiness was thinking from the gut, ignoring facts, and holding beliefs with no basis in reality.
 

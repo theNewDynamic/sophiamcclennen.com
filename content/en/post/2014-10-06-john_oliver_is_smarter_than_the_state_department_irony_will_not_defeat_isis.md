@@ -1,7 +1,6 @@
 ---
 title: "John Oliver is smarter than the State Department: Irony will not defeat ISIS"
-categories: 
-- what-im-watching
+date: 2014-10-06T12:00:00.864Z
 categories: 
 - what-im-watching
 ---

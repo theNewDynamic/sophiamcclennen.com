@@ -1,5 +1,6 @@
 ---
 title: Backstage with Jordan Klepper
+date: 2018-01-14T12:00:00.864Z
 categories: 
   - news
 publication:

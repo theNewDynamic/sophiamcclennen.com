@@ -1,6 +1,6 @@
 ---
 title: Torture and Truth in Ariel Dorfman’s Death and the Maiden
-date: 2010-01-01 12:00:00
+date: 2010-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/torture-and-truth-in-ariel-dorfmans-death-and-the-maiden/

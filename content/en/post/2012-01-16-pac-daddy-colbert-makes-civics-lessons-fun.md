@@ -1,6 +1,6 @@
 ---
 title: 'PAC Daddy: Colbert Makes Civics Lessons Fun'
-date: 2012-01-16 12:00:00
+date: 2012-01-16T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/pac-daddy-colbert-makes-civics-lessons-fun/

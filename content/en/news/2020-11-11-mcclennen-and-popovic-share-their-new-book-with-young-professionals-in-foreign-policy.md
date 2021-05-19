@@ -1,7 +1,6 @@
 ---
-title: >-
-  McClennen and Popovic share their new book with Young Professionals in Foreign
-  Policy
+title: "McClennen and Popovic share their new book with Young Professionals in Foreign Policy"
+date: 2020-11-11T12:00:00.864Z  
 categories: 
   - news
 publication:

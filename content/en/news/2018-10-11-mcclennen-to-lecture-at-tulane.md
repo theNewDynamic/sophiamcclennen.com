@@ -1,5 +1,6 @@
 ---
 title: McClennen to lecture at Tulane
+date: 2018-10-11T12:00:00.864Z
 categories: 
   - news
 publication:

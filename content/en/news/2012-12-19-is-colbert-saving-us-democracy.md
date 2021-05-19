@@ -1,5 +1,6 @@
 ---
 title: Is Colbert saving US democracy?
+date: 2012-12-19T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/is-colbert-saving-us-democracy/

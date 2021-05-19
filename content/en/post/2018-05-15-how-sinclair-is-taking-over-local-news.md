@@ -1,5 +1,6 @@
 ---
 title: How Sinclair is Taking Over Local News
+date: 2018-05-15T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.com

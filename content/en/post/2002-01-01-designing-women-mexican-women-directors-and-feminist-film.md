@@ -1,6 +1,6 @@
 ---
 title: '(De)Signing Women: Mexican Women Directors and Feminist Film'
-date: 2002-01-01 12:00:00
+date: 2002-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/designing-women-mexican-women-directors-and-feminist-film/

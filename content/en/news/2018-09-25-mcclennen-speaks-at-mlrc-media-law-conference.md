@@ -1,5 +1,6 @@
 ---
 title: McClennen speaks at MLRC Media Law conference
+date: 2018-09-25T12:00:00.864Z
 categories: 
   - news
 publication:

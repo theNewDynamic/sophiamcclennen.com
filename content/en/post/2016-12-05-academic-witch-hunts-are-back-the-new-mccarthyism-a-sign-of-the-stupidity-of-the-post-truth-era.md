@@ -1,5 +1,6 @@
 ---
 title: 'Academic witch hunts are back: The new McCarthyism, a sign of the stupidity of the post-truth era'
+date: 2016-12-05T12:00:00.864Z
 category:
   - what-im-watching
 publication: salon.com

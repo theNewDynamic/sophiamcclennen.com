@@ -1,5 +1,6 @@
 ---
 title: "Colbert's America is a smart book."
+date: 2012-10-10T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/colberts-america-is-a-smart-book/

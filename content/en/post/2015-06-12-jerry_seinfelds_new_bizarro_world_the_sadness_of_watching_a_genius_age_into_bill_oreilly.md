@@ -1,5 +1,6 @@
 ---
 title: "Jerry Seinfeld’s new bizarro world: The sadness of watching a genius age into Bill O’Reilly"
+date: 2015-06-12T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

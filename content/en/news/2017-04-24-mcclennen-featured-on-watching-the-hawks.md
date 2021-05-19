@@ -1,5 +1,6 @@
 ---
 title: McClennen featured on Watching the Hawks
+date: 2017-04-24T12:00:00.864Z
 categories: 
   - news
 publication:

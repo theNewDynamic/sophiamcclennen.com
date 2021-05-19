@@ -1,5 +1,6 @@
 ---
 title: New Book Contract!
+date: 2013-10-09T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/new-book-contract/

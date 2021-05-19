@@ -1,9 +1,10 @@
 ---
 title: McClennen at the Kennedy Center
+date: 2016-06-14T12:00:00.864Z
 categories: 
   - news
 publication:
-image: /xqccz_480.jpg
+image: /uploads/xqccz_480.jpg
 link_to_original: 'https://www.kennedy-center.org/calendar/event/XQCCZ'
 ---
 

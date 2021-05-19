@@ -1,5 +1,6 @@
 ---
 title: 'Canada Covers Colbert’s America'
+date: 2012-10-23T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/canada-covers-colberts-america/

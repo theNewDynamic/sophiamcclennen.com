@@ -1,5 +1,6 @@
 ---
 title: McClennen to lecture at Stanford
+date: 2019-11-18T12:00:00.864Z
 categories: 
   - news
 publication:

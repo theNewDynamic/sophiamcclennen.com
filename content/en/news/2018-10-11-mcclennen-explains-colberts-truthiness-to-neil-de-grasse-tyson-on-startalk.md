@@ -1,5 +1,6 @@
 ---
 title: McClennen explains Colbert's Truthiness to Neil de Grasse Tyson on StarTalk
+date: 2018-10-11T12:00:00.864Z
 categories: 
   - news
 publication:

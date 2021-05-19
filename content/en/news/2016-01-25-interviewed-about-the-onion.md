@@ -1,5 +1,6 @@
 ---
 title: McClennen interviewed in Check Please
+date: 2016-01-25T12:00:00.864Z
 categories: 
   - news
 publication: ''

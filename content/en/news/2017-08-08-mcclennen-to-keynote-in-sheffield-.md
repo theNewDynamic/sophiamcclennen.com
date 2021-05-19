@@ -1,5 +1,6 @@
 ---
 title: McClennen to Keynote in Sheffield.
+date: 2017-08-08T12:00:00.864Z
 categories: 
   - news
 publication:

@@ -1,7 +1,6 @@
 ---
 title: "Book Trailer for *Is Satire Saving our Nation*"
-categories: 
-- what-im-watching
+date: 2014-10-01T12:00:00.864Z
 categories: 
 - what-im-watching
 featured: false

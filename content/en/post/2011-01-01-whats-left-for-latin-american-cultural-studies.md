@@ -1,6 +1,6 @@
 ---
 title: What’s Left for Latin American Cultural Studies?
-date: 2011-01-01 12:00:00
+date: 2011-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/whats-left-for-latin-american-cultural-studies/

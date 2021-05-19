@@ -1,5 +1,6 @@
 ---
 title: McClennen to present at the Johns Hopkins Foreign Affairs Symposium
+date: 2018-02-15T12:00:00.864Z
 categories: 
   - news
 publication:

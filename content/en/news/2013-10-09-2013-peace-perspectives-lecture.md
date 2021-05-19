@@ -1,5 +1,6 @@
 ---
 title: 2013 Peace Perspectives Lecture
+date: 2012-06-29T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/2013-peace-perspectives-lecture/

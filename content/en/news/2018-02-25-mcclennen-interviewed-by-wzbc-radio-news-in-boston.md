@@ -1,5 +1,6 @@
 ---
 title: McClennen interviewed by WZBC Radio News in Boston
+date: 2012-06-29T12:00:00.864Z
 categories: 
   - news
 publication:

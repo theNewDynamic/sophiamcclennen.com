@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2012-06-29T12:00:00.864Z
   McClennen and Popovic share their new book with Young Professionals in Foreign
   Policy
 categories: 

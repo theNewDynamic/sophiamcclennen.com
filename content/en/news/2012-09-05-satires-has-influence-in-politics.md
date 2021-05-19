@@ -1,5 +1,6 @@
 ---
 title: Satire has influence in politics
+date: 2012-06-29T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/satires-has-influence-in-politics/

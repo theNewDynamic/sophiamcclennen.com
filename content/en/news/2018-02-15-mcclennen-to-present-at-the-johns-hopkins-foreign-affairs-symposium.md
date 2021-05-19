@@ -1,5 +1,6 @@
 ---
 title: McClennen to present at the Johns Hopkins Foreign Affairs Symposium
+date: 2012-06-29T12:00:00.864Z
 categories: 
   - news
 publication:

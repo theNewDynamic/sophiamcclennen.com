@@ -1,5 +1,6 @@
 ---
 title: Where to Invade Next
+date: 2012-06-29T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 dsq_thread_id:

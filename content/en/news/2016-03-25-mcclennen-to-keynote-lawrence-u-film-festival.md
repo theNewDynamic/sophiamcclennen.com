@@ -1,5 +1,6 @@
 ---
 title: McClennen to Keynote Lawrence U Film Festival
+date: 2012-06-29T12:00:00.864Z
 categories: 
   - news
 publication:

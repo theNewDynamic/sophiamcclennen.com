@@ -1,5 +1,6 @@
 ---
 title: McClennen to Keynote conference on The Politics of Dissent
+date: 2012-06-29T12:00:00.864Z
 categories: 
   - news
 publication:

@@ -1,5 +1,6 @@
 ---
 title: "McClennen appears on CNN's At This Hour with John Berman and Kate Bolduan to discuss the premiere of The Late Show with Stephen Colbert"
+date: 2012-06-29T12:00:00.864Z
 layout: post
 categories: 
   - news

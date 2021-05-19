@@ -1,5 +1,6 @@
 ---
 title: "McClennen appears on RT's Watching the Hawks"
+date: 2012-06-29T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 dsq_thread_id:

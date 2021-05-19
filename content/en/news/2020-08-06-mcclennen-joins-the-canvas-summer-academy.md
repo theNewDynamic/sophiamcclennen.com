@@ -1,5 +1,6 @@
 ---
 title: McClennen joins the CANVAS Summer Academy
+date: 2012-06-29T12:00:00.864Z
 categories: 
   - news
 publication:

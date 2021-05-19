@@ -1,5 +1,6 @@
 ---
 title: 'Video: McClennen on Colbert’s America'
+date: 2012-06-13T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/video-mcclennen-on-colberts-america/

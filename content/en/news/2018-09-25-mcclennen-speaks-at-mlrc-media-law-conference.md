@@ -1,5 +1,6 @@
 ---
 title: McClennen speaks at MLRC Media Law conference
+date: 2012-06-29T12:00:00.864Z
 categories: 
   - news
 publication:

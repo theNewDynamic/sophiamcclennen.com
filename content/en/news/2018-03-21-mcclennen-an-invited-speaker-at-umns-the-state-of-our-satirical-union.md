@@ -1,5 +1,6 @@
 ---
 title: McClennen an invited speaker at UMN's "The State of Our Satirical Union"
+date: 2012-06-29T12:00:00.864Z
 categories: 
   - news
 publication:

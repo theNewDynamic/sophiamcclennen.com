@@ -1,5 +1,6 @@
 ---
 title: Human Rights and Literature
+date: 2012-06-29T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/human-rights-and-literature/

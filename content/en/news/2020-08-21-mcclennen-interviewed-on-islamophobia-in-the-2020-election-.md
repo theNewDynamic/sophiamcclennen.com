@@ -1,5 +1,6 @@
 ---
 title: McClennen interviewed on Islamophobia in the 2020 Election.
+date: 2012-06-29T12:00:00.864Z
 categories: 
   - news
 publication: Indus News

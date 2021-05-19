@@ -1,5 +1,6 @@
 ---
 title: 'Interview: Goodbooks, KMBH'
+date: 2012-03-14T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/interview-goodbooks-kmbh/

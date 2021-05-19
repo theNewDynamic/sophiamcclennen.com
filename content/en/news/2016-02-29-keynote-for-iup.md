@@ -1,5 +1,6 @@
 ---
 title: Keynote for IUP
+date: 2012-06-29T12:00:00.864Z
 categories: 
   - news
 publication: ''

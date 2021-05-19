@@ -4,11 +4,10 @@ date: 2014-08-27T12:00:00.864Z
 author: Sophia McClennen
 categories: 
 - what-im-watching
-categories: 
 featured: true
+image: /uploads/n-COLLEGE-STUDENTS-large570.jpg
 ---
 
-![](/uploads/n-COLLEGE-STUDENTS-large570.jpg)
 
 As we all head back to school it won’t be long before faculty, students, and parents start to see Facebook posts, media articles, and other memes about how much our students suck. We will hear the typical rants about the student that doesn’t read the syllabus, buy books, or remember to sign up for classes. In fact, some faculty have already bought “;<a href="https://www.insidehighered.com/news/2013/10/18/t-shirt-many-professors-would-enjoy-wearing" target="_hplink">It’s in the Syllabus</a>” T-shirts to proudly wear on their first days.
 

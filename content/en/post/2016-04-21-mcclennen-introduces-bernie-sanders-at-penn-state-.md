@@ -4,7 +4,7 @@ date: 2016-04-21T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Judson Mantz on Facebook
-image: /sophia mcclennen-1.jpg
+image: /uploads/sophia mcclennen-1.jpg
 link_to_original: 'https://www.facebook.com/judson.mantz/posts/1293230787358105'
 ---
 

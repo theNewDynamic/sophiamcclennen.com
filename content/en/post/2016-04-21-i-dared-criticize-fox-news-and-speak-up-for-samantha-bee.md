@@ -4,7 +4,7 @@ date: 2016-04-21T12:00:00.864Z
 categories: 
 - what-im-watching
 publication:
-image: /kelly_bee_oreilly-620x412.jpg
+image: /uploads/kelly_bee_oreilly-620x412.jpg
 link_to_original: 'https://www.salon.com/2016/04/01/i_dared_criticize_fox_news_and_speak_up_for_samantha_bee_this_is_how_the_right_roared_back_at_me/'
 ---
 

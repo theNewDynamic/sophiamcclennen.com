@@ -3,8 +3,6 @@ title: "Stewart, Colbert save the day: Bill O’Reilly and Fox News’ ISIS insa
 date: 2014-10-02T12:00:00.864Z
 categories: 
 - what-im-watching
-categories: 
-- what-im-watching
 ---
 > As the nation continues airstrikes on ISIS in Syria and Iraq, the U.S. public is bracing for yet another military conflict in the Middle East.  And in order to make sense of this new crisis viewers are finding that “fake news” often offers better analysis than the so-called “real news.” While Fox News’s Eric Bolling called the first female UAE pilot that bombed the Islamic State “boobs on the ground” and coverage on all major news channels mistakenly described ISIS as an imminent threat to the United States, fake news offered the U.S. public a refreshing dose of reality.
 

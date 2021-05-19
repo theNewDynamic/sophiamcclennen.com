@@ -3,8 +3,6 @@ title: "John Oliver is smarter than the State Department: Irony will not defeat 
 date: 2014-10-06T12:00:00.864Z
 categories: 
 - what-im-watching
-categories: 
-- what-im-watching
 ---
 > While we fight a war against ISIS with airstrikes on selected targets, the U.S. is also engaging in a war of ideas.  As many who have seen ISIS videos or seen pro-ISIS tweets can attest, the Islamic State group has demonstrated a skill with social media previously unseen in extremist groups.  ISIS has successfully used Internet sites, YouTube, Facebook and Twitter to dangerous effect, often with the explicit goal of recruiting more militants.
 

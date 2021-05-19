@@ -4,7 +4,7 @@ date: 2016-07-07T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon
-image: /hillary_trump_sanders2-620x412.jpg
+image: /uploads/hillary_trump_sanders2-620x412.jpg
 link_to_original: 'https://www.salon.com/2016/06/22/the_press_has_not_done_its_job_three_ways_the_media_has_failed_our_democracy_in_covering_the_election/'
 ---
 

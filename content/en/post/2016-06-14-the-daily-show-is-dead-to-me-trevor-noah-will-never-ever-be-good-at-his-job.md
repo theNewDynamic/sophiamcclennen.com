@@ -4,7 +4,7 @@ date: 2016-06-14T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.com
-image: /trevor_noah11-620x412.jpg
+image: /uploads/trevor_noah11-620x412.jpg
 link_to_original: 'https://www.salon.com/2016/05/16/the_daily_show_is_dead_to_me_trevor_noah_will_never_ever_be_good_at_his_job_also_thanks_a_lot_for_donald_trump/'
 ---
 

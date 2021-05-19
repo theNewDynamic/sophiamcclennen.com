@@ -4,8 +4,9 @@ date: 2015-01-26T12:00:00.864Z
 publication: "Salon"
 featured: true
 link_to_original: "https://www.salon.com/2015/01/26/american_snipers_biggest_lie_clint_eastwood_has_a_delusional_fox_news_problem/"
+image: /uploads/american_sniper_picture_view-800x489-e1422280974963-620x412.jpg
 ---
-![](/uploads/american_sniper_picture_view-800x489-e1422280974963-620x412.jpg)
+
 
 Much has been made recently about the inaccurate representation of Chris Kyle in “American Sniper.” We’ve learned that, despite the fact that the film depicts Kyle as a hero and a martyr, the real American sniper was heartless and cruel. Rather than struggle with moral dilemmas as we see in the film, the actual man had no such hesitation and no such conscience.
 

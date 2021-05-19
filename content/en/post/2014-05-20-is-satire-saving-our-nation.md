@@ -11,8 +11,7 @@ dsq_thread_id:
 # category: "What I'm Watching"
 categories: 
 - what-im-watching
+image: /uploads/Screen-Shot-2013-02-05-at-6.36.28-PM.png
 ---
-
-![](/uploads/Screen-Shot-2013-02-05-at-6.36.28-PM.png)
 
 My co-authored book, *Is Satire Saving Our Nation? Mockery and American Politics *is officially on its way to the Palgrave copy editor.  Expected release date is November 6, 2014. Just in time to influence the elections!

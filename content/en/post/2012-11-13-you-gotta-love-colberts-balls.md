@@ -11,9 +11,9 @@ dsq_thread_id:
 # category: "What I'm Watching"
 categories: 
 - what-im-watching 
+image: /uploads/colbert-trump-592x364.jpg
 ---
 
-![](/uploads/colbert-trump-592x364.jpg)
 
 Last week billionaire and notorious “;birther” Donald Trump claimed that he had a “;bombshell” that would change the election: he announced that if President Obama would provide him with copies of his college and passport records that he would write a check for $5 million to the charity of Obama’s choice.
 

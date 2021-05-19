@@ -3,7 +3,7 @@ title: McClennen at the Kennedy Center
 categories: 
   - news
 publication:
-image: /xqccz_480.jpg
+image: /uploads/xqccz_480.jpg
 link_to_original: 'https://www.kennedy-center.org/calendar/event/XQCCZ'
 ---
 

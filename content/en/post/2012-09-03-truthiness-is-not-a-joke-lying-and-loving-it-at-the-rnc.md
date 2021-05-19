@@ -12,9 +12,9 @@ dsq_thread_id:
 categories: 
 - what-im-watching 
 format: aside
+image: "/uploads/colbert-ryan2.png"
 ---
 
-![](/uploads/colbert-ryan2.png)
 
 When comedian Stephen Colbert launched his show, *The Colbert Report* (2005), he introduced the word “;<a href="https://www.colbertnation.com/the-colbert-report-videos/24039/october-17-2005/the-word---truthiness" target="_hplink">truthiness</a>” to the U.S. public. Speaking in character as a bloviating right-wing pundit, Colbert explained that truthiness was thinking from the gut, ignoring facts, and holding beliefs with no basis in reality.
 

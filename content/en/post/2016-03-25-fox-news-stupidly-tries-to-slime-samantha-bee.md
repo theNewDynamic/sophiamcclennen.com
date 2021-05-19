@@ -4,7 +4,7 @@ date: 2016-03-25T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Alternet
-image: /kelly_bee_oreilly-620x412.jpg
+image: /uploads/kelly_bee_oreilly-620x412.jpg
 link_to_original: 'https://www.alternet.org/media/fox-news-stupidly-tries-slime-samantha-bee'
 ---
 

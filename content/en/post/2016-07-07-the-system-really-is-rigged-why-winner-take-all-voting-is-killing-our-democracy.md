@@ -4,7 +4,7 @@ date: 2016-07-07T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon
-image: /johnson_stein-620x412.jpg
+image: /uploads/johnson_stein-620x412.jpg
 link_to_original: 'https://www.salon.com/2016/07/02/the_system_really_is_rigged_why_winner_take_all_voting_is_killing_our_democracy/'
 ---
 

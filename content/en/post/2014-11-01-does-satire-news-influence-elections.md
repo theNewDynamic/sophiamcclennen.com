@@ -1,5 +1,6 @@
 ---
 title: "Does Satire News Influence Elections?"
+date: 2014-11-01T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: "The Huffington Post"

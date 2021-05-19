@@ -1,5 +1,6 @@
 ---
 title: Trevor Noahs Master Class Its Not Just Fox News  This Is the Topic That Needs Noah Oliver Stewart
+date: 2015-10-15T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

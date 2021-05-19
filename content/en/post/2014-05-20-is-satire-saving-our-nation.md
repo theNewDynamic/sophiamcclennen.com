@@ -1,5 +1,6 @@
 ---
 title: Is Satire Saving Our Nation?
+date: 2014-05-20T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/is-satire-saving-our-nation/

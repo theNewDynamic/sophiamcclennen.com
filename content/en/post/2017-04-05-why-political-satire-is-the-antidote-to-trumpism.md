@@ -1,5 +1,6 @@
 ---
 title: Why political satire is the antidote to Trumpism
+date: 2017-04-05T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Vox

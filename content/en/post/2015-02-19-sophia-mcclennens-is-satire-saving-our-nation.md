@@ -1,5 +1,6 @@
 ---
 title: "Sophia McClennen’s “Is Satire Saving Our Nation?”"
+date: 2015-02-19T12:00:00.864Z
 layout: post
 category:
 ---

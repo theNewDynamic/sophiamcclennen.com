@@ -1,5 +1,6 @@
 ---
 title: I dared criticize Fox News and speak up for Samantha Bee
+date: 2016-04-21T12:00:00.864Z
 categories: 
 - what-im-watching
 publication:

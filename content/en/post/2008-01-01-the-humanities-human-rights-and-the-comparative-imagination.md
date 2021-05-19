@@ -1,6 +1,6 @@
 ---
 title: The Humanities, Human Rights, and the Comparative Imagination
-date: 2008-01-01 12:00:00
+date: 2008-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/the-humanities-human-rights-and-the-comparative-imagination/

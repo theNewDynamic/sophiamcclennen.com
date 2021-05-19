@@ -1,5 +1,6 @@
 ---
 title: "Jon Stewart: Fake news can’t save us"
+date: 2014-11-04T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: "Salon"

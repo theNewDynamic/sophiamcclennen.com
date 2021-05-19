@@ -1,5 +1,6 @@
 ---
 title: "Fox News’ Rolling Stone problem: Imagine a panel investigating Bill O’Reilly’s “war stories” and Megyn Kelly’s hyperbole"
+date: 2015-04-09T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

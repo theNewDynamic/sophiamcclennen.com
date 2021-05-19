@@ -1,5 +1,6 @@
 ---
 title: McClennen Reviews Michael Moore's New Film
+date: 2018-09-08T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: salon.com

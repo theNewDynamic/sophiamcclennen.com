@@ -1,5 +1,6 @@
 ---
 title: "Evil Fox News idiocy, unchecked: As Stephen Colbert departs, demented loons set to run free"
+date: 2014-12-17T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: "Salon"

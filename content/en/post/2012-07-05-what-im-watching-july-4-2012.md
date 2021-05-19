@@ -1,5 +1,6 @@
 ---
 title: "What I'm Watching: July 4, 2012"
+date: 2012-07-05T12:00:00.864Z
 author: Sean Concannon
 layout: post
 # url: /what-im-watching/what-im-watching-july-4-2012/

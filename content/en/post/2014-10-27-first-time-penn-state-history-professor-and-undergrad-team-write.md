@@ -1,5 +1,6 @@
 ---
 title: "First time in Penn State history: professor and undergrad team up to write book"
+date: 2014-10-27T12:00:00.864Z
 layout: post
 ---
 > University Park, PA — What if the next presidential election is decided by viewers of "The Daily Show," "The Colbert Report" and "Last Week Tonight with John Oliver," rather than viewers of CNN, Fox News and MSNBC?  Are satirists giving a more objective and factual view of the news?

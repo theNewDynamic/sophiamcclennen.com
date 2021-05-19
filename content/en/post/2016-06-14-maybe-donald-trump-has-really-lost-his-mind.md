@@ -1,5 +1,6 @@
 ---
 title: Maybe Donald Trump has really lost his mind
+date: 2016-06-14T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.com

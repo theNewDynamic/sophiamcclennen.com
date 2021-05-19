@@ -1,5 +1,6 @@
 ---
 title: 'Fox News’ new war on truth: This is why Donald Trump and GOP field get away with lies'
+date: 2015-12-23T12:00:00.864Z
 publication: ''
 categories: 
 - what-im-watching

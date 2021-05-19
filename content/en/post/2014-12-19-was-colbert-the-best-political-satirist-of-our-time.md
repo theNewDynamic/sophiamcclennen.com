@@ -1,5 +1,6 @@
 ---
 title: "Brian O'Connor interviews me for *Footnote* on Colbert's legacy"
+date: 2014-12-19T12:00:00.864Z
 layout: post
 category:
 ---

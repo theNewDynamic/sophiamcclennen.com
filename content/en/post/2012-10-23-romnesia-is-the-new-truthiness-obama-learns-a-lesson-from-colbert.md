@@ -1,5 +1,6 @@
 ---
 title: 'Romnesia Is the New Truthiness: Obama Learns a Lesson From Colbert'
+date: 2012-10-23T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/romnesia-is-the-new-truthiness-obama-learns-a-lesson-from-colbert/

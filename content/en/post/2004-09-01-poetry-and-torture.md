@@ -1,6 +1,6 @@
 ---
 title: Poetry and Torture
-date: 2004-09-01 12:00:00
+date: 2004-09-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/poetry-and-torture/

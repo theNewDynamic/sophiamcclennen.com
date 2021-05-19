@@ -1,7 +1,6 @@
 ---
-title: >-
-  How late night comedy shows are making sense of absurd and reckless
-  coronavirus responses
+title: "How late night comedy shows are making sense of absurd and reckless coronavirus responses"
+date: 2020-05-21T12:00:00.864Z  
 categories: 
 - what-im-watching
 publication: Salon.com

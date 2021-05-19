@@ -1,5 +1,6 @@
 ---
 title: Lets Listen to Bill Maher on Paris Religion and Race Maher Walks a Fascinating and Tricky Line
+date: 2015-11-18T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

@@ -1,5 +1,6 @@
 ---
 title: Is this how our Free Press dies? How our 45th president could spell the end of an independent Fourth Estate
+date: 2016-12-05T12:00:00.864Z
 category:
   - what-im-watching
 publication: salon.com

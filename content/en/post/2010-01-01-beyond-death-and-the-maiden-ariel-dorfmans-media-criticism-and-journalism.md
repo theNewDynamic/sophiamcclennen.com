@@ -1,6 +1,6 @@
 ---
 title: 'Beyond Death and the Maiden: Ariel Dorfman’s Media Criticism and Journalism'
-date: 2010-01-01 12:00:00
+date: 2010-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/beyond-death-and-the-maiden-ariel-dorfmans-media-criticism-and-journalism/

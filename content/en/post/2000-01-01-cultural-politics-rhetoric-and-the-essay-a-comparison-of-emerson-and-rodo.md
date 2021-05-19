@@ -1,6 +1,6 @@
 ---
 title: 'Cultural Politics, Rhetoric, and the Essay: A Comparison of Emerson and Rodó'
-date: 2000-01-01 12:00:00
+date: 2000-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/cultural-politics-rhetoric-and-the-essay-a-comparison-of-emerson-and-rodo/

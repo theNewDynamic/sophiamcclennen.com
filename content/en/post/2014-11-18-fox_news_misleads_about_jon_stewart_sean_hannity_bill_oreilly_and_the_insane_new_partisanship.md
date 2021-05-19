@@ -1,5 +1,6 @@
 ---
 title: "Fox News misleads about Jon Stewart: Sean Hannity, Bill O’Reilly and the insane new partisanship"
+date: 2014-11-18T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: "Salon"

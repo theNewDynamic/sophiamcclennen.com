@@ -1,5 +1,6 @@
 ---
 title: "Who will factcheck Fox News now? We’re lost without Stewart and Colbert"
+date: 2015-02-11T12:00:00.864Z
 publication: "Salon"
 featured: true
 link_to_original: "https://www.salon.com/2015/02/11/who_will_factcheck_fox_news_now_were_fked_without_stewart_and_colbert/"

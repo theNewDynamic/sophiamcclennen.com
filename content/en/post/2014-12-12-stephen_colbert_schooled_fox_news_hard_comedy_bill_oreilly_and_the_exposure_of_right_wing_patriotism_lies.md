@@ -1,5 +1,6 @@
 ---
 title: "Stephen Colbert schooled Fox News hard: Comedy, Bill O’Reilly and the exposure of right-wing patriotism lies"
+date: 2014-12-12T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: "Salon"

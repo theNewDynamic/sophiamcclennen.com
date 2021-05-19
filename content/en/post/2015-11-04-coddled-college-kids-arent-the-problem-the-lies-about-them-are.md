@@ -1,5 +1,6 @@
 ---
 title: Coddled College Kids Arent the Problem   the Lies About Them Are
+date: 2015-11-04T12:00:00.864Z
 publication: Truthout
 categories: 
 - what-im-watching

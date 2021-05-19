@@ -1,5 +1,6 @@
 ---
 title: Fox News Stupidly Tries to Slime Samantha Bee
+date: 2016-03-25T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Alternet

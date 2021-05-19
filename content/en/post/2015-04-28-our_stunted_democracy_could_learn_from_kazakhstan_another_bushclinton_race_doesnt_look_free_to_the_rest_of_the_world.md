@@ -1,5 +1,6 @@
 ---
 title: "Our stunted democracy could learn from Kazakhstan: Another Bush/Clinton race doesn’t look free to the rest of the world"
+date: 2015-04-28T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2017-08-08T12:00:00.864Z
   Trump’s Muslim travel ban is a win for ISIS: This must-see film about Syrian
   journalists shows why
 categories: 

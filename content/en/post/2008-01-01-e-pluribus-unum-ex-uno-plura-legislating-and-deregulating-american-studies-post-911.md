@@ -1,6 +1,6 @@
 ---
 title: 'E Pluribus Unum/ Ex Uno Plura: Legislating and Deregulating American Studies post 9/11.'
-date: 2008-01-01 12:00:00
+date: 2008-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/e-pluribus-unum-ex-uno-plura-legislating-and-deregulating-american-studies-post-911/

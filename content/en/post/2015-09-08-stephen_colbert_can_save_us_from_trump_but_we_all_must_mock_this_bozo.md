@@ -1,5 +1,6 @@
 ---
 title: "Stephen Colbert can save us from Trump — but we all must mock this bozo"
+date: 2015-09-08T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

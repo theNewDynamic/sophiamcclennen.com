@@ -1,5 +1,6 @@
 ---
 title: 'Trevor Noah has cratered “The Daily Show”: He has no bite, no message — and has let Fox News off the hook'
+date: 2015-11-13T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

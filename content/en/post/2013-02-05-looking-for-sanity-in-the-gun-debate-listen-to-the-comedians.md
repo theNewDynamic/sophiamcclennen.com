@@ -1,5 +1,6 @@
 ---
 title: Looking for Sanity in the Gun Debate? Listen to the Comedians
+date: 2013-02-05T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/looking-for-sanity-in-the-gun-debate-listen-to-the-comedians/

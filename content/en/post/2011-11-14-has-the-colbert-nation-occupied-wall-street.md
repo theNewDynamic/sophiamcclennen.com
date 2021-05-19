@@ -1,6 +1,6 @@
 ---
 title: Has the Colbert Nation Occupied Wall Street?
-date: 2011-11-14 12:00:00
+date: 2011-11-14T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/has-the-colbert-nation-occupied-wall-street/

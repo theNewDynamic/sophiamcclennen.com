@@ -1,5 +1,6 @@
 ---
 title: Welcome Back! Why College Students Are Better Than You Think
+date: 2014-08-27T12:00:00.864Z
 author: Sophia McClennen
 categories: 
 - what-im-watching

@@ -1,5 +1,6 @@
 ---
 title: "Michael Moore's new film redefines patriotism"
+date: 2015-12-26T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

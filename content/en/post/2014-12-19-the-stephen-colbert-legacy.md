@@ -1,5 +1,6 @@
 ---
 title: "The Stephen Colbert legacy"
+date: 2014-12-19T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: "The Conversation"

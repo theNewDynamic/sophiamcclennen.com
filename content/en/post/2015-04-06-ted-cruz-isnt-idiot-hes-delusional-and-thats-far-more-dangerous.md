@@ -1,5 +1,6 @@
 ---
 title: "Ted Cruz Isn't an Idiot — He's Delusional and That's Far More Dangerous"
+date: 2015-04-06T12:00:00.864Z
 publication: "Alternet"
 categories: 
 - what-im-watching

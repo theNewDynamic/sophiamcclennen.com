@@ -1,5 +1,6 @@
 ---
 title: Larry David Saved Bernie Sanders Snl Impression Made Him Human Likable  After a Rough Debate With Hillary Clinton
+date: 2015-10-19T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

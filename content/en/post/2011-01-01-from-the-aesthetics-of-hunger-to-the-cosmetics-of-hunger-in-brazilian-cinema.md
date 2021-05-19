@@ -1,6 +1,6 @@
 ---
 title: From the Aesthetics of Hunger to the Cosmetics of Hunger in Brazilian Cinema
-date: 2011-01-01 12:00:00
+date: 2011-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/from-the-aesthetics-of-hunger-to-the-cosmetics-of-hunger-in-brazilian-cinema/

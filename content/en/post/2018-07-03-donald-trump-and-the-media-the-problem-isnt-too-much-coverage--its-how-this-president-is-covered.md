@@ -1,7 +1,7 @@
 ---
-title: >-
-  Donald Trump and the media: The problem isn’t too much coverage — it’s how
-  this president is covered
+title: "Donald Trump and the media: The problem isn’t too much coverage — it’s how this president is covered"
+date: 2018-07-03T12:00:00.864Z
+  
 categories: 
 - what-im-watching
 publication: Salon.com

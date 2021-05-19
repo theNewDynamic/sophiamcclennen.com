@@ -1,5 +1,6 @@
 ---
 title: 'They created our Bundy/Trump hellscape: Fox News’ angry white audience will destroy us yet'
+date: 2016-01-07T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

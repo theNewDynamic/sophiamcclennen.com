@@ -1,5 +1,6 @@
 ---
 title: "Clint Eastwood, still a jerk: His new Michael Moore threat, and the GOP’s Fox News derangement problem"
+date: 2015-04-24T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

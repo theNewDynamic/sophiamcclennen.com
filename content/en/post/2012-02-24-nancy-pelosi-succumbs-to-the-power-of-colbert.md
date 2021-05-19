@@ -1,6 +1,6 @@
 ---
 title: Nancy Pelosi Succumbs to the Power of Colbert
-date: 2012-02-24 12:00:00
+date: 2012-02-24T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/nancy-pelosi-succumbs-to-the-power-of-colbert/

@@ -1,5 +1,6 @@
 ---
 title: How Jordan Klepper will win the Trump Era satire game
+date: 2017-10-16T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon

@@ -1,5 +1,6 @@
 ---
 title: A field guide to the pandemic deniers
+date: 2020-08-06T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.com

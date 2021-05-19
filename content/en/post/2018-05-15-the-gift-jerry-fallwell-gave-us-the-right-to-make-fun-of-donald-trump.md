@@ -1,5 +1,6 @@
 ---
 title: 'The gift Jerry Fallwell gave us: The right to make fun of Donald Trump'
+date: 2018-05-15T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.com

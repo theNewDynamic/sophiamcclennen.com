@@ -1,5 +1,6 @@
 ---
 title: 'The unexpected side effect of Hillary 2016: How she transformed Democrats into “new” Republicans'
+date: 2016-06-14T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.com

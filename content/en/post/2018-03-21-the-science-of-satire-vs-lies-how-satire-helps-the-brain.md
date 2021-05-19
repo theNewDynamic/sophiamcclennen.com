@@ -1,5 +1,6 @@
 ---
 title: 'The Science of Satire vs Lies: How Satire Helps the Brain'
+date: 2018-03-21T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.com

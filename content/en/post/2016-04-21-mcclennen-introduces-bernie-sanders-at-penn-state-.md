@@ -1,5 +1,6 @@
 ---
 title: McClennen introduces Bernie Sanders at Penn State.
+date: 2016-04-21T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Judson Mantz on Facebook

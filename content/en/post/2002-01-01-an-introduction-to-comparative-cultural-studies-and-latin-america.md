@@ -1,6 +1,6 @@
 ---
 title: An Introduction to Comparative Cultural Studies and Latin America
-date: 2002-01-01 12:00:00
+date: 2002-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/an-introduction-to-comparative-cultural-studies-and-latin-america/

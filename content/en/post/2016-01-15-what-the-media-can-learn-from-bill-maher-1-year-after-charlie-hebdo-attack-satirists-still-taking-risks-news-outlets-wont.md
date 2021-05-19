@@ -1,5 +1,6 @@
 ---
 title: 'What the media can learn from Bill Maher: 1 year after Charlie Hebdo attack, satirists still taking risks news outlets won’t'
+date: 2016-01-15T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

@@ -1,5 +1,6 @@
 ---
 title: 'Michael Moore might save Flint: Moore, Jon Stewart, John Oliver keep proving satirists get more done than politicians'
+date: 2016-01-20T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

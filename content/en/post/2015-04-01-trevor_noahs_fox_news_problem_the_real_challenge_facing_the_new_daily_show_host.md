@@ -1,5 +1,6 @@
 ---
 title: "Trevor Noah’s Fox News problem: The real challenge facing the new “Daily Show” host"
+date: 2015-04-01T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

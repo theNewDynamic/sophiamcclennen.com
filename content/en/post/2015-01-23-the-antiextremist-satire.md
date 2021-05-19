@@ -1,5 +1,6 @@
 ---
 title: "The Anti-Extremist Satire No One Is Talking About"
+date: 2015-01-23T12:00:00.864Z
 publication: "Huffington Post"
 featured: true
 link_to_original: "https://www.huffingtonpost.com/sophia-a-mcclennen/the-antiextremist-satire-_b_6519000.html"

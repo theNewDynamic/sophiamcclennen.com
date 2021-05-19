@@ -1,5 +1,6 @@
 ---
 title: Startalk episode on Stephen Colbert
+date: 2018-01-15T12:00:00.864Z
 categories: 
 - what-im-watching
 publication:

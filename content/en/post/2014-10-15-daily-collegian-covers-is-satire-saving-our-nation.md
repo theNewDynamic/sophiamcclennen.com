@@ -1,5 +1,6 @@
 ---
 title: "Daily Collegian covers *Is Satire Saving Our Nation?*"
+date: 2014-10-15T12:00:00.864Z
 layout: post
 category:
 ---

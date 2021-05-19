@@ -1,5 +1,6 @@
 ---
 title: 'You Gotta Love Colbert’s Balls'
+date: 2012-11-13T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/you-gotta-love-colberts-balls/

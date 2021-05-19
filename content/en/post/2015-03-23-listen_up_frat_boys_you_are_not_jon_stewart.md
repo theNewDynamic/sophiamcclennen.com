@@ -1,5 +1,6 @@
 ---
 title: "Listen up, frat boys: You are not Jon Stewart"
+date: 2015-03-23T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

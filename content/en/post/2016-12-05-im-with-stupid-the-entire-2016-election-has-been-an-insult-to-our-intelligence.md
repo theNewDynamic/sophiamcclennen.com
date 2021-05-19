@@ -1,5 +1,6 @@
 ---
 title: 'I’m with stupid: The entire 2016 election has been an insult to our intelligence'
+date: 2016-12-05T12:00:00.864Z
 category:
   - what-im-watching
 publication: salon.com

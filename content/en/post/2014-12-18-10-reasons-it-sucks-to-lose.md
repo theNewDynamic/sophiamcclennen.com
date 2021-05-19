@@ -1,5 +1,6 @@
 ---
 title: "10 Reasons It Sucks to Lose 'Stephen Colbert'"
+date: 2014-12-18T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: "Huffington Post"

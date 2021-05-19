@@ -1,5 +1,6 @@
 ---
 title: "Republicans Just Don't Get Stephen Colbert: Why the Fox News-Watching, Climate Change-Denying Crowd Can't Understand Complex Satire"
+date: 2015-11-23T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

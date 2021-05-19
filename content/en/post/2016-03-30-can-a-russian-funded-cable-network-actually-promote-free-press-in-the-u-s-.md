@@ -1,5 +1,6 @@
 ---
 title: Can a Russian-funded cable network actually promote free press in the U.S.?
+date: 2016-03-230T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: The Conversation

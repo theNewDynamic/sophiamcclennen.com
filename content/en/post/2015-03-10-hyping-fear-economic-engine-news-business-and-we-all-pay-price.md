@@ -1,5 +1,6 @@
 ---
 title: "Hyping Fear Is an Economic Engine of the News Business, and We All Pay the Price"
+date: 2015-03-10T12:00:00.864Z
 publication: "Alternet"
 categories: 
 - what-im-watching

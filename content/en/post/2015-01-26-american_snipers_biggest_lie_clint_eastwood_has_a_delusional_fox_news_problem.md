@@ -1,5 +1,6 @@
 ---
 title: "“American Sniper’s” biggest lie: Clint Eastwood has a delusional Fox News problem"
+date: 2015-01-26T12:00:00.864Z
 publication: "Salon"
 featured: true
 link_to_original: "https://www.salon.com/2015/01/26/american_snipers_biggest_lie_clint_eastwood_has_a_delusional_fox_news_problem/"

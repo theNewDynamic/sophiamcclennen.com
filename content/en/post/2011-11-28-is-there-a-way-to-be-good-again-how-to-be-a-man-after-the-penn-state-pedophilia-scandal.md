@@ -1,6 +1,6 @@
 ---
 title: Is There a Way to Be Good Again? How to Be a Man after the Penn State Pedophilia Scandal
-date: 2011-11-28 12:00:00
+date: 2011-11-28T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/is-there-a-way-to-be-good-again-how-to-be-a-man-after-the-penn-state-pedophilia-scandal/

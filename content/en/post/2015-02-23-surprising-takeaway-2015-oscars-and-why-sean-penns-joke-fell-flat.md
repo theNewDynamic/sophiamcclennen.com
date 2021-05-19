@@ -1,5 +1,6 @@
 ---
 title: "The Surprising Takeaway from the 2015 Oscars—And Why Sean Penn's Joke Fell Flat"
+date: 2015-02-23T12:00:00.864Z
 publication: "Alternet"
 categories: 
 - what-im-watching

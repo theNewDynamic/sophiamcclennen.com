@@ -1,5 +1,6 @@
 ---
 title: "McClennen interviewed on Jon Stewart's departure for AP, Bloomberg, CPCC's AirTalk, This Morning with Gordon Marshall, and AP again"
+date: 2015-02-12T12:00:00.864Z
 layout: post
 category:
 ---

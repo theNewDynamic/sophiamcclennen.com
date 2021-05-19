@@ -1,5 +1,6 @@
 ---
 title: 'Michael Moores Gutsy New Film: Our Military Has Not Won a War Since World War II'
+date: 2015-11-05T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

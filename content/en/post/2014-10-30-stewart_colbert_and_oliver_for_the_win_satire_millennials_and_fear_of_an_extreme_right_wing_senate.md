@@ -1,5 +1,6 @@
 ---
 title: "Stewart, Colbert and Oliver for the win: Satire, millennials and fear of an extreme right-wing Senate"
+date: 2014-10-30T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: "Salon"

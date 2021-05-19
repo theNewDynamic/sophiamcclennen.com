@@ -1,5 +1,6 @@
 ---
 title: Is it Stupid to Study Colbert?
+date: 2012-07-12T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/is-it-stupid-to-study-colbert/

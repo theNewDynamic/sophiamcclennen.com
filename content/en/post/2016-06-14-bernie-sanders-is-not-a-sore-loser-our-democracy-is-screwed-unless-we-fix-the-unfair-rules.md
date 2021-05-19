@@ -1,5 +1,6 @@
 ---
 title: 'Bernie Sanders is not a sore loser: Our democracy is screwed unless we fix the unfair rules'
+date: 2016-06-14T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.com

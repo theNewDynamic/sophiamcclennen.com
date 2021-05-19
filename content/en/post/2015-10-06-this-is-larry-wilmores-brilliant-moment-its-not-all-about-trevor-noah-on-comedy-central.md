@@ -1,5 +1,6 @@
 ---
 title: This Is Larry Wilmores Brilliant Moment Its Not All About Trevor Noah on Comedy Central
+date: 2015-10-06T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

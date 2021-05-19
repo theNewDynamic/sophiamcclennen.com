@@ -1,5 +1,6 @@
 ---
 title: "They’ll come for “The Daily Show” next: Why satirists always threaten fundamentalists"
+date: 2015-01-09T12:00:00.864Z
 publication: "Salon"
 featured: true
 link_to_original: "https://www.salon.com/2015/01/09/theyll_come_for_jon_stewart_next_why_satirists_always_threaten_fundamentalists/"

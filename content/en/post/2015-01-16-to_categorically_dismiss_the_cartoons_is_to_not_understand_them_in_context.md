@@ -1,5 +1,6 @@
 ---
 title: "“To categorically dismiss the cartoons is to not understand them in context”"
+date: 2015-01-16T12:00:00.864Z
 publication: "Salon"
 featured: true
 link_to_original: "https://www.salon.com/2015/01/17/to_categorically_dismiss_the_cartoons_is_to_not_understand_them_in_context/#"

@@ -1,5 +1,6 @@
 ---
 title: 6 Lessons from Michael Moore’s “Fahrenheit 11/9″
+date: 2018-09-25T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.com

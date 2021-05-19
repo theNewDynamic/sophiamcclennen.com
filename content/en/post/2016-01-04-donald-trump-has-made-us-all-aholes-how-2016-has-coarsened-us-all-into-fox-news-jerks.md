@@ -1,5 +1,6 @@
 ---
 title: 'Donald Trump has made us all a**holes: How 2016 has coarsened us all into Fox News jerks'
+date: 2016-01-04T12:00:00.864Z
 publication: Salon
 categories: 
 - what-im-watching

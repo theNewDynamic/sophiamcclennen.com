@@ -1,5 +1,6 @@
 ---
 title: "Jon Stewart’s war on propaganda: Hannity, Cruz sound as dogmatic as fundamentalist Iranians"
+date: 2014-11-17T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: "Salon"

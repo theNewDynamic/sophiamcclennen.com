@@ -1,5 +1,6 @@
 ---
 title: 'The Debate You Really Want to Watch: Stewart vs. O’Reilly'
+date: 2012-10-10T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/the-debate-you-really-want-to-watch-stewart-vs-oreilly/

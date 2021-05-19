@@ -1,5 +1,6 @@
 ---
 title: 'It’s NOT a Game!'
+date: 2013-10-09T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/its-not-a-game/

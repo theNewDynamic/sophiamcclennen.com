@@ -1,5 +1,6 @@
 ---
 title: 'Michael Moore could have died last week: “Trying to get back to just breathing is enough of a burden”'
+date: 2016-02-12T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon

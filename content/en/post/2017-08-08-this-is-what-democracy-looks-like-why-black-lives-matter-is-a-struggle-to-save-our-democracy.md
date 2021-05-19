@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2017-08-08T12:00:00.864Z
   “This is what democracy looks like”: Why Black Lives Matter is a struggle to
   save our democracy
 categories: 

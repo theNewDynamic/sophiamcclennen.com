@@ -1,6 +1,6 @@
 ---
 title: Exilic Perspectives on ‘Alien Nations’
-date: 2005-01-01 12:00:00
+date: 2005-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/exilic-perspectives-on-alien-nations/

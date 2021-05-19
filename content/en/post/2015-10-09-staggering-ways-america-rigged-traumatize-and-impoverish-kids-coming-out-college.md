@@ -1,5 +1,6 @@
 ---
 title: "The Staggering Ways America Is Rigged to Traumatize and Impoverish Kids Coming Out of College"
+date: 2015-10-09T12:00:00.864Z
 publication: "Alternet"
 categories: 
 - what-im-watching

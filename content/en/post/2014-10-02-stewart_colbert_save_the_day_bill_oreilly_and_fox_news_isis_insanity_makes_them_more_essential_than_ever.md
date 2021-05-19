@@ -1,5 +1,6 @@
 ---
 title: "Stewart, Colbert save the day: Bill O’Reilly and Fox News’ ISIS insanity makes them more essential than ever"
+date: 2014-10-02T12:00:00.864Z
 categories: 
 - what-im-watching
 categories: 

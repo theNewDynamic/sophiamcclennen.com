@@ -1,6 +1,6 @@
 ---
 title: "What's So Funny? Why Colbert Is Funny and Cain Is Not"
-date: 2012-01-23 12:00:00
+date: 2012-01-23T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/whats-so-funny-why-colbert-is-funny-and-cain-is-not/

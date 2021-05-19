@@ -1,5 +1,6 @@
 ---
 title: 'The press has not done its job: 3 ways the media has failed our democracy in covering the election'
+date: 2016-07-07T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon

@@ -1,5 +1,6 @@
 ---
 title: "Twitter won the GOP debate: A fitting tribute to Jon Stewart, who made citizen-satirists of us all"
+date: 2015-08-07T12:00:00.864Z
 publication: "Salon"
 categories: 
 - what-im-watching

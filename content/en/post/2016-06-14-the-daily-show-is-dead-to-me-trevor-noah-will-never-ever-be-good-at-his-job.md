@@ -1,5 +1,6 @@
 ---
 title: '“The Daily Show” is dead to me: Trevor Noah will never, ever be good at his job'
+date: 2016-06-14T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.com

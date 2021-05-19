@@ -1,5 +1,6 @@
 ---
 title: 'Why millennials love Bernie Sanders: This is what Trump, Hillary — and Chris Matthews — don’t understand about how politics has changed'
+date: 2016-06-14T12:00:00.864Z
 categories: 
 - what-im-watching
 publication: Salon.com

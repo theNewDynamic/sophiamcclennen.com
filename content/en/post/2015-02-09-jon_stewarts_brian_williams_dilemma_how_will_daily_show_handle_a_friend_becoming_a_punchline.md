@@ -1,5 +1,6 @@
 ---
 title: "Jon Stewart’s Brian Williams dilemma: How will “Daily Show” handle a friend becoming a punchline?"
+date: 2015-02-09T12:00:00.864Z
 publication: "Salon"
 featured: true
 link_to_original: "https://www.salon.com/2015/02/09/jon_stewarts_brian_williams_dilemma_how_will_daily_show_handle_a_friend_becoming_a_punchline/"

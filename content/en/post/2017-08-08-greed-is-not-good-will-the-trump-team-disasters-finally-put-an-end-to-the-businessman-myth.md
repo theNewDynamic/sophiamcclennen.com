@@ -1,7 +1,6 @@
 ---
-title: >-
-  Greed is not good: Will the Trump team disasters finally put an end to the
-  businessman myth?
+title: "Greed is not good: Will the Trump team disasters finally put an end to the businessman myth?"
+date: 2017-08-08T12:00:00.864Z  
 categories: 
 - what-im-watching
 publication: Salon

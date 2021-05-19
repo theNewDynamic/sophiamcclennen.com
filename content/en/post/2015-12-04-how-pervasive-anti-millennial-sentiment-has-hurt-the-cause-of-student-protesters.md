@@ -1,5 +1,6 @@
 ---
 title: How pervasive anti-millennial sentiment has hurt the cause of student protesters
+date: 2015-12-04T12:00:00.864Z
 publication: The conversation
 categories: 
 - what-im-watching

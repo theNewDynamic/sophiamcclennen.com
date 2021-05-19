@@ -1,6 +1,6 @@
 ---
 title: Introduction
-date: 2008-01-01 12:00:00
+date: 2008-01-01T12:00:00.864Z
 categories: 
 - what-im-watching
 url: /writing/introduction/

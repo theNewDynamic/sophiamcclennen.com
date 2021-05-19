@@ -1,5 +1,6 @@
 ---
 title: "It's Arithmetic: The Romney Campaign Adds Up to Lies and Insults"
+date: 2012-09-26T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /what-im-watching/its-arithmetic-the-romney-campaign-adds-up-to-lies-and-insults/

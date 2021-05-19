@@ -2,7 +2,7 @@
 title: John Ochoa on The Dialectics of Exile
 category: review
 permalink: /reviews/john-ochoa-on-the-dialectics-of-exile/
-related_book: the-dialectics-of-exile
+related_book: book/the-dialectics-of-exile.md
 attribution: 'John Ochoa, *Latin American Research Review*'
 short_quote: "McClennen's insightful ruminations on the dynamics of exile are well-taken and their implications wide-ranging. McClennen presents exile as the initiation of an ongoing 'dialectic,' a word rich with Marxist, linguistic, and aesthetic resonances, all of which she mines successfully."
 ---

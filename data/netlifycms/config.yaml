@@ -38,7 +38,7 @@ collections:
     - name: related_book
       label: Related Book
       widget: relation
-      value_field: '{{slug}}'
+      value_field: 'book/{{slug}}.md'
       search_fields: ['title']
       display_fields: ['title']
       collection: books

@@ -1,7 +1,7 @@
 ---
 title: K. M. Sibbald on Ariel Dorfman
 permalink: /reviews/k-m-sibbald-on-ariel-dorfman/
-related_book: ariel-dorfman
+related_book: book/ariel-dorfman.md
 attribution: 'K. M. Sibbald, *Choice*'
 short_quote: "McClennen’s critique is ... an exemplary analysis of Dorfman’s remarkable practice of thinking through crisis. An invaluable addition to the literature on literary and cultural studies."
 ---

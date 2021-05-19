@@ -1,7 +1,7 @@
 ---
 title: Debra A. Castillo on Ariel Dorfman
 permalink: /reviews/debra-a-castillo-on-ariel-dorfman/
-related_book: ariel-dorfman
+related_book: book/ariel-dorfman.md
 attribution: 'Debra A. Castillo, author of *Redreaming America: Toward a Bilingual American Culture*'
 short_quote: "Sophia A. McClennen approaches Dorfman with measured affection and a sharp critical eye."
 ---

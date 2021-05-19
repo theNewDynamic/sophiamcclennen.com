@@ -1,0 +1,17 @@
+
+{{ $reviews := where site.RegularPages "Section" "review" }}
+{{ $reviews_related := where ($reviews) ".Params.book" .Page.File.Path }}
+{{ $reviews_related := where ($reviews_related) ".Params.featured" "!=" true }}
+{{ if $reviews_related }}
+  <div id="praise">
+    <h2 class="mt-5 mb-4">
+      Praise for <i>{{ .Page.Title }}</i>
+    </h2>
+    {{ $count := .count | default 1 }}
+    {{ range first $count ($reviews_related) }}
+      <div class="mb-16">
+        {{ partial "_components/quote-fancy.html" . }}
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

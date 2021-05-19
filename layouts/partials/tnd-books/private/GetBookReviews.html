@@ -1,0 +1,10 @@
+{{ $reviews := slice }}
+{{ with where site.RegularPages ".Type" "review" }}
+  {{ with where . ".Params.related_book" $.File.Path }}
+    {{ range . }}
+      {{ $reviews = $reviews | append (partialCached "tnd-books/private/ParseReview" . .) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $reviews }}

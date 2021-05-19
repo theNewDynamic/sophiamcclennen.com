@@ -6,6 +6,7 @@ filter: { field: "exclude_collection" }
 create: true
 sortable_fields: ['title', 'date']
 preview_path: article/{{slug}}
+slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
 fields:
   - import field title
   - import field date  

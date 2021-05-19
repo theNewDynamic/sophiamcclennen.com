@@ -29,6 +29,7 @@ collections:
     preview_path: news/{{slug}}
 - import: collection reviews
   extend:
+    create: true
     fields:
     - import field title
     - name: attribution

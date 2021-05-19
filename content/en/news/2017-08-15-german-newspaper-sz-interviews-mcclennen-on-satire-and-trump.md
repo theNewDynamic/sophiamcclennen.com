@@ -1,6 +1,6 @@
 ---
 title: German newspaper SZ interviews McClennen on satire and Trump
-date: 2012-06-29T12:00:00.864Z
+date: 2017-08-15T12:00:00.864Z
 categories: 
   - news
 publication:

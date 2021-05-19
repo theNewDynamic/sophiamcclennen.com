@@ -1,6 +1,6 @@
 ---
 title: 'WPSU Reviews Colbert’s America'
-date: 2012-06-29T12:00:00.864Z
+date: 2013-07-18T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/wpsu-reviews-colberts-america/

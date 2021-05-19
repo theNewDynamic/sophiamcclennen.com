@@ -1,6 +1,6 @@
 ---
 title: McClennen talks to Thom Hartmann about satire and Trump.
-date: 2012-06-29T12:00:00.864Z
+date: 2017-04-24T12:00:00.864Z
 categories: 
   - news
 publication:

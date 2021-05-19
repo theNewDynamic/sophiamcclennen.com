@@ -1,6 +1,6 @@
 ---
 title: McClennen featured on Life Lessons
-date: 2012-06-29T12:00:00.864Z
+date: 2018-02-21T12:00:00.864Z
 categories: 
   - news
 publication:

@@ -1,6 +1,6 @@
 ---
-title:
-date: 2012-06-29T12:00:00.864Z
+title: "'Stupid, but it works’: satirical candidate brings levity to Canada election"
+date: 2019-10-12T12:00:00.864Z
 categories: 
   - news
 publication:

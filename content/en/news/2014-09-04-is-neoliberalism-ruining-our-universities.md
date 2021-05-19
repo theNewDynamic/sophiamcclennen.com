@@ -1,6 +1,6 @@
 ---
 title: Is neoliberalism ruining our universities?
-date: 2012-06-29T12:00:00.864Z
+date: 2014-09-04T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/is-neoliberalism-ruining-our-universities/

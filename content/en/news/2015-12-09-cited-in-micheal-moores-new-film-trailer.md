@@ -1,6 +1,6 @@
 ---
 title: "Cited in Michael Moore's new film trailer"
-date: 2012-06-29T12:00:00.864Z
+date: 2015-12-09T12:00:00.864Z
 layout: post
 
 categories: 

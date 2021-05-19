@@ -1,6 +1,6 @@
 ---
 title: How to Get Stephen Colbert
-date: 2012-06-29T12:00:00.864Z
+date: 2012-08-26T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/how-to-get-stephen-colbert/

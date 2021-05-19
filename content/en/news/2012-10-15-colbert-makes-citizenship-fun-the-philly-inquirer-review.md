@@ -1,6 +1,6 @@
 ---
 title: 'Colbert Makes Citizenship Fun: The Philly Inquirer Review'
-date: 2012-06-29T12:00:00.864Z
+date: 2012-10-15T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/colbert-makes-citizenship-fun-the-philly-inquirer-review/

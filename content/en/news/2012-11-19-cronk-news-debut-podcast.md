@@ -1,6 +1,6 @@
 ---
 title: Cronk News Debut Podcast!
-date: 2012-06-29T12:00:00.864Z
+date: 2012-11-19T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/cronk-news-debut-podcast/

@@ -1,8 +1,6 @@
 ---
-title: >-
-date: 2012-06-29T12:00:00.864Z
-  McClennen joins Srdja Popovic for a leacture on Laughtivism and the Power of
-  Satire
+title: "McClennen joins Srdja Popovic for a leacture on Laughtivism and the Power of Satire"
+date: 2018-02-21T12:00:00.864Z  
 categories: 
   - news
 publication:

@@ -1,6 +1,6 @@
 ---
 title: Satire is shaping the next generation of American citizens
-date: 2012-06-29T12:00:00.864Z
+date: 2012-12-19T12:00:00.864Z
 author: Sophia McClennen
 layout: post
 # url: /news/satire-is-shaping-the-next-generation-of-american-citizens/

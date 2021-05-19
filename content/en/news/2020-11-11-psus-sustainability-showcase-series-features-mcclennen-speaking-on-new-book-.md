@@ -1,6 +1,6 @@
 ---
 title: PSU's Sustainability Showcase Series features McClennen speaking on new book.
-date: 2012-06-29T12:00:00.864Z
+date: 2020-11-11T12:00:00.864Z
 categories: 
   - news
 publication:

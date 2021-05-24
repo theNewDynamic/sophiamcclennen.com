@@ -1,5 +1,5 @@
 ---
-title: McClennen Featured in CNN's The story of late Night
+title: McClennen Featured in CNN's The Story of Late Night
 date: 2021-05-24T20:16:25.227Z
 image: /uploads/cnn-shot.png
 ---

@@ -11,7 +11,7 @@ fields:
   - import field title
   - import field date  
   - import field image  
-  - name: links_to_original
+  - name: link_to_original
     widget: string
     required: false
   - import field body

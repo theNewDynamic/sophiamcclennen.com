@@ -1,5 +1,5 @@
 ---
-title: McClennen Keynotes for the Comparative Literature Sepcial Section of NEMLA
+title: McClennen Keynotes for the Comparative Literature Special Section of NEMLA
 date: 2021-03-13T21:24:50.213Z
 link_to_original: http://www.buffalo.edu/content/dam/www/nemla/Newsletter/2021%20NeMLA%20Winter%20Newsletter.pdf
 ---

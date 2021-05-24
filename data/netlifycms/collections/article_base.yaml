@@ -12,6 +12,7 @@ fields:
   - import field date  
   - import field image  
   - name: link_to_original
+    label: Link to Original
     widget: string
     required: false
   - import field body

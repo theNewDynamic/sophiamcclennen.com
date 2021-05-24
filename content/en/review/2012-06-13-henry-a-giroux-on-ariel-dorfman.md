@@ -1,7 +1,7 @@
 ---
 title: Henry A. Giroux on Ariel Dorfman
 permalink: /reviews/henry-a-giroux-on-ariel-dorfman/
-related_book: ariel-dorfman
+related_book: book/ariel-dorfman.md
 attribution: 'Henry A. Giroux, author of *Hearts of Darkness: Torturing Children in the War on Terror*'
 short_quote: "Sophia A. McClennen is a writer of extraordinary gifts and one of our most promising intellectuals. ... Beautifully written and brilliantly argued, this is a book for everyone who believes that hope is the poetry of politics."
 ---

@@ -1,7 +1,7 @@
 ---
 title: Neil Larsen on The Dialectics of Exile
 permalink: /reviews/neil-larsen-on-the-dialectics-of-exile/
-related_book: the-dialectics-of-exile
+related_book: book/the-dialectics-of-exile.md
 attribution: Neil Larsen, University of California-Davis
 short_quote: "McClennen succeeds in a truly theoretically-based critique. I am especially impressed with her grasp of the real centrality of the concept of narration, in its broadest sense, to the question of exile."
 ---

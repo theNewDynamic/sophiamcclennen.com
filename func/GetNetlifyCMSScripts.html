@@ -1,0 +1,28 @@
+{{ $script := dict }}
+{{ $netlify_script_bundle := slice }}
+{{ $style := `fetch("/")
+.then(response => response.text())
+.then(html => {
+  const f = document.createElement("html");
+  f.innerHTML = html;
+  Array.from(f.getElementsByTagName("link")).forEach(tag => {
+    if (tag.rel == "stylesheet" && !tag.media) {
+      CMS.registerPreviewStyle(tag.href);
+    }
+  });
+});
+` }}
+{{ $netlifycms_style := printf `import React from "react"; %s;` $style | resources.FromString "style_netlifycms.jsx" }}
+{{ $netlifycms_scripts := slice $netlifycms_style }}
+{{ with resources.Get "tnd-netlifycms/index.jsx" }}
+  {{ $netlifycms_scripts = $netlifycms_scripts | append . }}
+{{ end }}
+{{ with resources.Concat "tnd-netlifycms/script_netlifycms.jsx" $netlifycms_scripts }}
+  {{ $defines := dict "process.env.NODE_ENV" `"development"` }}
+  {{ $script = . | js.Build (dict "defines" $defines "sourceMap" "inline") }}
+  {{ if partial "tnd-func/IsProduction" . }}
+    {{ $script = $script | fingerprint }}
+  {{ end }}
+{{ end }}
+
+{{ return  $script }}

@@ -27,4 +27,19 @@ collections:
     label_singular: "News"
     folder: "content/en/news"
     preview_path: news/{{slug}}
-- import collection reviews
+- import: collection reviews
+  extend:
+    create: true
+    fields:
+    - import field title
+    - name: attribution
+      widget: string
+      required: false
+    - import field body
+    - name: related_book
+      label: Related Book
+      widget: relation
+      value_field: 'book/{{slug}}.md'
+      search_fields: ['title']
+      display_fields: ['title']
+      collection: books

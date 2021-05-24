@@ -1,0 +1,9 @@
+{{ with partialCached "func/GetNetlifyCMSScripts" "func/GetNetlifyCMSScripts" }}
+<script 
+  type="application/javascript" 
+  src="{{ .RelPermalink }}"
+  {{ with .Data.Integrity }}
+    integrity="{{ . }}"
+  {{ end }}
+  ></script>
+{{ end }}

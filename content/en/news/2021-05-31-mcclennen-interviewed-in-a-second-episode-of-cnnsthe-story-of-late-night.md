@@ -1,5 +1,5 @@
 ---
-title: McClennen interviewed in a second episode of CNN'sThe Story of Late Night
+title: McClennen interviewed in a second episode of CNN's The Story of Late Night
 date: 2021-05-31T20:54:05.796Z
 image: /uploads/cnn-story-of-late-night-2.png
 ---

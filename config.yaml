@@ -1,0 +1,33 @@
+_collection_groups:
+  - heading: Site
+    collections:
+      - page
+  - heading: Publications
+    collections:
+      - books
+      - reviews
+      - articles
+      - news
+_editables:
+  content:
+    blockquote: true
+    bold: true
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    italic: true
+    strike: true
+    subscript: true
+    superscript: true
+    underline: true
+    bulletedlist: true
+    indent: true
+    numberedlist: true
+    outdent: true
+    code: false
+    embed: true
+    horizontalrule: true
+    image: true
+    table: false
+    undo: true
+    redo: true
+    removeformat: true
+    copyformatting: true

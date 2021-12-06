@@ -1,6 +1,7 @@
 cloudcannon:
   collections:
     books:
+      path: content/en/book
       _sort_key: title
       _subtext_key: role
       _singular_name: Book
@@ -11,3 +12,15 @@ cloudcannon:
         name: Add New Book
         icon: book        
 
+_collection_groups:
+  - heading: Books
+    collections:
+      - book
+      - review
+  - heading: Updates
+    collections:
+      - news
+      - post      
+  - heading: Site
+    collections:
+      - pages      

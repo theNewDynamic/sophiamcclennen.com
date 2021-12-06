@@ -31,3 +31,28 @@ _editables:
     redo: true
     removeformat: true
     copyformatting: true
+cloudcannon:
+  collections:
+    books:
+      _singular_name: Book
+      _singular_key: book
+      _disable_add: false
+      _icon: book
+      _inputs: *cc_inputs
+    reviews:
+      _singular_name: Reviews
+      _singular_key: review
+      _disable_add: false
+      _icon: text_format
+      _inputs: *cc_inputs
+    articles:
+      _singular_name: Articles
+      _singular_key: article
+      _disable_add: false
+      _icon: text_format
+      _inputs: *cc_inputs
+    news:
+      _singular_name: News
+      _singular_key: news
+      _disable_add: false
+      _icon: text_format

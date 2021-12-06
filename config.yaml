@@ -1,10 +1,13 @@
-_collection_groups:
-  - heading: Site
-    collections:
-      - page
-  - heading: Publications
-    collections:
-      - books
-      - reviews
-      - articles
-      - news
+cloudcannon:
+  collections:
+    books:
+      _sort_key: title
+      _subtext_key: role
+      _singular_name: Book
+      _singular_key: book
+      _disable_add: 'false'
+      _icon: book
+      _add_options:
+        name: Add New Book
+        icon: book        
+

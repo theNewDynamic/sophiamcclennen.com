@@ -6,9 +6,9 @@ category: trade
 date: 2022-12-117 12:00:01
 editions:
 - binding: paperback
-  date: 2014-07-16 12:00:01
+  date: 2023-03-31 12:00:00
   cover_image: /uploads/9781032278018.jpg
-  publisher: Routlage
+  publisher: Routledge
   isbn: 9781032278018
 short_description: |
   'Written by a scholar of satire and politics, Trump Was a Joke explains why satire is an exceptional foil for absurd political times and why it did a particularly good job of making sense of Trump.'

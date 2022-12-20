@@ -11,9 +11,11 @@
       </h2>
       {{/*  <time datetime="{{ .Date }}" class="block my-1 font-sans text-xs">{{ .Date.Format "Monday January 2, 2006" }}</time>  */}}
       <div class="mb-12 prose prose-xs">
-          {{ .Content }}
-          {{ partial "link-to-original" . }}
+          {{ .Content }}          
       </div>
+      
+        {{ partial "link-to-original" . }}
+      
     </div>
   </div>
 </div>

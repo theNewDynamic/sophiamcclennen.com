@@ -2,7 +2,7 @@
 {{ with .Params.link_to_original }}
   <div class="font-sans no-underline font-semi-bold">
     
-    <a target="_blank" class="inline-flex items-center px-2 py-1 text-white no-underline align-text-bottom transition bg-blue-600 border border-gray-200 rounded hover:bg-indigo-400 hover:underline" href="{{ . }}" style="color:white;text-decoration: none;">
+    <a target="_blank" class="inline-flex items-center px-2 py-1 font-bold text-black no-underline align-text-bottom transition rounded hover:bg-indigo-400 hover:underline" href="{{ . }}" style="text-decoration: none;">
       
       {{ with $publication }}Read at {{ . }}{{ else }}link to original{{ end }}
       

@@ -1,7 +1,6 @@
 {
   "htmlElements": {
     "tags": [
-      "!doctype",
       "a",
       "b",
       "blockquote",
@@ -60,6 +59,7 @@
       "border",
       "border-gray-200",
       "border-gray-4",
+      "border-l-4",
       "col-span-2",
       "col-span-5",
       "col-span-6",
@@ -154,12 +154,14 @@
       "md:w-2/3",
       "md:w-64",
       "meta",
+      "ml-12",
       "ml-auto",
       "mr-2",
       "mt-12",
       "mt-20",
       "mt-32",
       "mt-4m",
+      "mx-16",
       "mx-2",
       "mx-auto",
       "my-12",
@@ -174,6 +176,7 @@
       "page-item",
       "page-link",
       "pagination",
+      "pagination-default",
       "pb-2",
       "pb-8",
       "pr-4",
@@ -267,7 +270,8 @@
       "the-dialectics-of-exile",
       "the-generation-of-72",
       "the-routledge-companion-to-human-rights-and-literature",
-      "translations-from-spanish"
+      "translations-from-spanish",
+      "trump-was-a-joke"
     ]
   }
 }

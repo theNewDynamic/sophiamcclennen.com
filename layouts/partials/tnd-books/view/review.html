@@ -1,0 +1,13 @@
+<div class="px-4 pt-8 pb-8 mx-auto text-xl leading-normal">
+  {{ with .copy }}
+  <blockquote class="mb-1 border-l-4 add-quote-marks font-brand">
+    {{ . | markdownify }}
+  </blockquote>
+  {{ end }}
+{{ with .attribution }}<span class="inline-block ml-12 text-sm">— {{ . | markdownify }}</span>{{ end }}
+{{ with .link_to_original -}}
+  <a href="{{ . }}" class="inline-block underline">
+    Original
+  </a>
+{{ end }}
+</div>

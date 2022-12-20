@@ -18,14 +18,14 @@
       <a href="{{ .RelPermalink }}" class="hover:underline">{{ .Title }}</a>
     </div>
     {{ with .Content }}
-      <div class="prose prose-lg">
+      <div class="prose">
         {{ $.RenderString . }}
       </div>
+    {{ end }}    
+  </div>
+  <div class="mx-16 mb-16 prose-xl">      
+    {{ range partialCached "tnd-books/private/GetBookReviews" . . }}
+      {{ partialCached "tnd-books/view/review" . . }}
     {{ end }}
-    <div class="my-8 prose-xl">
-      {{ with partialCached "tnd-books/GetBookFeaturedReview" . . }}
-        {{ partial "tnd-books/view/review" . }}
-      {{ end }}
-    </div>
   </div>
 </div>

@@ -23,6 +23,7 @@ nbproject/
 # Hugo
 hugo_stats.json
 /public/
+bin
 
 # Local Netlify folder
 .netlify

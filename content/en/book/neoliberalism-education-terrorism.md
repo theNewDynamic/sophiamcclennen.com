@@ -14,12 +14,9 @@ short_description: |
 ---
 <em>Neoliberalism, Education, Terrorism: Contemporary Dialogues</em> is a collaborative effort among four established public intellectuals who deeply care about the future of education in America and who are concerned about the dangerous effects of neoliberalism on American society and culture. It aims to provide a clear, concise, and thought-provoking account of the problems facing education in America under the dual shadows of neoliberalism and terrorism. Through collaborative and individual essays, the authors provide a provocative account that will be of interest to anyone who concerning with the opportunities and dangers facing the future of education at this critical moment in history.
 
-&nbsp;
 
-> "In times like these, <em>Neoliberalism, Education, and Terrorism </em>is essential reading for any concerned American."
+"In times like these, <em>Neoliberalism, Education, and Terrorism </em>is essential reading for any concerned American."
+— _**Teachers College Record**_
 
-> — _**Teachers College Record**_
-
-> The contributors to _Neoliberalism, Education, and Terrorism_ call for academics to recognize and resist neoliberal economic policies and the state’s conduct of the war on terror as forces eroding what they call “progressive education” in post–September 11 America. By concretely analyzing how these forces are working to appropriate education at all levels, studies like this not only provide useful sociopolitical insight into the challenges educators face but also remind us of the need to do something about them.
-
-> — _**Academe**_
+"The contributors to _Neoliberalism, Education, and Terrorism_ call for academics to recognize and resist neoliberal economic policies and the state’s conduct of the war on terror as forces eroding what they call “progressive education” in post–September 11 America. By concretely analyzing how these forces are working to appropriate education at all levels, studies like this not only provide useful sociopolitical insight into the challenges educators face but also remind us of the need to do something about them.”
+— _**Academe**_

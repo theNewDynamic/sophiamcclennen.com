@@ -1,5 +1,5 @@
 ---
 cascade:
-  build:
+  _build:
     render: false
 ---

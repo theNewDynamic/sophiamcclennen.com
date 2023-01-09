@@ -15,11 +15,19 @@
 
 {{ with .Params.editions }}
   {{ $editions := slice }}
-  {{ range  . }}
-    {{ $edition := . }}
+  {{ range  $edition_input := . }}
+    {{ $edition := dict }}
     {{ $image := dict }}
     {{ with .cover_image }}
       {{ $edition = merge $edition (dict "cover_image" (partial "transformers/image" .)) }}
+    {{ end }}
+    {{ range $key := slice "publisher" "asin" }}
+      {{ with index $edition_input $key }}
+        {{ $edition = merge $edition (dict $key .) }}
+      {{ end }}
+    {{ end }}
+    {{ with .isbn }}
+      {{ $edition = merge $edition (dict "isbn" (string .)) }}
     {{ end }}
     {{ $editions = $editions | append $edition }}
   {{ end }}

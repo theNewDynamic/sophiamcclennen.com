@@ -1,0 +1,9 @@
+*[_type == "review"]{
+  _id,
+  'slug': slug.current,
+  title,
+  attribution,
+  short_quote,
+  body,
+  'related_book': 'book/' + related_book->slug.current + ".md"
+}

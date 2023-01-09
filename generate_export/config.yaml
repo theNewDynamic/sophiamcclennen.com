@@ -9,3 +9,5 @@ module:
     target: content/news
   - source: ../content/en/archive_book
     target: content/book
+  - source: ../content/en/archive_review
+    target: content/review

@@ -17,6 +17,9 @@ mounts:
   - source: prebuild_sanity/public/news
     target: content/news
     lang: en
+  - source: prebuild_sanity/public/review
+    target: content/review
+    lang: en
 imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-seo
   - path: github.com/theNewDynamic/hugo-module-tnd-styles

@@ -7,7 +7,7 @@
   'editions': editions[]{
     publisher,
     'cover_image': cover_image.asset->url,
-    isbn,
+    'isbn': string(isbn),
     asin => asin,
     binding,
   },

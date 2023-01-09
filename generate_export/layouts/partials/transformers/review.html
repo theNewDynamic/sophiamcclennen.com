@@ -1,0 +1,37 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ $s.Set "data" (dict 
+  "_id" .File.UniqueID
+  "slug" (dict
+    "_type" "slug"
+    "current" (.Slug | default (urlize .Title))
+  )
+  "_type" "review"
+  "title" .Title
+)}}
+
+{{ $s.SetInMap "data" "title" .Title }}
+
+{{ with .Params.related_book }}
+  {{ with site.GetPage . }}
+    {{ with .File.UniqueID }}
+      {{ $s.SetInMap "data" "related_book" (dict
+        "_type" "reference"
+        "_ref" .
+      ) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ range $key := slice "attribution" "short_quote" }}
+  {{ with index $.Params . }}
+    {{ $s.SetInMap "data" $key . }}
+  {{ end }}
+{{ end }}
+
+{{ with .Content }}
+  {{ $s.SetInMap "data" "body" $.RawContent }}
+{{ end }}
+
+{{ return $s.Get "data" }}

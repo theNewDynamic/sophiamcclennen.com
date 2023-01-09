@@ -17,3 +17,20 @@
     {{ end }}
   {{ end }}
 {{ end }}
+
+{{ with resources.Get "/groq/settings.groq" }}
+  {{ with $body := .Content }}
+    {{ with partial "sanity/private/Request" (dict
+    "body" (dict "query" $body | jsonify)
+    ) }}
+      {{ warnf "Sanity request for %s took %#v ms" "Settings" .ms }}
+      {{ range .result }}
+        {{ $slug := .slug | default (urlize .title) }}
+        {{ partial "sanity/private/PublishMD" (dict
+          "path" "/data/settings.json"
+          "data" .
+        )}}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}

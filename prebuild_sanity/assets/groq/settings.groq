@@ -1,0 +1,4 @@
+*[_type == "siteSettings"][]{
+  site_title,
+  description,
+}

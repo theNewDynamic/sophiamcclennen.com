@@ -1,0 +1,89 @@
+{{/*
+  shopify/transformer/product
+  Description
+
+  @author @regisphilibert
+
+  @context Map (.)
+    (As retrieved from API)
+
+  @access private
+
+  @returns Map
+    Map (.raw)
+    String (.title)
+    String (.price)
+    String (.description)
+    HTMLString (.descriptionHTML)
+    String (.category)
+    Slice of Maps (.images)
+      - String (.original)
+        String (.thumbnail)
+        String (.card)
+        String (.alt)
+    Map (.featured_image)
+      See .images' nodes
+    Slice of Maps (.variants)
+      - String (.title)
+        String (.price)
+    Page (.Page)
+
+*/}}
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+{{ $s.SetInMap "data" "raw" $ }}
+{{ $s.SetInMap "data" "title" .title }}
+{{ $s.SetInMap "data" "description" .description }}
+{{ $s.SetInMap "data" "descriptionHTML" .descriptionHtml }}
+{{ $s.SetInMap "data" "category" .category }}
+{{ $images := slice }}
+{{ with .images }}
+  {{ with .nodes }}
+    {{ range $index, $image := . }}
+      {{ if not $index }}
+        {{ $s.SetInMap "data" "featured_image" . }}
+      {{ end }}
+      {{ $images = $images | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ with $images }}
+  {{ $s.SetInMap "data" "images" . }}
+{{ end }}
+{{ $variants := slice }}
+{{ with .variants }}
+  {{ with .edges }}
+    {{ range . }}
+      {{ with .node }}
+        {{ $title := .title }}
+        {{ if eq $title "Default Title" }}
+          {{ $title = "Price" }}
+        {{ end }}
+        {{ $variants = $variants | append (dict
+          "title" $title
+          "price" .price
+        ) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ with $variants }}
+  {{ $s.SetInMap "data" "variants" . }}
+  {{ with sort $variants "price" "asc"}}
+    {{ with index . 0 }}
+      {{ $s.SetInMap "data" "price" .price }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with .id }}
+  {{ $id := strings.TrimPrefix "gid://shopify/Product/" . | int }}
+  {{ $s.SetInMap "data" "id" $id }}
+  {{ with where site.RegularPages ".Params.shopify_id" $id }}
+    {{ with index . 0 }}
+      {{ $s.SetInMap "data" "Page" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $s.Get "data" }}

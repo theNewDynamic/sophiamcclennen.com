@@ -1,0 +1,18 @@
+import {defineConfig} from 'sanity'
+import {deskTool} from 'sanity/desk'
+import {visionTool} from '@sanity/vision'
+import {schemaTypes} from './schemas'
+import { markdownSchema } from "sanity-plugin-milkdown";
+export default defineConfig({
+  name: 'default',
+  title: 'Sophia McLennen',
+
+  projectId: 'ykx7ynrn',
+  dataset: 'test',
+
+  plugins: [deskTool(), visionTool(), markdownSchema()],
+
+  schema: {
+    types: schemaTypes,
+  },
+})

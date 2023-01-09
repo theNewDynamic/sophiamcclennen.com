@@ -51,7 +51,10 @@
   "modpack": "bin/hugo* mod npm pack",
   "prod:hugo": "HUGO_ENV=production bin/hugo* --gc --minify --cleanDestinationDir",
   "start": "npm run dev:hugo",
-  "version": "auto-changelog -p --template keepachangelog --unreleased true"
+  "version": "auto-changelog -p --template keepachangelog --unreleased true",
+  "sanity": "cd cms && npm run dev",
+  "gen": "bin/hugo* -s prebuild_sanity --cleanDestinationDir",
+  "gen_export": "bin/hugo* -s generate_export --cleanDestinationDir && cat public/index.json | json2nd > sanity_export.ndjson"
  },
  "version": "0.1.0"
 }

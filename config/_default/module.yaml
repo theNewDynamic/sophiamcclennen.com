@@ -8,6 +8,15 @@ mounts:
   # Returning partials are core elements which should sit at the root of the project.
   - source: func
     target: layouts/partials/func
+  - source: content/en
+    target: content
+    lang: en
+  - source: prebuild_sanity/public/book
+    target: content/book
+    lang: en
+  - source: prebuild_sanity/public/news
+    target: content/news
+    lang: en
 imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-seo
   - path: github.com/theNewDynamic/hugo-module-tnd-styles

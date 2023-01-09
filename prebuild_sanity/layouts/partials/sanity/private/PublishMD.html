@@ -1,0 +1,34 @@
+{{/*
+  Publish
+  Publish a page given its data, filepath, and format
+
+  @author @regisphilibert
+
+  @context Map (.)
+    String (.path)
+    Map (.data)
+
+  @access public
+
+  @returns True
+
+  @uses
+     - partial
+
+  @example - Go Template
+    {{ with partialCached "Publish" context context }}
+      {{ something = . }}
+    {{ end }}
+*/}}
+{{ $filename := .path }}
+{{ $data := .data }}
+{{ $content := .body | default "" }}
+{{ $format := "json" }}
+{{ $file := dict }}
+{{ if eq $format "json" }}
+  {{ $string := print (jsonify $data) "\n\n" $content }}
+  {{ $file = $string | resources.FromString $filename }}
+{{ end }}
+{{ with $file }}
+  {{ .Publish }}
+{{ end }}

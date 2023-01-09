@@ -1,0 +1,9 @@
+{{ $image := dict }}
+{{ if not (in . "%") }}
+  {{ $image = dict
+    "_type" "image"
+    "_sanityAsset" (printf "image@https://www.sophiamcclennen.com/%s" (trim . "/"))
+  }}
+{{ end }}
+
+{{ return $image }}

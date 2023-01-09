@@ -1,0 +1,22 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ $s.Set "data" (dict 
+  "_id" .File.UniqueID
+  "slug" (dict
+    "_type" "slug"
+    "current" (.Slug | default (urlize .Title))
+  )
+  "_type" "news"
+  "_createdAt" .Date
+  "publishedAt" .Date
+  "title" .Title
+)}}
+
+{{ $s.SetInMap "data" "title" .Title }}
+
+{{ with .Content }}
+  {{ $s.SetInMap "data" "body" $.RawContent }}
+{{ end }}
+
+{{ return $s.Get "data" }}

@@ -1,0 +1,19 @@
+{{ range $section := slice "news" "book" }}
+  {{ with resources.Get (printf "/groq/%s.groq" .) }}
+    {{ with $body := .Content }}
+      {{ with partial "sanity/private/Request" (dict
+      "body" (dict "query" $body | jsonify)
+      ) }}
+        {{ warnf "Sanity request for %s took %#v ms" $section .ms }}
+        {{ range .result }}
+          {{ $slug := .slug | default (urlize .title) }}
+          {{ partial "sanity/private/PublishMD" (dict
+            "path" (printf "/%s/%s.md" $section .slug)
+            "data" .
+            "body" .body
+          )}}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}

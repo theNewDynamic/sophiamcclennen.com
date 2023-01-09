@@ -1,0 +1,11 @@
+outputs:
+  home:
+    - JSON
+module:
+  mounts:
+  - source: content
+    target: content
+  - source: ../content/en/archive_news
+    target: content/news
+  - source: ../content/en/archive_book
+    target: content/book

@@ -1,0 +1,6 @@
+*[_type == "page"]{
+  _id,
+  title,
+  'slug': slug.current,
+  body,
+}

@@ -24,6 +24,9 @@ mounts:
   - source: prebuild_sanity/public/post
     target: content/post
     lang: en
+  - source: prebuild_sanity/public/page
+    target: content/page
+    lang: en
   - source: data
     target: data
   - source: prebuild_sanity/public/data

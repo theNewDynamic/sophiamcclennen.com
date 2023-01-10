@@ -1,4 +1,4 @@
-{{ range $section := slice "news" "book" "review" "post" }}
+{{ range $section := slice "news" "book" "review" "post" "page" }}
   {{ with resources.Get (printf "/groq/%s.groq" .) }}
     {{ with $body := .Content }}
       {{ with partial "sanity/private/Request" (dict

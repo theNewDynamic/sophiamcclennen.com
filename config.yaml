@@ -24,3 +24,10 @@ _collection_groups:
   - heading: Site
     collections:
       - pages      
+cascade:
+  - _target:
+      kind: '{page,section}'
+      lang: en
+      path: /archive_**
+    _build:
+      render: never

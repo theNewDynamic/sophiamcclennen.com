@@ -1,8 +1,8 @@
 import {defineField, defineType} from 'sanity'
 
 export default defineType({
-  name: 'news',
-  title: 'News',
+  name: 'post',
+  title: 'What I am watching',
   type: 'document',
   fields: [
     {
@@ -55,11 +55,26 @@ export default defineType({
       type: 'markdown',
     },
   ],
-
+  orderings: [
+    {
+      title: 'Published Date, New',
+      name: 'publishDateDesc',
+      by: [
+        {field: 'publishedAt', direction: 'desc'}
+      ]
+    },
+    {
+      title: 'Published Date, Old',
+      name: 'publishDateAsc',
+      by: [
+        {field: 'publishedAt', direction: 'asc'}
+      ]
+    },
+  ],
   preview: {
     select: {
       title: 'title',
-      date: 'publishedAt',
+      subtitle: 'publishedAt',
       media: 'image',
     },
   },

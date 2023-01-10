@@ -1,2 +1,2 @@
-{{ $types := slice "book" "news" "review" }}
+{{ $types := slice "post" }}
 {{ apply (where site.RegularPages "Type" "in" $types) "partial" "transformers/_" "." | jsonify }}

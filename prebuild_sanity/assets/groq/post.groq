@@ -1,0 +1,11 @@
+*[_type == "post"]{
+  _id,
+  title,
+  categories,
+  publication,
+  link_to_original,
+  'slug': slug.current,
+  'date': publishedAt,
+  'image': image.asset->url,
+  body,
+}

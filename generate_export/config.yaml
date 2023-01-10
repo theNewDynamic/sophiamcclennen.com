@@ -11,3 +11,5 @@ module:
     target: content/book
   - source: ../content/en/archive_review
     target: content/review
+  - source: ../content/en/archive_post
+    target: content/post

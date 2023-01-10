@@ -5,6 +5,6 @@
   link_to_original,
   'slug': slug.current,
   'date': publishedAt,
-  image{'src': asset->url},
+  'image': image.asset->url,
   body,
 }

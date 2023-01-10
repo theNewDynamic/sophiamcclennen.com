@@ -2,6 +2,7 @@
 # https://gohugo.io/hugo-modules/configuration/
 # https://www.thenewdynamic.com/article/hugo-modules-everything-from-imports-to-create/
 # ################################
+
 mounts:
   - source: layouts
     target: layouts
@@ -20,6 +21,10 @@ mounts:
   - source: prebuild_sanity/public/review
     target: content/review
     lang: en
+  - source: data
+    target: data
+  - source: prebuild_sanity/public/data
+    target: data
 imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-seo
   - path: github.com/theNewDynamic/hugo-module-tnd-styles

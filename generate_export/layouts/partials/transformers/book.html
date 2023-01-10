@@ -21,13 +21,17 @@
     {{ with .cover_image }}
       {{ $edition = merge $edition (dict "cover_image" (partial "transformers/image" .)) }}
     {{ end }}
-    {{ range $key := slice "publisher" "asin" }}
+    {{ range $key := slice "publisher" "asin" "binding" }}
       {{ with index $edition_input $key }}
         {{ $edition = merge $edition (dict $key .) }}
       {{ end }}
     {{ end }}
     {{ with .isbn }}
-      {{ $edition = merge $edition (dict "isbn" (string .)) }}
+      {{ $isbn := string . }}
+      {{ if in . "-" }}
+        {{ $isbn = replace . "-" "" }}
+      {{ end }}
+      {{ $edition = merge $edition (dict "isbn" $isbn) }}
     {{ end }}
     {{ $editions = $editions | append $edition }}
   {{ end }}

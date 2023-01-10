@@ -27,7 +27,7 @@
       {{ range .result }}
         {{ $slug := .slug | default (urlize .title) }}
         {{ partial "sanity/private/PublishMD" (dict
-          "path" "/data/settings.json"
+          "path" "/data/params.json"
           "data" .
         )}}
       {{ end }}

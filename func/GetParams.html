@@ -1,0 +1,19 @@
+{{/*
+  GetParams
+  Returns the site.Params with the Sanity siteSettings merged on top
+
+  @author @regisphilibert
+
+  @context Any (.)
+
+  @access private
+
+  @returns Map
+
+*/}}
+{{ $params := site.Params }}
+{{ with site.Data.params }}
+  {{ $params = merge $params . }}
+{{ end }}
+
+{{ return $params }}

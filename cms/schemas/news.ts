@@ -55,7 +55,22 @@ export default defineType({
       type: 'markdown',
     },
   ],
-
+  orderings: [
+    {
+      title: 'Published Date, New',
+      name: 'publishDateDesc',
+      by: [
+        {field: 'publishedAt', direction: 'desc'}
+      ]
+    },
+    {
+      title: 'Published Date, Old',
+      name: 'publishDateAsc',
+      by: [
+        {field: 'publishedAt', direction: 'asc'}
+      ]
+    },
+  ],
   preview: {
     select: {
       title: 'title',

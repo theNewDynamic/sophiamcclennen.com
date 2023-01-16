@@ -1,0 +1,5 @@
+funcs:
+  getenv:
+  - ^HUGO_
+  - ^SANITY_
+  # Add any environment variable use by Hugo.

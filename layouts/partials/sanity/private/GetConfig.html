@@ -18,4 +18,12 @@
   {{ $config = . }}
 {{ end }}
 
+{{ $overwrite_dataset := "" }}
+{{ with getenv "SANITY_DATASET" }}
+  {{ $overwrite_dataset = . }}
+{{ end }}
+{{ with $overwrite_dataset  }}
+  {{ $config = merge $config (dict "dataset" .) }}
+{{ end }}
+
 {{ return $config }}

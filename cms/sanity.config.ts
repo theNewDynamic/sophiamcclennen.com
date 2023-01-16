@@ -8,7 +8,7 @@ export default defineConfig({
   title: 'Sophia McLennen',
 
   projectId: 'ykx7ynrn',
-  dataset: 'test',
+  dataset: 'production',
 
   plugins: [deskTool(), visionTool(), markdownSchema()],
 

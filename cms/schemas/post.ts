@@ -74,8 +74,12 @@ export default defineType({
   preview: {
     select: {
       title: 'title',
-      subtitle: 'publishedAt',
+      date: 'publishedAt',
       media: 'image',
+    },
+    prepare(selection) {
+      const {date} = selection
+      return {...selection, subtitle: date && `on ${date}`}
     },
   },
 })

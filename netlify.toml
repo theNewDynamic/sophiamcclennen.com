@@ -1,27 +1,22 @@
 [build]
 publish = "public"
-command = "hugo --minify -e netlify"
+command = "hugo -s _prebuild && hugo --minify"
 
 [build.environment]
   GO_VERSION = "1.14"
   NODE_VERSION = "15.4.0"
   HUGO_VERSION = "0.108.0"
-
+  SANITY_DATASET = "test"
 [context]
 
 [context.production]
 
 [context.production.environment]
 HUGO_ENV = "production"
+SANITY_DATASET = "production"
 
 [context.deploy-preview]
 command = "hugo --minify -e netlify -D -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-command = "hugo --minify -e netlify -b $DEPLOY_URL"
-
-[context.master]
-command = "hugo --minify -e netlify -b $DEPLOY_URL"
-
-[context.use-sanity]
 command = "hugo -s _prebuild && hugo --minify -b $DEPLOY_URL"

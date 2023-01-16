@@ -62,5 +62,10 @@ export default defineType({
       date: 'publishedAt',
       media: 'image',
     },
+    prepare(selection) {
+      let {date} = selection
+      //date = new Date(date).toLocaleDateString('en-US')
+      return {...selection, subtitle: date && `on ${date}`}
+    },
   },
 })

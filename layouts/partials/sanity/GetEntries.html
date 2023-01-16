@@ -1,9 +1,10 @@
 {{ $entries := slice }}
+{{ $config := partialCached "sanity/private/GetConfig" "GetConfig" }}
 {{ range $section := slice "news" "book" "review" "post" "page" }}
   {{ with resources.Get (printf "/groq/%s.groq" .) }}
     {{ with $body := .Content }}
       {{ with partial "sanity/private/Fetch" . }}
-        {{ warnf "Sanity request for %s took %#v ms" $section .ms }}
+        {{ warnf "Sanity request for %s from dataset %s took %#v ms" $section $config.dataset .ms }}
         {{ range .result }}
           {{ $slug := .slug | default (urlize .title) }}
           {{ $entries = $entries | append (dict
@@ -20,7 +21,7 @@
 {{ with resources.Get "/groq/settings.groq" }}
   {{ with $body := .Content }}
     {{ with partial "sanity/private/Fetch" . }}
-      {{ warnf "Sanity request for %s took %#v ms" "Settings" .ms }}
+      {{ warnf "Sanity request for %s from dataset %s took %#v ms" "Settings" $config.dataset .ms }}
       {{ range .result }}
         {{ $slug := .slug | default (urlize .title) }}
         {{ $entries = $entries | append (dict

@@ -6,9 +6,14 @@ params:
   tnd_sanity:
     project_id: ykx7ynrn
     version: 2021-06-07
-    dataset: production
+    dataset: test
   tnd_data:
     quiet: true
+security:
+  funcs:
+    getenv:
+    - ^HUGO_
+    - ^SANITY_
 module:
   imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-data

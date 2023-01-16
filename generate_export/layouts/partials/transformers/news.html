@@ -1,0 +1,34 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ $categories := .Params.categories | default slice }}
+{{ $s.Set "data" (dict 
+  "_id" .File.UniqueID
+  "slug" (dict
+    "_type" "slug"
+    "current" (.Slug | default (urlize .Title))
+  )
+  "_type" "news"
+  "_createdAt" .Date
+  "publishedAt" .Date
+  "title" .Title
+)}}
+{{ range $key := slice "publication" "link_to_original" }}
+  {{ with index $.Params . }}
+    {{ $s.SetInMap "data" $key . }}
+  {{ end }}
+{{ end }}
+{{ with .Content }}
+  {{ $s.SetInMap "data" "body" $.RawContent }}
+{{ end }}
+
+{{ $image := false }}
+{{ with .Params.image }}
+  {{ $s.SetInMap "data" "image" (partial "transformers/image" .) }}
+{{ end }}
+
+{{ with .Params.categories }}
+  {{ $s.SetInMap "data" "categories" . }}
+{{ end }}
+
+{{ return $s.Get "data" }}

@@ -1,0 +1,29 @@
+{{/*
+  GetConfig
+  Retrives the configuration of the module
+
+  @author @regisphilibert
+
+  @context Any (.)
+
+  @access private
+
+*/}}
+{{ $config := dict }}
+{{ with site.Params.tnd_sanity }}
+  {{ $version := "2021-06-07" }}
+  {{ with .version }}
+    {{ $version = . }}
+  {{ end }}
+  {{ $config = . }}
+{{ end }}
+
+{{ $overwrite_dataset := "" }}
+{{ with getenv "SANITY_DATASET" }}
+  {{ $overwrite_dataset = . }}
+{{ end }}
+{{ with $overwrite_dataset  }}
+  {{ $config = merge $config (dict "dataset" .) }}
+{{ end }}
+
+{{ return $config }}

@@ -1,0 +1,35 @@
+{{ $entries := slice }}
+{{ $config := partialCached "sanity/private/GetConfig" "GetConfig" }}
+{{ range $section := slice "news" "book" "review" "post" "page" }}
+  {{ with resources.Get (printf "/groq/%s.groq" .) }}
+    {{ with $body := .Content }}
+      {{ with partial "sanity/private/Fetch" . }}
+        {{ warnf "Sanity request for %s from dataset %s took %#v ms" $section $config.dataset .ms }}
+        {{ range .result }}
+          {{ $slug := .slug | default (urlize .title) }}
+          {{ $entries = $entries | append (dict
+            "filepath" (printf "/%s/%s.md" $section .slug)
+            "data" .
+            "body" .body
+          ) }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with resources.Get "/groq/settings.groq" }}
+  {{ with $body := .Content }}
+    {{ with partial "sanity/private/Fetch" . }}
+      {{ warnf "Sanity request for %s from dataset %s took %#v ms" "Settings" $config.dataset .ms }}
+      {{ range .result }}
+        {{ $slug := .slug | default (urlize .title) }}
+        {{ $entries = $entries | append (dict
+          "filepath" "/data/params.json"
+          "data" .
+        )}}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $entries }}

@@ -1,0 +1,10 @@
+*[_type == "news"]{
+  _id,
+  title,
+  categories,
+  link_to_original,
+  'slug': slug.current,
+  'date': publishedAt,
+  'image': image.asset->url,
+  body,
+}

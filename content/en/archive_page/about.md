@@ -1,8 +1,5 @@
 ---
-title: About
-menu:
-  main:
-    weight: 10
+title: About Old
 summary: Sophia A. McClennen works on the intersections between culture, politics and society. Her books focus on cultural responses to complex social change, such as satire and contemporary politics or the power of storytelling in advancing human rights. She is professor of international affairs and comparative literature at Penn State University and founding director of the Center for Global Studies. She also has a regular column with Salon.com.
 
 date: 2021-05-03T21:17:58.338Z

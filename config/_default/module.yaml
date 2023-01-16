@@ -2,12 +2,25 @@
 # https://gohugo.io/hugo-modules/configuration/
 # https://www.thenewdynamic.com/article/hugo-modules-everything-from-imports-to-create/
 # ################################
+
 mounts:
   - source: layouts
     target: layouts
   # Returning partials are core elements which should sit at the root of the project.
   - source: func
     target: layouts/partials/func
+  - source: content/en
+    target: content
+    lang: en
+  - source: _prebuild/public
+    target: content
+    lang: en
+    excludeFiles: 
+    - data/params.json
+  - source: data
+    target: data
+  - source: _prebuild/public/data
+    target: data
 imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-seo
   - path: github.com/theNewDynamic/hugo-module-tnd-styles

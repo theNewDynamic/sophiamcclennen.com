@@ -1,0 +1,49 @@
+{{/*
+  shopify/Request
+  Perform a Request on the API. As they're using GraphQL, nothing much should change
+  except for the Body
+
+  @author @regisphilibert
+
+  @context Map
+    String (.body)
+
+  @access private
+
+  @returns Map (the response's .data)
+
+  @uses
+     - shopify/private/GetStoreEndpoint
+
+  @example - Go Template
+    {{ with partialCached "shopify/Request" context context }}
+      {{ something = . }}
+    {{ end }}
+*/}}
+{{ $url := partialCached "sanity/private/GetEndpoint" "GetEndpoint" }}
+{{ $output := "" }}
+{{ $headers := dict
+  "Content-Type" "application/groq"
+}}
+{{ $body := dict "query" $ | jsonify }}
+{{ with $url }}
+  {{ $args := dict
+    "method" "POST"
+    "headers" $headers
+    "body" $body
+  }}
+  {{ with $result := resources.GetRemote $url $args }}
+    {{ with .Err }}
+      {{ warnf (printf "API error: %#v for %s" . $url) }}
+      {{ with .Data }}
+        {{ warnf "%#v" . }}
+      {{ end }}
+    {{ else }}
+      {{ with .Content | unmarshal }}
+        {{ $output = . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $output }}

@@ -1,9 +1,19 @@
 main:
-  - name: News
-    params:
-      page: /news
-    weight: 30
+  - name: About
+    pageRef: /page/about.md
+    weight: 10
   - name: Articles
-    params:
-      page: /post
+    pageRef: /post/_index.md
     weight: 20
+  - name: News
+    pageRef: /news
+    weight: 30
+  - name: Books
+    pageRef: /book/_index.md
+    weight: 40
+  - name: Academic Writing
+    pageRef: /page/academic-writing.md
+    weight: 70
+  - name: Academics
+    pageRef: /page/teaching.md
+    weight: 80

@@ -1,0 +1,5 @@
+{{ $partial := "default" }}
+{{ if templates.Exists (printf "partials/transformers/%s.html" $.Type) }}
+  {{ $partial = $.Type }}
+{{ end }}
+{{ return partial (printf "partials/transformers/%s" $partial) $ }}

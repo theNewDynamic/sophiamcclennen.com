@@ -1,2 +1,3 @@
 news: /news/:slug/
 post: /what-im-watching/:slug
+page: /:slug

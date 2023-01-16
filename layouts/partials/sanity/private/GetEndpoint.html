@@ -1,0 +1,21 @@
+{{/*
+  GetStoreEndpoint
+  Retrieves the API endpoint based on the store's set domain
+
+  @author @regisphilibert
+
+  @context Any (.)
+
+  @access private
+
+  @returns String
+
+  @uses
+     - shopify/private/GetConfig
+*/}}
+{{ $config := partialCached "sanity/private/GetConfig" "GetConfig" }}
+{{ $url := "" }}
+{{ with $config }}
+  {{ $url = printf "https://%s.api.sanity.io/v%s/data/query/%s" .project_id .version .dataset }}
+{{ end }}
+{{ return $url }}

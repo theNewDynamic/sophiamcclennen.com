@@ -1,0 +1,15 @@
+*[_type == "book"]{
+  title,
+  'date': publishedAt,
+  'slug': slug.current,
+  'image': editions[0].cover_image.url,
+  'short_description': description,
+  body,
+  'editions': editions[]{
+    publisher,
+    'cover_image': cover_image.asset->url,
+    isbn,
+    asin => asin,
+    binding,
+  },
+}

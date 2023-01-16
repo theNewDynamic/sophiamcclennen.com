@@ -1,0 +1,14 @@
+{{ $image := dict }}
+{{ if not (in . "%") }}
+  {{ $src := . }}
+  {{ if not (in $src "http") }}
+    {{ $src = trim . "/" }}
+    {{ $src = printf "image@https://www.sophiamcclennen.com/%s" $src }}
+  {{ end }}
+  {{ $image = dict
+    "_type" "image"
+    "_sanityAsset" $src
+  }}
+{{ end }}
+
+{{ return $image }}

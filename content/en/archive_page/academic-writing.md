@@ -1,8 +1,5 @@
 ---
 title: Academic Writing
-menu:
-  main:
-    weight: 70
 date: 2021-05-03T21:22:44.140Z
 ---
 Here is a sampling of my academic writings including articles, book chapters, and book excerpts grouped by research area (Film and media studies, neoliberalism, human rights, Latin American and inter-american studies, comparative literature and comparative cultural studies, and higher education).  For more of my academic writing check out [my page](https://psu-us.academia.edu/SophiaMcClennen) at Academia.edu where you can find a number of my books in full text. 

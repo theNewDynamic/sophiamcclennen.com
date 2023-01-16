@@ -1,0 +1,56 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ $s.Set "data" (dict 
+  "_id" .File.UniqueID
+  "slug" (dict
+    "_type" "slug"
+    "current" (.Slug | default (urlize .Title))
+  )
+  "_type" "book"
+  "_createdAt" .Date
+  "publishedAt" .Date
+  "title" .Title
+)}}
+
+{{ with .Params.editions }}
+  {{ $editions := slice }}
+  {{ range  $edition_input := . }}
+    {{ $edition := dict }}
+    {{ $image := dict }}
+    {{ with .cover_image }}
+      {{ $edition = merge $edition (dict "cover_image" (partial "transformers/image" .)) }}
+    {{ end }}
+    {{ range $key := slice "publisher" "asin" "binding" }}
+      {{ with index $edition_input $key }}
+        {{ $edition = merge $edition (dict $key .) }}
+      {{ end }}
+    {{ end }}
+    {{ with .isbn }}
+      {{ $isbn := string . }}
+      {{ if in . "-" }}
+        {{ $isbn = replace . "-" "" }}
+      {{ end }}
+      {{ $edition = merge $edition (dict "isbn" $isbn) }}
+    {{ end }}
+    {{ $editions = $editions | append $edition }}
+  {{ end }}
+  {{ with $editions }}
+    {{ $s.SetInMap "data" "editions" . }}
+  {{ end }}
+{{ end }}
+
+{{ with .Params.short_description }}
+  {{ $s.SetInMap "data" "description" . }}
+{{ end }}
+
+{{ with .Content }}
+  {{ $s.SetInMap "data" "body" $.RawContent }}
+{{ end }}
+
+{{ $categories := .Params.categories | default slice }}
+{{ with .Params.categories }}
+  {{ $s.SetInMap "data" "categories" . }}
+{{ end }}
+
+{{ return $s.Get "data" }}

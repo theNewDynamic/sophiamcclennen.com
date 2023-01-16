@@ -23,7 +23,11 @@ node_modules
 # Hugo
 hugo_stats.json
 /public/
+/generate_export/public/
+/_prebuild/public/
 bin
 
 # Local Netlify folder
 .netlify
+sanity_export.ndjson
+_prebuild/.hugo_build.lock

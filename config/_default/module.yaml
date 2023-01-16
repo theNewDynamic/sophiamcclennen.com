@@ -12,24 +12,14 @@ mounts:
   - source: content/en
     target: content
     lang: en
-  - source: prebuild_sanity/public/book
-    target: content/book
+  - source: _prebuild/public
+    target: content
     lang: en
-  - source: prebuild_sanity/public/news
-    target: content/news
-    lang: en
-  - source: prebuild_sanity/public/review
-    target: content/review
-    lang: en
-  - source: prebuild_sanity/public/post
-    target: content/post
-    lang: en
-  - source: prebuild_sanity/public/page
-    target: content/page
-    lang: en
+    excludeFiles: 
+    - data/params.json
   - source: data
     target: data
-  - source: prebuild_sanity/public/data
+  - source: _prebuild/public/data
     target: data
 imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-seo

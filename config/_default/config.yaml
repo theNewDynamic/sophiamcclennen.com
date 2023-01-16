@@ -13,3 +13,12 @@ social:
   twitter: mcclennen65
   facebook: sophia.mcclennen
 googleAnalytics: UA-21655936-27
+cascade:
+- _target:
+    kind: '{page,section}'
+    lang: en
+    path: /archive_**
+  _build:
+    render: never
+ignoreFiles:
+  - /data.hugo

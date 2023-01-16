@@ -1,0 +1,27 @@
+caches:
+  getresource:
+    maxAge: 0
+cleanDestinationDir: true
+params:
+  tnd_sanity:
+    project_id: ykx7ynrn
+    version: 2021-06-07
+    dataset: production
+module:
+  imports:
+  - path: github.com/theNewDynamic/hugo-module-tnd-data
+  mounts:
+  - source: assets
+    target: assets
+  - source: ../content/en
+    target: assets
+  - source: ../assets/groq
+    target: assets/groq
+  - source: layouts
+    target: layouts
+  - source: ../layouts/partials
+    target: layouts/partials
+  - source: ../content/en
+    target: layouts/partials
+    excludeFiles: 
+    - "**.md"

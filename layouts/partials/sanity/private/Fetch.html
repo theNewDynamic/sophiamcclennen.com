@@ -25,9 +25,8 @@
 {{ $headers := dict
   "Content-Type" "application/groq"
 }}
-{{ $body := .body }}
+{{ $body := dict "query" $ | jsonify }}
 {{ with $url }}
-  {{ if true }}
   {{ $args := dict
     "method" "POST"
     "headers" $headers
@@ -44,7 +43,6 @@
         {{ $output = . }}
       {{ end }}
     {{ end }}
-  {{ end }}
   {{ end }}
 {{ end }}
 

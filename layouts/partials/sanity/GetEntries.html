@@ -1,17 +1,16 @@
+{{ $entries := slice }}
 {{ range $section := slice "news" "book" "review" "post" "page" }}
   {{ with resources.Get (printf "/groq/%s.groq" .) }}
     {{ with $body := .Content }}
-      {{ with partial "sanity/private/Request" (dict
-      "body" (dict "query" $body | jsonify)
-      ) }}
+      {{ with partial "sanity/private/Fetch" . }}
         {{ warnf "Sanity request for %s took %#v ms" $section .ms }}
         {{ range .result }}
           {{ $slug := .slug | default (urlize .title) }}
-          {{ partial "sanity/private/PublishMD" (dict
-            "path" (printf "/%s/%s.md" $section .slug)
+          {{ $entries = $entries | append (dict
+            "filepath" (printf "/%s/%s.md" $section .slug)
             "data" .
             "body" .body
-          )}}
+          ) }}
         {{ end }}
       {{ end }}
     {{ end }}
@@ -20,17 +19,16 @@
 
 {{ with resources.Get "/groq/settings.groq" }}
   {{ with $body := .Content }}
-    {{ with partial "sanity/private/Request" (dict
-    "body" (dict "query" $body | jsonify)
-    ) }}
+    {{ with partial "sanity/private/Fetch" . }}
       {{ warnf "Sanity request for %s took %#v ms" "Settings" .ms }}
       {{ range .result }}
         {{ $slug := .slug | default (urlize .title) }}
-        {{ partial "sanity/private/PublishMD" (dict
-          "path" "/data/params.json"
+        {{ $entries = $entries | append (dict
+          "filepath" "/data/params.json"
           "data" .
         )}}
       {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
+{{ return $entries }}

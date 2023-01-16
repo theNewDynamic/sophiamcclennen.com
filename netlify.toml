@@ -24,4 +24,4 @@ command = "hugo --minify -e netlify -b $DEPLOY_URL"
 command = "hugo --minify -e netlify -b $DEPLOY_URL"
 
 [context.use-sanity]
-command = "hugo -s prebuild_sanity && hugo --minify -b $DEPLOY_URL"
+command = "hugo -s _prebuild && hugo --minify -b $DEPLOY_URL"

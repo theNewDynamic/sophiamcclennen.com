@@ -18,4 +18,5 @@
 {{ with $config }}
   {{ $url = printf "https://%s.api.sanity.io/v%s/data/query/%s" .project_id .version .dataset }}
 {{ end }}
+
 {{ return $url }}

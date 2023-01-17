@@ -3,10 +3,6 @@ caches:
     maxAge: 0
 cleanDestinationDir: true
 params:
-  tnd_sanity:
-    project_id: ykx7ynrn
-    version: 2021-06-07
-    dataset: test
   tnd_data:
     quiet: true
 security:
@@ -17,9 +13,12 @@ security:
 module:
   imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-data
+  - path: github.com/theNewDynamic/huge
   mounts:
   - source: assets
     target: assets
+  - source: ../_huge
+    target: assets/_huge
   - source: ../content/en
     target: assets
   - source: ../assets/groq

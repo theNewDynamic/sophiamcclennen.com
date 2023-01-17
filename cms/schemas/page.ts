@@ -1,4 +1,5 @@
 import {defineField, defineType} from 'sanity'
+import SlugField from "./fields/slug"
 
 export default defineType({
   name: 'page',
@@ -10,15 +11,7 @@ export default defineType({
       title: 'Title',
       type: 'string',
     },
-    {
-      name: 'slug',
-      title: 'Slug',
-      type: 'slug',
-      options: {
-        source: 'title',
-        maxLength: 96,
-      },
-    },
+    SlugField,
     {
       name: 'body',
       title: 'Body',

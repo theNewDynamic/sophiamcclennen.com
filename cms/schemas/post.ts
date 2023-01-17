@@ -1,4 +1,5 @@
 import {defineField, defineType} from 'sanity'
+import SlugField from "./fields/slug"
 
 export default defineType({
   name: 'post',
@@ -10,25 +11,19 @@ export default defineType({
       title: 'Title',
       type: 'string',
     },
-    {
-      name: 'link_to_original',
-      title: 'Link To Original',
-      type: 'url',
-    },
+    SlugField,
+    
     {
       name: 'publication',
       title: 'Publication',
       type: 'string',
     },
     {
-      name: 'slug',
-      title: 'Slug',
-      type: 'slug',
-      options: {
-        source: 'title',
-        maxLength: 96,
-      },
+      name: 'link_to_original',
+      title: 'Link To Original',
+      type: 'url',
     },
+    
     {
       name: 'image',
       title: '',
@@ -46,7 +41,7 @@ export default defineType({
     },
     {
       name: 'publishedAt',
-      title: 'Published at',
+      title: 'Published on',
       type: 'datetime',
       initialValue: (new Date()).toISOString(),
     },

@@ -1,5 +1,6 @@
 import { defineType} from 'sanity'
 import { BookIcon } from '@sanity/icons'
+import SlugField from "./fields/slug"
 
 export default defineType({
   name: 'book',
@@ -12,10 +13,7 @@ export default defineType({
       title: 'Title',
       type: 'string',
     },
-    {
-      name: 'slug',
-      type: 'tnd-slug',
-    },
+    SlugField,
     {
       name: 'publishedAt',
       title: 'Date',

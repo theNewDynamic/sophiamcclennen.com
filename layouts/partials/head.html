@@ -8,12 +8,14 @@
   <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ site.Title }}" />
 {{ end }}
 
-{{ if partialCached "tnd-func/IsProduction" . }}
+{{ if partialCached "huge/env/IsProduction" . }}
   {{ template "_internal/google_analytics_async.html" . }}
 {{end}}
 
-{{ partial "tnd-seo/tags.html" . }}
+{{ partial "huge/seo/tags.html" . }}
 
-{{ partialCached "tnd-styles/tags.html" . }}
+{{ partialCached "huge/fonts/tags" "fonts" }}
 
-{{ partialCached "scripts.html" . }}
+{{ partialCached "huge/styles/tags" (slice "main") }}
+
+{{ partialCached "huge/scripts/tags" (slice "main") }}

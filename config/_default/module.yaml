@@ -9,6 +9,11 @@ mounts:
   # Returning partials are core elements which should sit at the root of the project.
   - source: func
     target: layouts/partials/func
+  # Huge's config is mounted in the assets directory
+  - source: assets
+    target: assets
+  - source: _huge
+    target: assets/_huge
   - source: content/en
     target: content
     lang: en
@@ -22,13 +27,11 @@ mounts:
   - source: _prebuild/public/data
     target: data
 imports:
-  - path: github.com/theNewDynamic/hugo-module-tnd-seo
-  - path: github.com/theNewDynamic/hugo-module-tnd-styles
+  - path: github.com/theNewDynamic/huge
   - path: github.com/theNewDynamic/hugo-module-tnd-menus
   - path: github.com/theNewDynamic/hugo-module-tnd-socials
   - path: github.com/theNewDynamic/hugo-module-tnd-headers
   - path: github.com/theNewDynamic/hugo-module-tnd-redirects
-  - path: github.com/theNewDynamic/hugo-module-tnd-netlifycms
   - path: github.com/theNewDynamic/hugo-module-tnd-icons
   - path: github.com/theNewDynamic/hugo-component-tnd-blocks
   - path: github.com/theNewDynamic/hugo-module-tnd-func

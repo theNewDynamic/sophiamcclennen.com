@@ -3,7 +3,7 @@ import SlugField from "./fields/slug"
 
 export default defineType({
   name: 'page',
-  title: 'Pages',
+  title: 'Other Pages',
   type: 'document',
   fields: [
     {

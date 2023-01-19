@@ -1,0 +1,31 @@
+{{/*
+  ParseArgs
+  Take a map of key/value pairs and 
+  1. Replaces the keys by its Sanity Media API equivalent (width > w, max-height > max-h etc...)
+  2. Stringifies the values.
+
+  @author @regisphilibert
+
+  @use
+    - tnd-imgix/private/GetAPIMapping
+
+  @context Map (args)
+
+  @access private
+
+  @return Map
+*/}}
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ $api := partialCached "sanity/private/media/GetAPIMapping" . "GetAPIMapping" }}
+{{ range $key, $val := $ }}
+  {{ $outputKey := $key }}
+  {{/* If they key is found in the APIMapping data, we replace it. */}}
+  {{ with index $api $key }}
+    {{ $outputKey = . }}
+  {{ end }}
+  {{ $s.SetInMap "data" $outputKey (string $val) }}
+{{ end }}
+
+{{ return $s.Get "data" }}

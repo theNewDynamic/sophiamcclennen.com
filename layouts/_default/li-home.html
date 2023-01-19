@@ -1,7 +1,13 @@
 <div class="md:flex">
   <div> 
     {{ with .Params.image }}
-      <img data-src="{{.}}" alt="" class="w-full mb-1 lazyload">
+      {{ with partialCached "sanity/media/Get" (dict
+        "asset" .
+        "width" 700
+      ) . 700 }}
+        <img data-src="{{.}}" alt="" class="w-full mb-1 lazyload">
+      {{ end }}
+
     {{ end }}        
   </div>
   <div>

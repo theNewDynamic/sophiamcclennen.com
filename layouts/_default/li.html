@@ -1,5 +1,10 @@
 {{ with .Params.image }}
+  {{ with partialCached "sanity/media/Get" (dict
+    "asset" .
+    "width" 700
+  ) . 700 }}
   <img data-src="{{.}}" alt="" class="max-w-full lazyload md:max-w-md">
+  {{ end }}
 {{ end }}
 <h2 class="max-w-xl text-3xl font-bold">
   <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>

@@ -1,3 +1,8 @@
 {{ with partialCached "tnd-books/GetBookCover" . . }}
+  {{ with partialCached "sanity/media/Get" (dict
+    "asset" .
+    "width" 500
+  ) . 500 }}
   <img data-src="{{ . }}" alt="Cover for {{ $.Title }}" class="shadow-md lazyload">
+  {{ end }}
 {{ end }}

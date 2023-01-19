@@ -1,40 +1,39 @@
 import { defineConfig } from 'sanity'
 import { deskTool } from 'sanity/desk'
 import { visionTool } from '@sanity/vision'
-import { schemaTypes } from './schemas'
 import { markdownSchema } from "sanity-plugin-markdown";
-import {deskStructureEditors} from './deskStructure'
+import { media } from 'sanity-plugin-media'
+import { schemaTypes } from './schemas'
+import { deskStructureEditors } from './deskStructure'
+
+
+const base = {
+  title: 'Sophia McLennen',
+  projectId: 'ykx7ynrn',
+  plugins: [deskTool({
+    structure: deskStructureEditors,
+  }),  markdownSchema(), media()],
+  schema: {
+    types: schemaTypes,
+  },
+}
 
 export default defineConfig([
   {
+    ...base,
     name: 'default',
-    title: 'Sophia McLennen',
     basePath: '/production',
-    projectId: 'ykx7ynrn',
     dataset: 'production',
-    plugins: [deskTool({
-      structure: deskStructureEditors,
-    }),  markdownSchema()],
-    schema: {
-      types: schemaTypes,
-    },
   },
-
-
   {
+    ...base,
     name: 'staging',
-    title: 'Sophia McLennen',
     basePath: '/staging',
     projectId: 'ykx7ynrn',
     dataset: 'production',    
-    plugins: [deskTool({
-      structure: deskStructureEditors,
-    }),  markdownSchema(),visionTool()],
-
-    schema: {
-      types: schemaTypes,
-    },
+    plugins: [
+      ...base.plugins,
+      visionTool()
+    ]
   },
-
-
 ])

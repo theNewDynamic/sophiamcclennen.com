@@ -1,0 +1,15 @@
+# ###############
+# HUGE Styles
+# https://github.com/theNewDynamic/huge/wiki/Styles
+# ###############
+styles:
+- name: main
+  path: css/style.scss
+  minify:
+  - staging
+  - production
+  fingerprint:
+  - staging
+  - production
+  use:
+    - tailwind

@@ -1,0 +1,13 @@
+# ###############
+# HUGE Scripts
+# https://github.com/theNewDynamic/huge/wiki/Scripts
+# ###############
+scripts:
+- name: main
+  path: /js/index.js
+  minify:
+  - staging
+  - production
+  fingerprint:
+  - staging
+  - production

@@ -1,6 +1,11 @@
 <div class="flex flex-col mb-8 shadow bg-gray-50">
   {{ with .Params.image }}
-    <img data-src="{{.}}" alt="" class="w-full mb-2 rounded-t lazyload">
+    {{ with partialCached "sanity/media/Get" (dict
+      "asset" .
+      "width" 700
+    ) . 700 }}
+      <img data-src="{{.}}" alt="" class="w-full mb-2 rounded-t lazyload">
+    {{ end }}
   {{ end }}
   <h2 class="max-w-4xl px-4 font-sans font-bold leading-tight">
     <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>

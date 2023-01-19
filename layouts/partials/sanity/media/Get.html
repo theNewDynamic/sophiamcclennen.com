@@ -1,0 +1,18 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" . }}
+{{ $url := "" }}
+{{ with .asset }}
+  {{ $url = . }}
+  {{ $s.DeleteInMap "data" "path" }}
+{{ end }}
+{{ $querify_args := slice }}
+{{ with partial "sanity/private/media/ParseArgs" ($s.Get "data") }}
+  {{ range $key, $v := . }}
+    {{ $querify_args = $querify_args | append (slice $key $v) }}
+  {{ end }}
+{{ end }}
+
+{{ with $querify_args }}
+  {{ $url = print $url "?" (querify .) }}
+{{ end }}
+{{ return $url }}

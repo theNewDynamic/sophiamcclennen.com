@@ -9,21 +9,17 @@
   @access private
 
 */}}
-{{ $config := dict }}
+{{ $config := dict "version" "2021-06-07" }}
+{{ $version := "2021-06-07" }}
 {{ with site.Params.tnd_sanity }}
-  {{ $version := "2021-06-07" }}
-  {{ with .version }}
-    {{ $version = . }}
-  {{ end }}
-  {{ $config = . }}
+  {{ $config = merge $config . }}
 {{ end }}
 
-{{ $overwrite_dataset := "" }}
-{{ with getenv "SANITY_DATASET" }}
-  {{ $overwrite_dataset = . }}
-{{ end }}
-{{ with $overwrite_dataset  }}
+{{ with partialCached "huge/env/GetVar" "SANITY_DATASET" "SANITY_DATASET" }}
   {{ $config = merge $config (dict "dataset" .) }}
+{{ end }}
+{{ with partialCached "huge/env/GetVar" "SANITY_PROJECT_ID" "SANITY_PROJECT_ID" }}
+  {{ $config = merge $config (dict "project_id" .) }}
 {{ end }}
 
 {{ return $config }}

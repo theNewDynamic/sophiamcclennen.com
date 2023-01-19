@@ -1,0 +1,26 @@
+fonts:
+- family: "Work Sans"
+  file: fonts/WorkSans-VariableFont_wght
+  style: normal
+  weight: 400
+  display: swap
+- family: "Work Sans"
+  file: fonts/WorkSans-Italic-VariableFont_wght
+  weight: 400
+  display: swap
+  style: italic
+- family: "Work Sans"
+  file: fonts/WorkSans-VariableFont_wght
+  weight: 700
+  display: swap
+  style: normal
+- family: "Work Sans"
+  file: fonts/WorkSans-Italic-VariableFont_wght
+  weight: 700
+  display: swap
+  style: italic
+- family: "Work Sans"
+  file: fonts/WorkSans-VariableFont_wght
+  weight: 600
+  display: swap
+  font-style: normal

@@ -48,6 +48,7 @@ export default defineType({
     {
       name: 'body',
       title: 'Body',
+      description: "click the column icon on the right to see rendered text.",
       type: 'markdown',
     },
   ],

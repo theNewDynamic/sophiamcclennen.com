@@ -19,7 +19,8 @@ export const deskStructureEditors = (S) =>
               { field: 'publishedAt', direction: 'desc' }
             ])
         ),
-      S.divider(),
+      
+        S.divider(),
 
       S.listItem()
         .title('Books')
@@ -30,16 +31,13 @@ export const deskStructureEditors = (S) =>
             ])
         ),
 
-
-
       S.listItem()
         .title('Reviews')
         .child(
           S.list()
           .title('Filters')
-          .items([
-            
-            
+          .items([            
+
             S.listItem()
               .title('Reviews by Book')
               .child(
@@ -55,65 +53,27 @@ export const deskStructureEditors = (S) =>
               ),
 
               S.listItem()
-        .title('Reviews')
-        .child(
-          S.documentTypeList('review')
-            .defaultOrdering([
-              { field: 'publishedAt', direction: 'desc' }
-            ])
-        ),
+                .title('Reviews')
+                .child(
+                  S.documentTypeList('review')
+                    .defaultOrdering([
+                      { field: 'publishedAt', direction: 'desc' }
+                    ])
+                ),
 
-              
-          
           ])),
-
-
-
-
-
-      //   S.listItem()
-      //   .title('Notes')
-      //   .child(S.list().title('Filters').items([
-      //     S.listItem()
-      //       .title('All Notes')
-      //       .child(
-      //         S.documentTypeList('post').defaultOrdering([{field: 'publishedAt', direction: 'desc'}])
-      //           .title('All Notes')
-      //       ),
-      //     S.listItem()
-      //       .title('Notes By Category')
-      //       .child(S.documentTypeList('category').title('Notes by Category')
-      //         .child((categoryId) => S.documentList().defaultOrdering([{field: 'publishedAt', direction: 'desc'}]).title('Posts').filter('_type == "post" && $categoryId in categories[]._ref').params({ categoryId }))
-      //       ),
-      //     S.listItem()
-      //       .title('Categories')
-      //       .child(S.documentTypeList('category').title('Categories')),
-      //   ])
-      // ),
-
-
-
-
-
-
-
-
-
 
 
         S.divider(),
 
         //CORE
-      ...S.documentTypeListItems().filter(listItem => !['post', 'news', 'book', 'review', 'siteSettings'].includes(listItem.getId())),
+      ...S.documentTypeListItems().filter(listItem => !['media.tag','post', 'news', 'book', 'review', 'siteSettings'].includes(listItem.getId())),
       
-
       S.listItem()
         .title('Site Settings')
         .child(
           S.document()
             .schemaType('siteSettings')
             .documentId('siteSettings')),
-
-
 
     ])

@@ -50,6 +50,7 @@ export default defineType({
       name: 'body',
       title: 'Body',
       type: 'markdown',
+      description: "click the column icon on the right to see rendered text.",
     },
   ],
   orderings: [

@@ -26,7 +26,7 @@ hugo_stats.json
 /generate_export/public/
 /_prebuild/public/
 bin
-
+resources
 # Local Netlify folder
 .netlify
 sanity_export.ndjson

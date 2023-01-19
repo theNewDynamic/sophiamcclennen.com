@@ -29,7 +29,6 @@ export default defineConfig([
     ...base,
     name: 'staging',
     basePath: '/staging',
-    projectId: 'ykx7ynrn',
     dataset: 'production',    
     plugins: [
       ...base.plugins,

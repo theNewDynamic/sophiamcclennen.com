@@ -14,11 +14,17 @@ export default defineType({
       name: 'slug',
       title: 'Slug',
       type: 'slug',
-      // hidden: true,
+      hidden: true,
       options: {
         source: 'title',
         maxLength: 96,
       },
+    },
+    {
+      name: 'publishedAt',
+      title: 'Published on',
+      type: 'datetime',
+      initialValue: (new Date()).toISOString(),
     },
     {
       name: 'related_book',
@@ -48,6 +54,7 @@ export default defineType({
   preview: {
     select: {
       title: 'title',
+      related_book: 'related_book',
       date: 'publishedAt',
       media: 'image',
     },

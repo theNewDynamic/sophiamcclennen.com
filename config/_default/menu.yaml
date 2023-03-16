@@ -17,3 +17,6 @@ main:
   - name: Academics
     pageRef: /page/teaching.md
     weight: 80
+  - name: Speaking
+    pageRef: /page/speaking.md
+    weight: 90   

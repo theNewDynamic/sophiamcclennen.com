@@ -3,4 +3,4 @@
 {{- with index $classes (string .Level) -}}
   {{- $class = . -}}
 {{- end }}
-<h{{ .Level }} id="{{ .Anchor | safeURL }}" class="{{ $class }} font-bold mb-4 mt-4m">{{ .Text | safeHTML }} <a href="#{{ .Anchor | safeURL }}">¶</a></h{{ .Level }}>
+<h{{ .Level }} id="{{ .Anchor | safeURL }}" class="{{ $class }} font-bold mb-4 mt-4m">{{ .Text | safeHTML }}</h{{ .Level }}>

@@ -1,11 +1,46 @@
 {{ define "main" }}
-<div class="container max-w-4xl font-sans lg:py-12">
+{{ $hideTitle := and (eq $.Type "page") .Params.image }}
+{{ $sidebar_blocks := slice }}
+{{ with .Params.side_blocks }}
+  {{ $sidebar_blocks = . }}
+{{ end }}
+<div class="container font-sans lg:py-12 {{ with $sidebar_blocks }}max-w-6xl {{ else }} max-w-4xl{{ end }}">
+  {{ if not $hideTitle }}
   <h1 class="text-3xl font-bold lg:text-5xl">
     <a href="{{ .RelPermalink }}" class="no-underline">{{ .Title | safeHTML }}</a>
-  </h1>  
-  <div class="my-12 prose prose-lg">
-    {{ .Content }}
-  </div>
+  </h1>
+  {{ end }}
+
+  {{ with $sidebar_blocks }}
+    <div class="grid my-12  gap-8 md:grid-cols-12">
+      <div class=" md:col-span-8">
+        <div class="prose prose-lg">
+          {{ $.Content }}
+        </div>
+      </div>
+      <div class="md:col-span-4">
+        {{ range . }}
+          <div>
+            {{ if eq .layout "quotes" }}
+              {{ range .quotes }}
+              <div class="prose mb-4">
+                <blockquote>
+                  {{ $.Page.RenderString . }}
+                </blockquote>
+              </div>
+              {{ end }}
+            {{ end }}
+          </div>
+      {{ end }}
+      </div>
+    </div>
+  {{ else }}
+    <div class="my-12 prose prose-lg">
+      {{ .Content }}
+    </div>
+  {{ end }}
+
    {{ partial "link-to-original" . }}
 </div>
 {{ end }}
+

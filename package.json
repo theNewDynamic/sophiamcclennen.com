@@ -43,6 +43,7 @@
   "cms": "npx netlify-cms-proxy-server",
   "deploy": "npm run prod:hugo",
   "dev:cms": "run-p cms hugo-cms",
+  "test": "hugo -s _prebuild",
   "dev:hugo": "HUGO_ENV=development bin/hugo* server --minify -D --gc --navigateToChanged --noHTTPCache",
   "dev:netlify": "netlify dev -l",
   "gethugo": "bash get-hugo.sh",

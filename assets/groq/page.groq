@@ -1,6 +1,14 @@
 *[_type == "page"]{
   _id,
   title,
+  'image': image.asset->url,
   'slug': slug.current,
   body,
+  side_blocks[]{
+    _type == 'blocks/quotes' => {
+      'layout': 'quotes',
+      title,
+      quotes,
+    }
+  }
 }

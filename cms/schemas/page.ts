@@ -1,5 +1,6 @@
 import {defineField, defineType} from 'sanity'
 import SlugField from "./fields/slug"
+import image from './fields/image'
 
 export default defineType({
   name: 'page',
@@ -12,6 +13,15 @@ export default defineType({
       type: 'string',
     },
     SlugField,
+    image,
+    {
+      name: 'side_blocks',
+      title: "Sidebar",
+      type: "array",
+      of: [
+        {type: 'blocks/quotes'}
+      ]
+    },
     {
       name: 'body',
       title: 'Body',

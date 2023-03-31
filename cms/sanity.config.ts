@@ -27,9 +27,10 @@ export default defineConfig([
   },
   {
     ...base,
+    title: base.title + '(Dev)',
     name: 'staging',
     basePath: '/staging',
-    dataset: 'production',    
+    dataset: 'staging',    
     plugins: [
       ...base.plugins,
       visionTool()

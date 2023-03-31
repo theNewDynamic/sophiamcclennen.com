@@ -6,7 +6,7 @@ command = "hugo -s _prebuild --cleanDestinationDir && hugo --minify"
   GO_VERSION = "1.14"
   NODE_VERSION = "15.4.0"
   HUGO_VERSION = "0.108.0"
-  SANITY_DATASET = "test"
+  SANITY_DATASET = "staging"
 [context]
 
 [context.production]

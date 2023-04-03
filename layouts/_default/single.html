@@ -14,6 +14,7 @@
   {{ with $sidebar_blocks }}
     <div class="grid my-12  gap-8 md:grid-cols-12">
       <div class=" md:col-span-8">
+        {{ template "page_button" $ }}
         <div class="prose prose-lg">
           {{ $.Content }}
         </div>
@@ -35,12 +36,24 @@
       </div>
     </div>
   {{ else }}
-    <div class="my-12 prose prose-lg">
-      {{ .Content }}
+    <div class="my-12">
+      {{ template "page_button" $ }}
+      <div class="prose prose-lg">
+        {{ .Content }}
+      </div>
     </div>
+
   {{ end }}
 
    {{ partial "link-to-original" . }}
 </div>
 {{ end }}
 
+{{ define "page_button" }}
+  {{ with $cta := .Params.cta }}
+    {{ $copy := .copy | default "Click" }}
+    {{ with .url }}
+      <a href="{{ . }}" class="inline-block px-2 py-1 my-8 text-white bg-blue-600 rounded hover:bg-indigo-600">{{ $copy }}</a>
+    {{ end }}
+  {{ end }}
+{{ end }}

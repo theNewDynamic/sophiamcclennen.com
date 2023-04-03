@@ -1,5 +1,6 @@
 import {defineField, defineType} from 'sanity'
 import SlugField from "./fields/slug"
+import url from './fields/url'
 import image from './fields/image'
 
 export default defineType({
@@ -20,6 +21,18 @@ export default defineType({
       type: "array",
       of: [
         {type: 'blocks/quotes'}
+      ]
+    },
+    {
+      name: "cta",
+      title: "CTA",
+      type: "object",
+      fields: [
+        url,
+        {
+          type: "string",
+          name: "copy"
+        }
       ]
     },
     {

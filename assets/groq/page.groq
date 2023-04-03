@@ -4,6 +4,7 @@
   'image': image.asset->url,
   'slug': slug.current,
   body,
+  cta,
   side_blocks[]{
     _type == 'blocks/quotes' => {
       'layout': 'quotes',
